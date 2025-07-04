@@ -526,3 +526,64 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [04Jul2025 17:30:53.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/49063, l='ServerLevel[world]', x=32.91, y=74.00, z=-493.35] died, message: 'Librarian was slain by Zombie Bruiser'
 [04Jul2025 17:32:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
 [04Jul2025 17:35:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:37:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:38:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Safe Haven]
+[04Jul2025 17:39:12.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/83158, l='ServerLevel[world]', x=799.60, y=66.71, z=-532.98] died, message: 'Armorer was slain by Ghost'
+[04Jul2025 17:39:16.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:39:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Safe Haven]
+[04Jul2025 17:39:50.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/83446, l='ServerLevel[world]', x=785.52, y=67.00, z=-515.59] died, message: 'Butcher was slain by Ghost'
+[04Jul2025 17:39:57.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Is this... blood?]
+[04Jul2025 17:40:59.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was slain by Ghost
+[04Jul2025 17:43:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:44:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:45:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Is this... blood?]
+[04Jul2025 17:45:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has reached the goal [Ouch!]
+[04Jul2025 17:45:40.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:45:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:46:18.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:18.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:18.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:18.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:18.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:18.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:19.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.226] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.828] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:20.925] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:21.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:22.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:22.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:22.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:46:22.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:47:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:48:09.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/112982, l='ServerLevel[world]', x=63.65, y=63.00, z=-531.05] died, message: 'Leatherworker was slain by Sunleia'
+[04Jul2025 17:48:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
+[04Jul2025 17:49:15.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/119556, l='ServerLevel[world]', x=-17.86, y=64.00, z=-582.32] died: Ron1509 was slain by Sunleia
+[04Jul2025 17:49:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:52:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Isn't It Iron Pick]
+[04Jul2025 17:52:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Stone Age]

@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-04 17:17:18 +0000"
@@ -129,6 +135,18 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-04 16:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-04 17:32:30 +0000"
     },
     "done": true
   },
@@ -246,6 +264,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-04 17:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-04 17:13:41 +0000"
@@ -319,6 +343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 17:11:04 +0000"
@@ -331,9 +361,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-04 17:48:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-07-04 17:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-04 17:48:12 +0000"
     },
     "done": true
   },
@@ -358,6 +400,12 @@
   "spartanweaponry:recipes/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
     },
     "done": true
   },
@@ -433,6 +481,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-07-04 17:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-04 17:10:12 +0000"
@@ -493,6 +547,18 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
@@ -502,6 +568,12 @@
   "iceandfire:recipes/combat/deathworm_red_helmet": {
     "criteria": {
       "has_item": "2025-07-04 17:22:37 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_desert": "2025-07-04 17:39:17 +0000"
     },
     "done": true
   },
@@ -685,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 17:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-04 16:52:08 +0000"
@@ -694,6 +772,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-07-04 16:52:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-04 17:48:12 +0000"
     },
     "done": true
   },
@@ -718,6 +802,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-07-04 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 17:36:49 +0000"
     },
     "done": true
   },
@@ -754,6 +844,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-04 17:48:12 +0000"
     },
     "done": true
   },
@@ -877,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-04 17:33:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-04 17:11:04 +0000"
@@ -891,9 +993,16 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "pillager_outpost": "2025-07-04 17:10:41 +0000"
+      "pillager_outpost": "2025-07-04 17:10:41 +0000",
+      "illager_camp": "2025-07-04 17:44:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
@@ -985,6 +1094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
@@ -1033,9 +1148,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2025-07-04 17:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
     },
     "done": true
   },
@@ -1207,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-07-04 17:03:05 +0000"
@@ -1219,9 +1352,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-04 17:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-04 16:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
     },
     "done": true
   },
@@ -1291,6 +1436,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-04 17:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
@@ -1327,6 +1478,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 17:39:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_dagger": {
     "criteria": {
       "has_wood": "2025-07-04 17:10:12 +0000"
@@ -1336,6 +1499,12 @@
   "spartanweaponry:recipes/quiver_compartment": {
     "criteria": {
       "has_leather": "2025-07-04 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 17:36:49 +0000"
     },
     "done": true
   },
@@ -1411,6 +1580,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 17:36:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-07-04 16:52:08 +0000"
@@ -1423,6 +1604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 17:50:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-04 17:11:02 +0000"
@@ -1432,6 +1619,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-04 17:02:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 17:36:49 +0000"
     },
     "done": true
   },
@@ -1468,6 +1661,12 @@
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-04 17:33:52 +0000"
     },
     "done": true
   },
@@ -1531,9 +1730,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-04 17:32:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-07-04 16:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-04 17:35:54 +0000"
     },
     "done": true
   },

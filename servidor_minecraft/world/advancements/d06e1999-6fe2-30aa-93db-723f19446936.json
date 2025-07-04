@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 17:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-04 16:52:06 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-07-04 17:42:00 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-07-04 17:20:45 +0000"
@@ -254,6 +266,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-04 17:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-07-04 17:42:00 +0000"
     },
     "done": true
   },
@@ -492,6 +510,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-07-04 17:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-04 17:25:50 +0000"
@@ -597,6 +621,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:13:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_desert": "2025-07-04 17:38:45 +0000"
     },
     "done": true
   },
@@ -972,6 +1002,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 17:41:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-07-04 17:28:24 +0000"
@@ -1284,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-07-04 17:42:00 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:13:59 +0000"
@@ -1458,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-04 17:43:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2025-07-04 17:13:50 +0000"
@@ -1521,6 +1569,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-04 17:02:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-07-04 17:38:45 +0000"
     },
     "done": true
   },
@@ -1593,6 +1647,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-04 17:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 17:43:15 +0000"
     },
     "done": true
   },
@@ -1728,6 +1788,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-04 17:41:15 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-04 17:18:02 +0000"
@@ -1737,6 +1803,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-04 16:52:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2025-07-04 17:45:07 +0000"
     },
     "done": true
   },
