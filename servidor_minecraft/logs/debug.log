@@ -5679,3 +5679,692 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [04Jul2025 17:05:11.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [04Jul2025 17:05:23.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jul2025 17:05:23.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:21.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:23.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:25.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:25.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:06:25.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.679] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.728] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.877] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.929] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:25.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:26.031] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:26.078] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:26.129] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:26.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:26.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:26.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:26.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:26.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:06:28.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:28.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:06:28.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Monster Hunter]
+[04Jul2025 17:06:28.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:06:30.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.428] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:06:30.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:31.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:33.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:06:33.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:06:33.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:34.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:34.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:37.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:38.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:06:47.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT died because of Thornshell Crab
+[04Jul2025 17:06:54.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:08.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:10.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:12.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:14.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:15.237] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:52.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:53.784] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:54.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:07:56.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:08:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was shot by Pillager
+[04Jul2025 17:08:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:09:06.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:06.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:07.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:07.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:07.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:07.627] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:07.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:07.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:07.776] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:07.827] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.278] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:08.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.477] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:08.678] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:09.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.127] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.477] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:09.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.827] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:09.976] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.228] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.228] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.278] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.278] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.379] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.379] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:10.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.481] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.481] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.627] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.777] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:10.976] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.029] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.127] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.176] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:11.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:15.827] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:15.876] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:15.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:15.976] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:16.028] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:16.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:16.132] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:16.177] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:16.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:18.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:18.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:18.926] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:18.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.078] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.425] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:19.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.575] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.877] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:19.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.127] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.175] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.228] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.428] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:20.640] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:23.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:23.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:25.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:25.777] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:25.829] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:25.877] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:25.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:25.979] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.126] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.177] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.325] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.377] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.425] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.475] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.576] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.732] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.780] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.827] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.877] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.926] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:26.976] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.126] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.228] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.377] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.477] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.579] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.728] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.775] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.776] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.977] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:27.977] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.130] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.131] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.177] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.177] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.378] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.378] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.579] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.579] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.876] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:28.931] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.376] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.676] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.829] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.875] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:29.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:30.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:30.076] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:35.528] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:35.578] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:44.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:45.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:46.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:46.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:09:47.127] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.575] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.627] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.676] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:47.776] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.228] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.278] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.428] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.476] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.525] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.625] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:48.678] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:09:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Crops of the Wild]
+[04Jul2025 17:10:19.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:20.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:22.226] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:22.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:22.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:25.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:25.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:27.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:27.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:27.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:28.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:31.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:32.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:32.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:33.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:34.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:35.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:35.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:35.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:10:36.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:10:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Intruder Alert]
+[04Jul2025 17:10:43.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Intruder Alert]
+[04Jul2025 17:10:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Acquire Hardware]
+[04Jul2025 17:11:33.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:11:33.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:12:29.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:29.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:29.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:29.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:29.933] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:29.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.034] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.083] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.136] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:30.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:12:31.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:31.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:31.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:32.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:33.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:33.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:33.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:34.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:34.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:12:34.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:35.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:36.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:37.796] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:12:38.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:13:01.551] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:13:01.780] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior2 is being run through DFU (hash 6dedf627f70e92d0c4de628846bbc67f90a7607bd719158f74232f99848480ba), this will cause launch time delays
+[04Jul2025 17:13:02.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:13:02.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:13:02.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:13:03.397] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_12 is being run through DFU (hash 17d793b63ca9d68b4768627dc9cc1096709327c84ed1b074d26f54edf5629d92), this will cause launch time delays
+[04Jul2025 17:13:06.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:13:16.254] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_1 is being run through DFU (hash cadd627a5236f5cbea8fb46544db537f1301b4a8cf05db15c46d084cf70444a1), this will cause launch time delays
+[04Jul2025 17:13:16.295] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_4 is being run through DFU (hash c895dcb0da6588a9b8d940494345289708568088cb4a0f596f976c65cf55e6b8), this will cause launch time delays
+[04Jul2025 17:13:19.992] [Worker-Main-17/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_2 is being run through DFU (hash f808faa6113ededbf5ae7842125b611a586b2f8fc3cfde99dad971d3e190b72f), this will cause launch time delays
+[04Jul2025 17:13:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Sweet Dreams]
+[04Jul2025 17:13:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Sweet Dreams]
+[04Jul2025 17:13:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Acquire Hardware]
+[04Jul2025 17:16:33.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:16:33.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:17:17.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:17:17.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:17:18.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:17:42.667] [Worker-Main-2/DEBUG] [ModernFix/]: Structure iceandfire:graveyard/graveyard_top is being run through DFU (hash 73f10a8d37b28c30dbf0fdf4021118ab91cc7f7b598d227883a8bdaa03315ac3), this will cause launch time delays
+[04Jul2025 17:17:42.722] [Worker-Main-2/DEBUG] [ModernFix/]: Structure iceandfire:graveyard/graveyard_bottom is being run through DFU (hash 499a494d132f60a2cce77e9c63595fa13acaa9551ed6e9ccb4a0fd7ee55fe3a9), this will cause launch time delays
+[04Jul2025 17:18:01.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:18:01.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:18:01.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:18:04.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:18:05.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:18:05.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:18:05.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:19:53.736] [Worker-Main-1/DEBUG] [ModernFix/]: Structure waystones:village/desert/waystone is being run through DFU (hash 5acb5b060578cb1eb92dd528424c2635b6cc7be8b854e58450e2df50a8f8a045), this will cause launch time delays
+[04Jul2025 17:19:53.851] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:gerudo_village_goddess_statue is being run through DFU (hash 113095405cb6c9b909f521f5d73105fea9f52be6a3faef069f877695523b8dcd), this will cause launch time delays
+[04Jul2025 17:19:53.853] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:desert_village_horned_statue is being run through DFU (hash 77a8c01360d17bfb4f247c15e7cd52541d75440c60f8870003eba2e11be84c44), this will cause launch time delays
+[04Jul2025 17:19:53.855] [Worker-Main-1/DEBUG] [ModernFix/]: Structure iceandfire:village/desert_scriber_1 is being run through DFU (hash a4c7b209c6b9843cf1ae3380d95e5861ca6debff009fb170d0fdaeb52fa22a18), this will cause launch time delays
+[04Jul2025 17:19:53.961] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:horned_statue/yes is being run through DFU (hash 06d19a24ee4d6fde5eacf1628fed3f0c9fe3fa905c08bc7d260e3941a42a47d7), this will cause launch time delays
+[04Jul2025 17:19:53.963] [Worker-Main-1/DEBUG] [ModernFix/]: Structure paraglider:horned_statue/no is being run through DFU (hash 98d9d2d193d330792a784759140d77315dafdf1286fa46978534267f8e25ec91), this will cause launch time delays
+[04Jul2025 17:19:56.183] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_center2 is being run through DFU (hash 72b8e2336516c2d8ecf50dee350529a3a726076f23e6180ceec094c3112e764e), this will cause launch time delays
+[04Jul2025 17:19:56.194] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village_swamp/swamp_village_center2 is being run through DFU (hash 0bcaec54346f75c21636b5deeea39a078cd280ebf4067be7612a0eb19adc1fd6), this will cause launch time delays
+[04Jul2025 17:20:11.820] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_6_main is being run through DFU (hash 95b2db72dc9e5f8b3ebefc1ca0e863a6b019689f1b27f3df017b2feb67f146bf), this will cause launch time delays
+[04Jul2025 17:20:11.858] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[04Jul2025 17:20:11.996] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main is being run through DFU (hash ac776f2a583c6e27bcdc0165a41f89fa798b0f4411f874043e95c831da2b5725), this will cause launch time delays
+[04Jul2025 17:20:12.064] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2 is being run through DFU (hash c4fc7d3a63861c81be423b6bbf151d9b2ab1905e3a95759dafafac875a37d737), this will cause launch time delays
+[04Jul2025 17:20:12.068] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1 is being run through DFU (hash f4b3a59727ff42cf7ac87ad332129ca8963bc60f7f6ea9fd28525fb68b38ba04), this will cause launch time delays
+[04Jul2025 17:20:12.101] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0 is being run through DFU (hash 182b7b0c03c08234c59298b0a4be1dec4495b5258fcc032273170c1b7bcfa1b5), this will cause launch time delays
+[04Jul2025 17:20:12.108] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0 is being run through DFU (hash 8e22f1995ddeddae8fb5553c310b09d6f3560cf1fa6374648e3ca930682e74b5), this will cause launch time delays
+[04Jul2025 17:20:12.116] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0 is being run through DFU (hash 032ce8fbfe59cfcc7ad911973d34108e5f9e6d56e3d24c0b1bf139f0b2aee16c), this will cause launch time delays
+[04Jul2025 17:20:12.124] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0 is being run through DFU (hash 8fa5a44dba83b2e521ff5c062b3fe31d1ca90bbb2963f240c8373ba8497c68f5), this will cause launch time delays
+[04Jul2025 17:20:12.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1 is being run through DFU (hash d73979b8202a24d6eb7e494d9d89f53516c4f2b644b0131d4b5f82c30d3a1dd8), this will cause launch time delays
+[04Jul2025 17:20:12.163] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_0 is being run through DFU (hash 115b537d7d99c49fb6d19ffb554faa27c41dc43ade2d87254034647a3ab747fe), this will cause launch time delays
+[04Jul2025 17:20:12.458] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[04Jul2025 17:20:12.620] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_5 is being run through DFU (hash a11f3cb96dfe230d7e581cbd2d1066f188184c45486300d588d0f2e0d4645fe2), this will cause launch time delays
+[04Jul2025 17:20:12.748] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_4 is being run through DFU (hash 78c773c124ff839eb7379a07f6bf264e74598bbd1de18f0d94135393510e5c80), this will cause launch time delays
+[04Jul2025 17:20:12.873] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_1 is being run through DFU (hash ab8c67af0e24d52a59769a697563eced996332d4f0c80342afe506ab0ec266d8), this will cause launch time delays
+[04Jul2025 17:20:16.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:16.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:17.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:17.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:18.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:19.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:22.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:24.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:25.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:25.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:26.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:28.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:29.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:29.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:30.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:30.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:31.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:32.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:32.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:33.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Ice Bucket Challenge]
+[04Jul2025 17:20:58.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:20:58.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:21:01.119] [Worker-Main-17/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_1 is being run through DFU (hash cc49619c6ddb56b523a4444322a58e8764016caeec5391d2369fdee2703c9ce1), this will cause launch time delays
+[04Jul2025 17:21:03.039] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_2 is being run through DFU (hash fef74d5a67f077b093772e564c05a16e782b5be427b6ff15de14e17ef33dfa47), this will cause launch time delays
+[04Jul2025 17:21:05.653] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house is being run through DFU (hash 43e97dda7471fb26115fda2d32c698c696097014af4dfdb106a9eaf986b25461), this will cause launch time delays
+[04Jul2025 17:21:06.844] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0 is being run through DFU (hash 0fc2e5041b9940d0e4952e62ef19b31ff9e017d47613f40a1446b7b8fa43080d), this will cause launch time delays
+[04Jul2025 17:21:06.893] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0 is being run through DFU (hash f518fd41fcc0d9ead21abfe0f4f667320dc3541ce4a576ae2d552f7bfc7da682), this will cause launch time delays
+[04Jul2025 17:21:06.939] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_0 is being run through DFU (hash 481f1751e2d5aa9f1514788d4bb883cde2da04f8309664a454b9f0ac4b23d0a9), this will cause launch time delays
+[04Jul2025 17:21:07.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:small_yacht/small_yacht_0 is being run through DFU (hash 027e5ac370392b93855fbcafd810cae5a734b844e0fb18f6aca516e48cf6e4aa), this will cause launch time delays
+[04Jul2025 17:21:07.156] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_0 is being run through DFU (hash ce08d91a0afdad6440182ee6e99a61c625dc329225643902e764b3d76d77653e), this will cause launch time delays
+[04Jul2025 17:21:25.828] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_5b is being run through DFU (hash 3989f505e26e367a6ff51499026fa2e8207f71b1d7ac829a06a0fe57b8758949), this will cause launch time delays
+[04Jul2025 17:21:27.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 moved too quickly! 3.5446746330721908,0.0,9.376500471960298
+[04Jul2025 17:21:33.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:21:33.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:21:44.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:21:45.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:21:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
+[04Jul2025 17:21:59.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:22:02.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:22:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:22:22.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [The Desert Swimmers]
+[04Jul2025 17:22:22.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:22:29.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:29.683] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:29.738] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:29.783] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:29.837] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:29.882] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:30.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:30.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:30.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:22:31.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:31.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:22:31.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.031] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.129] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:32.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:22:32.233] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.335] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.632] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.732] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.783] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:22:32.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Voluntary Exile]
+[04Jul2025 17:22:32.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:22:32.832] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.884] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.935] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:32.985] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.137] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.334] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.387] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.484] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.534] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.584] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.636] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.733] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:33.993] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.036] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.084] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.138] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.236] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.288] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.334] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.342] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_6 is being run through DFU (hash 5d8f10ddd51abe91dea9a58693237e5da5f29fc7e927c0b8bbb1ae2e31b853ae), this will cause launch time delays
+[04Jul2025 17:22:34.408] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.437] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.486] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.539] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.637] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.682] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.738] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.791] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.842] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:34.892] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Jul2025 17:22:39.968] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/bend2 is being run through DFU (hash 0f478b3d066e09bd18cd5d48f39f2f7ef40860a44aa2bb18a59614cbf35bd1c4), this will cause launch time delays
+[04Jul2025 17:22:39.974] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight2 is being run through DFU (hash 2cdb2d6fcdb2768c1c618707a21180a8d38b2f98cc1765891cf0d1f744b6e2f3), this will cause launch time delays
+[04Jul2025 17:22:39.976] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight1 is being run through DFU (hash 021121437b4b1d44760c99e0be3ef376f85ce195ba97a9080052be1e4e2f9085), this will cause launch time delays
+[04Jul2025 17:22:39.981] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight3 is being run through DFU (hash 1b8bc83fc07db6b945aec81ceccd4ed4f245a181417da337213ce35374151393), this will cause launch time delays
+[04Jul2025 17:22:39.983] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight4 is being run through DFU (hash 5612e3250cf2024a387c6d7c53e1413f1848eeb733b0d91113df0b6f857aad25), this will cause launch time delays
+[04Jul2025 17:22:39.984] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight5 is being run through DFU (hash 93d95a7ccec163fff9dc078375dcb873339bc8d92388a33546d36a2384b81beb), this will cause launch time delays
+[04Jul2025 17:22:39.985] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/straight6 is being run through DFU (hash e3505218e726eea53deb986deb45b9dcacb8b531998f1d817e74010e27c056d0), this will cause launch time delays
+[04Jul2025 17:22:39.987] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/t1 is being run through DFU (hash 446d3f69e48a3320408c27e077b0b9ca821eda90ed75e2394fba9ca4617063c9), this will cause launch time delays
+[04Jul2025 17:22:39.990] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/t2 is being run through DFU (hash 7ef44d33cbe7b17282ce3d6be45cfdffcf98bf2274baae57fd158dd90f55af3b), this will cause launch time delays
+[04Jul2025 17:22:39.994] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/bend1 is being run through DFU (hash 78768790d8806a5eb59b83080f12c16ecc961d049f2d35e510a6187b583bc79f), this will cause launch time delays
+[04Jul2025 17:22:39.997] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/roads/inter1 is being run through DFU (hash 344846de85630d7bb85fc70802890be766fbdadc47343471d240a9bfe8c6d16f), this will cause launch time delays
+[04Jul2025 17:22:39.999] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term1 is being run through DFU (hash 63b5ac322691aaa7cef3b6bf1cbc50b478553ca3ec5237a391116266c2a3ffb9), this will cause launch time delays
+[04Jul2025 17:22:40.000] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term2 is being run through DFU (hash 088ae3db7603d9c698951d26e63ab76ae8b60a695a56ec18487687f17b7ab6c7), this will cause launch time delays
+[04Jul2025 17:22:40.000] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term3 is being run through DFU (hash b47dd5da7e4d2f648703177bb5e06b2a354baa8a3b335727b7d416e8e9d752e7), this will cause launch time delays
+[04Jul2025 17:22:40.001] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/terminators/term4 is being run through DFU (hash 3ba032d920d8b2b6f03df3d2b6315699e7ffdb3be7db05b08b29f33de2682dce), this will cause launch time delays
+[04Jul2025 17:22:40.040] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic4 is being run through DFU (hash c17baeb927509c8ab2e8e710f3a290f7f064356a0fe531425cce932cc018aa01), this will cause launch time delays
+[04Jul2025 17:22:40.056] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/weaponsmith1 is being run through DFU (hash e772afd5670c93ef14ed472af85860b15fe17f6d6ee816a21b18fe3eea6c7b4a), this will cause launch time delays
+[04Jul2025 17:22:40.097] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/butcher1 is being run through DFU (hash 99063c21c4b352c9795556518be9d71df02233bc9075148fe85fe9e0bb1841ef), this will cause launch time delays
+[04Jul2025 17:22:40.122] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic2 is being run through DFU (hash f60b003ad4272f6497d916202e47117a4a5d89b49fbacfaa0b1b8eeb753a86ae), this will cause launch time delays
+[04Jul2025 17:22:40.185] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic5 is being run through DFU (hash e24c0ce26a6520d4873003a930fcc4f38fbd6b28fcf0451093e0e0e8c4b39f50), this will cause launch time delays
+[04Jul2025 17:22:40.404] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/shepherd1 is being run through DFU (hash cb621bafd795d41954e5f3d39ffd72b32661ada974ce7a92e1a3d914a2e4f1e5), this will cause launch time delays
+[04Jul2025 17:22:40.497] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fisherman1 is being run through DFU (hash 0c46aaac043d0993caf3a553e6bb257df94f7ce26bd575f553cce58d21d9e8a8), this will cause launch time delays
+[04Jul2025 17:22:40.527] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/armorsmith1 is being run through DFU (hash 590dd18bc9c9cec87e9b3ac80149032c8fadb236c432dd4b05761e0e4e33a101), this will cause launch time delays
+[04Jul2025 17:22:40.561] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/chapel1 is being run through DFU (hash 59ced20d339a075b001b623c55e1b0e77b08d329bdd923dede1a5f77de70a03a), this will cause launch time delays
+[04Jul2025 17:22:40.599] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic3 is being run through DFU (hash f2fbb9b300bb6b2095f92ed2602a561005005f435a6997df3ee01995ed031fb1), this will cause launch time delays
+[04Jul2025 17:22:40.615] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/library1 is being run through DFU (hash da2a26a4f3d9e06749c3730cde2207163fee8d4abcd43618ecaf800613f0badf), this will cause launch time delays
+[04Jul2025 17:22:40.662] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fisherman2 is being run through DFU (hash 8b6b06ca4a9a6c5eda3fc9de40942044758656786c28b458631ada12ec0e3fc7), this will cause launch time delays
+[04Jul2025 17:22:40.692] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic_big1 is being run through DFU (hash 9d32c8fe1ae632f7173f7c8757078ec554d1dfc2b331665e201cf5877535a7e1), this will cause launch time delays
+[04Jul2025 17:22:40.734] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/mason1 is being run through DFU (hash 97216763c8193c4b965bbb52e03131b9669b08fc79707bb4813708a453c80d1f), this will cause launch time delays
+[04Jul2025 17:22:40.870] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic6 is being run through DFU (hash dee2f402f577c3f014ccbec3dc15eaeff463306b1e285df2238849a747101734), this will cause launch time delays
+[04Jul2025 17:22:40.986] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/cartographer1 is being run through DFU (hash 2f178f69fb8faf46a07d2d6a83e4ba5b5f18820bf0221bd8ecd722037edd31c1), this will cause launch time delays
+[04Jul2025 17:22:41.119] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/fletcher1 is being run through DFU (hash 7721fcf29711d568be48de0210b02c3ad6989f8034f20de8cc235ce84fd9d06e), this will cause launch time delays
+[04Jul2025 17:22:41.360] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/cartographer2 is being run through DFU (hash d383526608b6a5364dd40d29289a5940ef5b02169bab2785d81781f86f7fb78b), this will cause launch time delays
+[04Jul2025 17:22:41.478] [Worker-Main-2/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/generic1 is being run through DFU (hash 77701ba2ff012e4eb0fd0ea8b7920630c7822b77e361d63028a61afb5374842a), this will cause launch time delays
+[04Jul2025 17:22:57.303] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[04Jul2025 17:23:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 burned to death
+[04Jul2025 17:23:57.227] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_spruce is being run through DFU (hash 34bee5cb066a5d99cc286a90cf190992cfd2b03b029591aae6084b0f0f5a07a3), this will cause launch time delays
+[04Jul2025 17:23:57.241] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_dark_oak is being run through DFU (hash fb365dd4568112118faa48985dbf40554039311e691b021d9126e2725c01055b), this will cause launch time delays
+[04Jul2025 17:23:57.252] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_oak is being run through DFU (hash 777e77557c8f9225a79f4b07fc6e5481178ad5792212b66bbf24f92f8f5a5e86), this will cause launch time delays
+[04Jul2025 17:23:57.266] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_savana is being run through DFU (hash f3ae5a5647ea2a0920511f0892f4796ee72a1ad9bd7d4776d65257b224e355f6), this will cause launch time delays
+[04Jul2025 17:24:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Made Ron1509 a server operator]
+[04Jul2025 17:24:35.085] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_house_dark_oak is being run through DFU (hash ac34d5c5cabb876919c087b2fd4420635c51238406bab1a87406482d0003a914), this will cause launch time delays
+[04Jul2025 17:24:35.180] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_farmer is being run through DFU (hash 7ba67ef9bc65ea2f6e93b0a980b47f980c7050e5d8974f9e1bb7a487c17fa333), this will cause launch time delays
+[04Jul2025 17:24:35.180] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_trader is being run through DFU (hash 0effec3f38e4969622b318408e1d3c87637fcb8e0ff075e9dfcfc9f8740fe2c8), this will cause launch time delays
+[04Jul2025 17:24:35.181] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_spruce is being run through DFU (hash 17039eb8ecc74a500484afd2b5988494d3255e1b1b55015a4cf31e1a4fecd94b), this will cause launch time delays
+[04Jul2025 17:24:35.182] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_spruce is being run through DFU (hash bb02976b88e2395d69c80cdf44bb2dc2eb1d975c199889bd7da9286dc714036c), this will cause launch time delays
+[04Jul2025 17:24:35.183] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_spruce is being run through DFU (hash 24a169260ea2f7524dd3b9fe85b50f2f177fe2ec5c4878a6b70180ce1f2c7843), this will cause launch time delays
+[04Jul2025 17:24:35.185] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_spruce is being run through DFU (hash ad8425bead9c3f92200708d682a9c082dfd6883582a1847b94cdf03dd0a964f1), this will cause launch time delays
+[04Jul2025 17:24:35.185] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_spruce is being run through DFU (hash 6875aaabb8458e4388924690b53d9d69dd22a80bc6288b9185c33b279939bcde), this will cause launch time delays
+[04Jul2025 17:24:35.186] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_spruce is being run through DFU (hash 3299cc61ca1a2f1f1e8d582447e9409ca44f261e745e62fb496cf0fd6c4540c6), this will cause launch time delays
+[04Jul2025 17:24:35.187] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_spruce is being run through DFU (hash 7884ff63adb03466a79e33a0543d41ec5c6063a36457e7c15f656cdd97b4cbef), this will cause launch time delays
+[04Jul2025 17:24:35.187] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_spruce is being run through DFU (hash 0a95bd33acd6405f4b5fed88d102708b575468607c81e5f0591f37f93c658bdb), this will cause launch time delays
+[04Jul2025 17:24:35.188] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_spruce is being run through DFU (hash f4c9e7c87cc97a6a709cd445aa3b63cc3869f9c1a365afd600e25f285b65dc79), this will cause launch time delays
+[04Jul2025 17:24:35.189] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_acacia is being run through DFU (hash 63ba303479d914baa70c46b3c9ea82aacd2bfdbc4c7931625f3d99053b9c9d87), this will cause launch time delays
+[04Jul2025 17:24:35.190] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_acacia is being run through DFU (hash 877855e3fd7caf300ba5e39f080d938a06b3d3fa4c5f857a1a089c6858fb6edb), this will cause launch time delays
+[04Jul2025 17:24:35.192] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_acacia is being run through DFU (hash abf3462ef5e7e59df7b05fa2b4f77445c20a9721eecfa642cd077143d63fd248), this will cause launch time delays
+[04Jul2025 17:24:35.193] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_acacia is being run through DFU (hash 9dd9d39e8533d516db94ada6a56d79c405d7688ffc18eebb1151befedb43573a), this will cause launch time delays
+[04Jul2025 17:24:35.193] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_acacia is being run through DFU (hash 59060f2ea42efe9f9df1f20aa715af52cd495b928c46f9381437ea6b7b78b0a1), this will cause launch time delays
+[04Jul2025 17:24:35.194] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_acacia is being run through DFU (hash bcbe7e02ceb770ba9320af3f34ed3b43ee95f385ad18afadb2f79523e8354dd9), this will cause launch time delays
+[04Jul2025 17:24:35.195] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_acacia is being run through DFU (hash d7f0588b5c79a5fca7485f04dd4787bba0a5062edbe5d0e8f8981986f1360c5d), this will cause launch time delays
+[04Jul2025 17:24:35.196] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_acacia is being run through DFU (hash 18a356efd6e4e344f13f7222bc3334713c1691a10e5c78141829b72b5fd36ed8), this will cause launch time delays
+[04Jul2025 17:24:35.197] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_acacia is being run through DFU (hash 07580b692de38d0f4ccdd44ec051640a3963d92b74075af5be4eb1d45c309f82), this will cause launch time delays
+[04Jul2025 17:24:35.198] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_birch is being run through DFU (hash 477c8fbab5b93062e27997c046c05744dd5c70a963228f58aa0c172ef217d580), this will cause launch time delays
+[04Jul2025 17:24:35.199] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_birch is being run through DFU (hash 6c6c7537d8817f56ff019aba186e82a98de2e928617dcc2a498ad76675219478), this will cause launch time delays
+[04Jul2025 17:24:35.200] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_birch is being run through DFU (hash 8daf78b8f264ec6b3aa78b5e9ea2e28450a718af68e5760404a132321a7aa6a1), this will cause launch time delays
+[04Jul2025 17:24:35.202] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_birch is being run through DFU (hash a32925b2ad353bbbb9c9a463fd7a003d27f670a4e4105f1456a0560626227f0f), this will cause launch time delays
+[04Jul2025 17:24:35.203] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_birch is being run through DFU (hash 3fff9754fa31ae55a5181cf6384ee7a258bcdae8a2b60e3483e78f5d010f7904), this will cause launch time delays
+[04Jul2025 17:24:35.204] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_birch is being run through DFU (hash 82f82c2d8c381b83a471bc8feb41a1e9297efa2fef70c95bd2a8af125a4be8d4), this will cause launch time delays
+[04Jul2025 17:24:35.205] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_birch is being run through DFU (hash 09d327a183050cf1d62896dae2d0acc9c8fd17962cbdbf1e7c3d5cce593db1a9), this will cause launch time delays
+[04Jul2025 17:24:35.206] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_birch is being run through DFU (hash a55a371fc5b05ee678a8a42b08f5f69e49216a21761e4b0f7fc72ee1cbd2d8a6), this will cause launch time delays
+[04Jul2025 17:24:35.206] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_birch is being run through DFU (hash cd8a5a1332eae60db10cd86b947227e3a4bcf2735fe76d5f623b9b82c948b5b2), this will cause launch time delays
+[04Jul2025 17:24:35.207] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_desert is being run through DFU (hash 705ae1cc5d7631e63fda4a1f6ad3d98b3c16fb2bd7c551dd405aebb85a272981), this will cause launch time delays
+[04Jul2025 17:24:35.208] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_desert is being run through DFU (hash 1b802611b90b9c7e1e22bb87114ec1ce037577c5fcee48299b8f74325a11c3c0), this will cause launch time delays
+[04Jul2025 17:24:35.209] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_desert is being run through DFU (hash db999c72381af8d60f7b60bcfa0697e64a731b25ea0ee66c8eac99808a29d726), this will cause launch time delays
+[04Jul2025 17:24:35.210] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_desert is being run through DFU (hash 4297845be159395bf1061b0b60d015a142cc8515e708fb3abc2fbfe21c3ee2da), this will cause launch time delays
+[04Jul2025 17:24:35.210] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_desert is being run through DFU (hash b3977395f434ea66192455520de2a44b359157f0fc59d2e0f328e5914bdecae6), this will cause launch time delays
+[04Jul2025 17:24:35.211] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_desert is being run through DFU (hash 846d99bcf80624125ba8508d65f2a41ba01f02386d0d25bf9fff84ef9f324fc6), this will cause launch time delays
+[04Jul2025 17:24:35.212] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_desert is being run through DFU (hash ab333b4316f4a5675d782a34a9eecce3a71392246ecb1f96df56a75a4b8413e5), this will cause launch time delays
+[04Jul2025 17:24:35.212] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_desert is being run through DFU (hash 640ac7e6858940734e2bdda3676ed50560628f90323bf4b68459b38567595361), this will cause launch time delays
+[04Jul2025 17:24:35.213] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_desert is being run through DFU (hash 2d2dc3520a9a0cdf1a33aaba5626b89d8a857745194715abada6b16133967549), this will cause launch time delays
+[04Jul2025 17:24:35.213] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_mangrove is being run through DFU (hash 2497ae2cf28f3e4d2d600be7251bb9fd816c7b96578a5d6b17cbfc9f4926ef87), this will cause launch time delays
+[04Jul2025 17:24:35.214] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_mangrove is being run through DFU (hash 2c5f9aea79fafb3f49ef442cff4451053b9c20edb8e81f0d8ee24b751dd9eac2), this will cause launch time delays
+[04Jul2025 17:24:35.214] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_mangrove is being run through DFU (hash 14b5508469ffaba301346d11d3ac251150b56f1614245bcb0f372100c799c7e5), this will cause launch time delays
+[04Jul2025 17:24:35.215] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_mangrove is being run through DFU (hash d0c73612e4c3d62ab9425ef6764e66b7abfb1b46ba31f1ea6d04da8112d1177e), this will cause launch time delays
+[04Jul2025 17:24:35.215] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_mangrove is being run through DFU (hash d95cfaf85dfb354cf32e4db575eb64bc3343e650c72abb8528721003dab05562), this will cause launch time delays
+[04Jul2025 17:24:35.216] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_mangrove is being run through DFU (hash 09e7aa54f79fb9455e02d339d84380bfca2c96baf635f337736e483af373f2ac), this will cause launch time delays
+[04Jul2025 17:24:35.216] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_mangrove is being run through DFU (hash df6ff6ed27dc5146b97ff70a6f572336c2fb698b9a2cf56ece6d7ec3bfc0a12a), this will cause launch time delays
+[04Jul2025 17:24:35.217] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_mangrove is being run through DFU (hash 2b2683707a17974e0eb925ff0b163a6f048cbd5f4cda80cc692bb280002f4af8), this will cause launch time delays
+[04Jul2025 17:24:35.217] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_mangrove is being run through DFU (hash 1a04bba0fc04bc91c25623db8a2da4c479c8c778f79e0881572d3d25f20708df), this will cause launch time delays
+[04Jul2025 17:24:35.218] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_dark_oak is being run through DFU (hash 0fd3a56aacfa2974e2ef389288f88224223267ebf94eb7d15081a86141d69b52), this will cause launch time delays
+[04Jul2025 17:24:35.219] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_dark_oak is being run through DFU (hash 5e4272ed678f777fda41b2b8c7b278d735ff33921203cf2b37b3784b024bad09), this will cause launch time delays
+[04Jul2025 17:24:35.221] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_dark_oak is being run through DFU (hash 7fcecb623f33d568703c9e6215b8f60b3beb4a7cbda0a46073c2222855af07b3), this will cause launch time delays
+[04Jul2025 17:24:35.222] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_dark_oak is being run through DFU (hash 897eb1a85ed0d1da5bc25226224490f6be9641d5ae8798a27b14223046e83e68), this will cause launch time delays
+[04Jul2025 17:24:35.225] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_dark_oak is being run through DFU (hash 68329545bc2dcdcac7c7c66ddcfa3265f9a3c7b7235889b4c9269e82027d8a97), this will cause launch time delays
+[04Jul2025 17:24:35.226] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_dark_oak is being run through DFU (hash 859f0b24eeecc741738657ccd0a2cb5a04959a60b9b2e90e2f90e43b01d82a78), this will cause launch time delays
+[04Jul2025 17:24:35.228] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_dark_oak is being run through DFU (hash 0246bd118a68ecab1d1568221cc2884d4cc1aff230460c6f643a0196e55da033), this will cause launch time delays
+[04Jul2025 17:24:35.229] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_wandering_farmer_dark_oak is being run through DFU (hash 58194e1a96c30d7eaccc51a7b5bfe271b67cb4b48246d66728e0fb8e78c718fb), this will cause launch time delays
+[04Jul2025 17:24:35.231] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_dark_oak is being run through DFU (hash dcc757167a5409d21d0e59e4ab3ff7381ac1ea647b3d97b9417c71661c2f284d), this will cause launch time delays
+[04Jul2025 17:24:35.233] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_dark_oak is being run through DFU (hash 589878cab189b9ec3609caf092491ad71b461d0a016680fc30a07c05a2bc5279), this will cause launch time delays
+[04Jul2025 17:24:35.234] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_oak is being run through DFU (hash 16ec8b2e830cd96cf20985658eca6bb44675d4015fa2ea78f34d99815158a7ca), this will cause launch time delays
+[04Jul2025 17:24:35.235] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_oak is being run through DFU (hash 1a3641acf65ca5351894f926328ec5bae62653b4462fcb711741fd2fa1234cbc), this will cause launch time delays
+[04Jul2025 17:24:35.235] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_oak is being run through DFU (hash cda702c3168a62e38edde6ce24455def5024f5e8783c2cdce92a2da416b5e096), this will cause launch time delays
+[04Jul2025 17:24:35.236] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_oak is being run through DFU (hash ced3f83cb0bb94a7668ecf3162ef7127e9b7f6d5c8c62d2758db6b29cb4e873f), this will cause launch time delays
+[04Jul2025 17:24:35.237] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_oak is being run through DFU (hash 675336fa11637aa89902c538bd5d857b3d9f385c92bf789d3698fa6450c9808c), this will cause launch time delays
+[04Jul2025 17:24:35.238] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_oak is being run through DFU (hash fe8d942a858f614eee87c60b60a6fb66f47ccfc34243e91215c993e91748ef2a), this will cause launch time delays
+[04Jul2025 17:24:35.238] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_oak is being run through DFU (hash c96ff2a9361f6b97db82b167f2a89bc9de37d9da0780a9c47ba62796aa183153), this will cause launch time delays
+[04Jul2025 17:24:35.239] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_oak is being run through DFU (hash caf24344ca0a8636eaaaabddb93ce85bb1278469a6e877be7fc7e57bdf8bbec3), this will cause launch time delays
+[04Jul2025 17:24:35.240] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_oak is being run through DFU (hash cf9791ae880cfb2f48283ac00e20fe496b48d5a74f5bb8f70aff2159983122ff), this will cause launch time delays
+[04Jul2025 17:24:35.240] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_cherry is being run through DFU (hash 46fe86d5a6130a07478c9bb787a688f5f122653d6de2839347b1248a0f0e37d0), this will cause launch time delays
+[04Jul2025 17:24:35.241] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_cherry is being run through DFU (hash 23dc0223674948d578e7aeb846962be02758c8407d604f53c422d83b30cd544c), this will cause launch time delays
+[04Jul2025 17:24:35.242] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_cherry is being run through DFU (hash 4a34dc095ccfe73e42d9327f8b2119df58e4555cdcd588a8acf513203d7f2f90), this will cause launch time delays
+[04Jul2025 17:24:35.243] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_cherry is being run through DFU (hash 3a8e1b1f73bf8d638ead3651a4dcdcc41fc307da95c5e66df43d1013c6d555c8), this will cause launch time delays
+[04Jul2025 17:24:35.243] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_cherry is being run through DFU (hash a48485c53abee1e7a73efcc4345be471507f49b2aa83ce62eba00f9dc782d971), this will cause launch time delays
+[04Jul2025 17:24:35.244] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_cherry is being run through DFU (hash 95c573b47d5429ce75e04acfdc9e887749f34dacb485bce46f7eb2c22ea56802), this will cause launch time delays
+[04Jul2025 17:24:35.244] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_cherry is being run through DFU (hash 9afbe86464e7d5b9f6590f3af3771c8abb7fdb055c59454c79630f92ce132416), this will cause launch time delays
+[04Jul2025 17:24:35.245] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_cherry is being run through DFU (hash 282a4da33def03e0ce2da9c46cfe46a824699f97145493404d32a32427fedcae), this will cause launch time delays
+[04Jul2025 17:24:35.246] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_cherry is being run through DFU (hash fafa5d8432fccea267fd09187fcce08065f34f9dbcf9cf3d49674e279ca30cb9), this will cause launch time delays
+[04Jul2025 17:24:35.246] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_swamp is being run through DFU (hash c52afd4e83bda37ebedaf088747670c9197f38abe2fc0edbc9066fd872cd182d), this will cause launch time delays
+[04Jul2025 17:24:35.247] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_swamp is being run through DFU (hash d93a81722902d3d023c77123d1b289ea5d943eca583f2db3ab4ddada2a23718d), this will cause launch time delays
+[04Jul2025 17:24:35.248] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_swamp is being run through DFU (hash e0b4ce4eaf983350843f048766dad2f3c085e4f5e24a537ff5904a8ebfe1b4a3), this will cause launch time delays
+[04Jul2025 17:24:35.248] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_swamp is being run through DFU (hash 6c843cc0fbd730e16202361361c94ae8605b44bda1c717faa87b517dcc14974c), this will cause launch time delays
+[04Jul2025 17:24:35.249] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_swamp is being run through DFU (hash 5a169090d209934acf6e482feab28fb2d657930e25bfeefd1f5402e74ca5a4c9), this will cause launch time delays
+[04Jul2025 17:24:35.249] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_swamp is being run through DFU (hash 22edabae7a0301ce72514dfa5a578b68442df6d98da85b089879948d2fa5816d), this will cause launch time delays
+[04Jul2025 17:24:35.250] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_swamp is being run through DFU (hash d3849ff9141d0501f1229eea2e798e1f9c4385ab261d1688904b68a6dcc0f0ac), this will cause launch time delays
+[04Jul2025 17:24:35.251] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_jungle is being run through DFU (hash 67374ff016109fc183c33c18e1f5e3d8c15d5f975a498021b309cd703a74a94a), this will cause launch time delays
+[04Jul2025 17:24:35.253] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_jungle is being run through DFU (hash a6487c10145dc78c32e85bfaaacad4c3bc1879eab50a18f5e55aff06472f6fa1), this will cause launch time delays
+[04Jul2025 17:24:35.253] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_jungle is being run through DFU (hash 61e9dbe02c35adbeb7183fe233ee0ffecf38669a5bac1ed37e4f14519ea4e3ef), this will cause launch time delays
+[04Jul2025 17:24:35.254] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_jungle is being run through DFU (hash 8f824323bdd5e918d3294b4d47e6ac3a9702df41556d1a1e1fc6deaba3a7c8e6), this will cause launch time delays
+[04Jul2025 17:24:35.255] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_jungle is being run through DFU (hash 2052a16449188190153d36cddacdacbf34683046bb951f8ea0c98ba1e6dfe980), this will cause launch time delays
+[04Jul2025 17:24:35.255] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_jungle is being run through DFU (hash 914e067f41ada9397f4aa5c0b258743cb1873a6d9374d0f8688e5880879cbd69), this will cause launch time delays
+[04Jul2025 17:24:35.256] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_jungle is being run through DFU (hash 91f89b1cf89af95837ceeb769e377f3ab5b2c2f8810fa90c8f2e28f958893cd8), this will cause launch time delays
+[04Jul2025 17:24:35.257] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_jungle is being run through DFU (hash 0a33a40294ae33ba63ca7a2fd91388aaec706301cbcd989a31b57992c42cbf3e), this will cause launch time delays
+[04Jul2025 17:24:35.257] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_jungle is being run through DFU (hash 365ebf3f57271c1ebab600a8d3e41bcb89131faab587755efda066848b153d94), this will cause launch time delays
+[04Jul2025 17:24:35.258] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_enterance_snowy is being run through DFU (hash eb4fc119383d6d4e5c26d8c524b73962bf572b773f054d95d01c7f9154472dc9), this will cause launch time delays
+[04Jul2025 17:24:35.258] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_middle_snowy is being run through DFU (hash e64bab2a6f251658013dc792f964b42557f9f6c05792e7c4770f8019a0701fcb), this will cause launch time delays
+[04Jul2025 17:24:35.259] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_fence_snowy is being run through DFU (hash 19aec05963606b76b20222a72947d50c706dcfc031a3a245abc98545ab032c8f), this will cause launch time delays
+[04Jul2025 17:24:35.260] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_animal_food_snowy is being run through DFU (hash f811e0da52deb70f63e327ab6de0a407c7b6a246c2d27c30e8b69515e14748f6), this will cause launch time delays
+[04Jul2025 17:24:35.260] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_hay_storage_snowy is being run through DFU (hash df7c023c1bcd4ac623c2051d6fb1306aa4e20160a0d30ab21a84ebe99eff606b), this will cause launch time delays
+[04Jul2025 17:24:35.261] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_log_snowy is being run through DFU (hash fa6ea84b110f0b2c8592133e08247714543720a77e87edb838b09c28844cbf44), this will cause launch time delays
+[04Jul2025 17:24:35.261] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trash_trader_snowy is being run through DFU (hash 33935775bd492becc11730c84e0d39f33bed6d7192705a52218ae47ca3e45601), this will cause launch time delays
+[04Jul2025 17:24:35.262] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_well_snowy is being run through DFU (hash 62dc12c66bcefef4d5ffc28536a4d16a7ecc6eb7aa2ecb0b3a098b962877844e), this will cause launch time delays
+[04Jul2025 17:24:35.262] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_food_supply_snowy is being run through DFU (hash 99a85b86964fe6a58d65bae4af83d9e7778279fcee8363b4348becbf2755d419), this will cause launch time delays
+[04Jul2025 17:24:35.263] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_cartographer is being run through DFU (hash 6e6312ee2b2a8a569a9a85ab877afa9d3764779a1faafef97bede8bdea9dd21e), this will cause launch time delays
+[04Jul2025 17:24:35.264] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_cleric is being run through DFU (hash 8ca276de099594ff75a4bc46f982ea7cfb1e0b99b9d698d7edcbe678fc304b79), this will cause launch time delays
+[04Jul2025 17:24:35.264] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_fisher is being run through DFU (hash 1f92f021d097bb4edb904b780850ebcdddb3449fc4d76961a08de0066b767834), this will cause launch time delays
+[04Jul2025 17:24:35.265] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_fletcher is being run through DFU (hash 8ded96c8156d618eb5c04356c97fa596b0e881d73010bfb471ad513564a601f8), this will cause launch time delays
+[04Jul2025 17:24:35.265] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_grindstone is being run through DFU (hash b5c8ed512cda24a2c36d0e515bd2563cfcf98cb476a8ba6846582eca2dff292f), this will cause launch time delays
+[04Jul2025 17:24:35.266] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_leather_worker is being run through DFU (hash 88d66ed2e8aeca6e4ee8318fe0a5973c9239b638dc25fae622103eb78de585a3), this will cause launch time delays
+[04Jul2025 17:24:35.266] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_librarian is being run through DFU (hash 6c098669be678d9f70acfaf0af33e7138bcaa1f325b27a7838c9038e67157c78), this will cause launch time delays
+[04Jul2025 17:24:35.267] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_loom is being run through DFU (hash 8f37cb7e885d81566455c32aea96a147a93755dcaba2b845e5ec7489a2d8a421), this will cause launch time delays
+[04Jul2025 17:24:35.268] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_smithing_table is being run through DFU (hash b6b78e102ebd79cd2369bd2edeca31f106da478b679aab0df709c4885071709e), this will cause launch time delays
+[04Jul2025 17:24:35.268] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_stonecutter is being run through DFU (hash d7c4e4fff4d117d33e5ab6bbd7b1ff8ff8039a3b1217e857c76d3d6de2f4247d), this will cause launch time delays
+[04Jul2025 17:24:35.269] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_armorer is being run through DFU (hash 01ed3fc532ffe58634105d1662dc7faf275eb3d048eecdcbc37840e077c92d0b), this will cause launch time delays
+[04Jul2025 17:24:35.269] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_event_trader_car_butcher is being run through DFU (hash da7407133e69c7f924c318f41c432b1e2527ddbf30f58d2de7ff2b64abda6dca), this will cause launch time delays
+[04Jul2025 17:24:35.270] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_villager is being run through DFU (hash 3a7ae2cf2152cadacb40ed60a300da54748bbb907ee9b8a0d56df751c8f13a3d), this will cause launch time delays
+[04Jul2025 17:24:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:25:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Global game stage has been changed to Master Mode.]

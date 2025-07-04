@@ -494,3 +494,29 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [04Jul2025 17:03:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
 [04Jul2025 17:03:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was shot by Pillager
 [04Jul2025 17:04:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:06:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Monster Hunter]
+[04Jul2025 17:06:47.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT died because of Thornshell Crab
+[04Jul2025 17:08:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was shot by Pillager
+[04Jul2025 17:08:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:09:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Crops of the Wild]
+[04Jul2025 17:10:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Intruder Alert]
+[04Jul2025 17:10:43.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Intruder Alert]
+[04Jul2025 17:10:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Acquire Hardware]
+[04Jul2025 17:13:06.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:13:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Sweet Dreams]
+[04Jul2025 17:13:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Sweet Dreams]
+[04Jul2025 17:13:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Acquire Hardware]
+[04Jul2025 17:20:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Ice Bucket Challenge]
+[04Jul2025 17:21:27.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 moved too quickly! 3.5446746330721908,0.0,9.376500471960298
+[04Jul2025 17:21:44.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:21:45.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:21:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
+[04Jul2025 17:21:59.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:22:02.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 17:22:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:22:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [The Desert Swimmers]
+[04Jul2025 17:22:32.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Voluntary Exile]
+[04Jul2025 17:23:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 burned to death
+[04Jul2025 17:24:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Made Ron1509 a server operator]
+[04Jul2025 17:24:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:25:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Global game stage has been changed to Master Mode.]
