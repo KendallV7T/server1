@@ -8314,3 +8314,107 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [04Jul2025 17:53:59.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jul2025 17:54:00.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04Jul2025 17:54:02.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:56:18.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:56:33.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:56:33.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:56:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Nightmare Stalker
+[04Jul2025 17:57:49.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:57:49.645] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:58:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 17:59:19.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/112991, l='ServerLevel[world]', x=39.68, y=80.00, z=-506.59] died, message: 'Fletcher bled to death'
+[04Jul2025 17:59:24.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/113349, l='ServerLevel[world]', x=57.53, y=63.00, z=-506.71] died, message: 'Farmer was slain by Sunleia'
+[04Jul2025 17:59:31.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:59:32.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:59:56.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/113103, l='ServerLevel[world]', x=58.83, y=69.00, z=-447.49] died, message: 'Butcher bled to death'
+[04Jul2025 18:00:06.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/113116, l='ServerLevel[world]', x=65.49, y=67.00, z=-462.30] died, message: 'Fletcher was slain by Sunleia'
+[04Jul2025 18:00:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
+[04Jul2025 18:01:05.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/154455, l='ServerLevel[world]', x=67.14, y=63.00, z=-484.86] died: Ron1509 was shot by Sunleia
+[04Jul2025 18:01:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 18:01:18.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:01:18.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:01:24.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/155315, l='ServerLevel[world]', x=61.85, y=63.00, z=-484.50] died: Ron1509 was slain by Sunleia
+[04Jul2025 18:01:32.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 18:01:33.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 18:01:33.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 18:01:47.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/113099, l='ServerLevel[world]', x=60.50, y=63.00, z=-486.16] died, message: 'Farmer was slain by Sunleia'
+[04Jul2025 18:01:48.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/156328, l='ServerLevel[world]', x=60.49, y=63.00, z=-487.03] died: LechugaVT was slain by Sunleia
+[04Jul2025 18:01:59.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/156280, l='ServerLevel[world]', x=63.45, y=64.00, z=-486.30] died: Ron1509 was slain by Sunleia
+[04Jul2025 18:02:04.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
+[04Jul2025 18:02:09.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/157289, l='ServerLevel[world]', x=59.96, y=63.00, z=-485.06] died: LechugaVT was slain by Sunleia
+[04Jul2025 18:02:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 18:02:46.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:02:46.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:02:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 18:02:59.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
+[04Jul2025 18:02:59.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
+[04Jul2025 18:03:29.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:31.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:34.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 18:03:43.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:43.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:45.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:46.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:46.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:50.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:50.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:50.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:50.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:51.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:51.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:52.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:53.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:53.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:53.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:53.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:56.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:56.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:56.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 18:03:57.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:57.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:58.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:03:58.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:03:58.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:00.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:00.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:04:01.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:01.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:04:01.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:01.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:04:01.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:02.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:02.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:04:03.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:03.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:04:04.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:04.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 18:04:04.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:08.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/162151, l='ServerLevel[world]', x=-42.51, y=64.00, z=-507.91] died: LechugaVT was slain by Sunleia
+[04Jul2025 18:04:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
+[04Jul2025 18:04:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 bled to death
+[04Jul2025 18:04:50.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:51.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:56.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:04:58.851] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:01.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:02.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:06.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:07.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:09.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:11.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:12.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:13.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:16.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:17.555] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:19.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:20.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:21.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:23.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:24.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:30.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:31.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:32.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:36.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:05:37.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 18:06:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
