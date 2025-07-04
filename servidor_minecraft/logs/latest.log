@@ -735,3 +735,94 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [04Jul2025 18:46:35.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.810695945743646
 [04Jul2025 18:46:35.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4568562423582989
 [04Jul2025 18:46:48.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has completed the challenge [Champion Hunter]
+[04Jul2025 18:47:10.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.31877596446975076
+[04Jul2025 18:47:10.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.113721329931652
+[04Jul2025 18:47:10.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.9244201385311317
+[04Jul2025 18:47:10.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.3024409195981216
+[04Jul2025 18:47:10.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.29839900511097633
+[04Jul2025 18:47:10.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2952765617655184
+[04Jul2025 18:47:11.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.29291348904489223
+[04Jul2025 18:47:11.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2910586540783361
+[04Jul2025 18:47:11.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2897079792296226
+[04Jul2025 18:47:11.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1055767028448815
+[04Jul2025 18:47:11.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.28779791419977785
+[04Jul2025 18:47:11.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1069312577836867
+[04Jul2025 18:47:11.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2867174326417676
+[04Jul2025 18:47:11.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2863304850114433
+[04Jul2025 18:47:11.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.285820743287995
+[04Jul2025 18:47:11.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1088901380291576
+[04Jul2025 18:47:11.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.28406564708302867
+[04Jul2025 18:47:11.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.26915057876802545
+[04Jul2025 18:47:11.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2668768544080378
+[04Jul2025 18:47:11.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2766308962862033
+[04Jul2025 18:47:11.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.29594266987839357
+[04Jul2025 18:47:11.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.32151005772281727
+[04Jul2025 18:47:11.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2817091946098418
+[04Jul2025 18:47:13.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.45635190117968705
+[04Jul2025 18:47:13.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1974620653450074
+[04Jul2025 18:47:13.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.9109135681942462
+[04Jul2025 18:47:13.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4029750431479897
+[04Jul2025 18:47:14.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.0560050623128063
+[04Jul2025 18:47:14.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.34027062582686085
+[04Jul2025 18:47:14.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.9298141408835363
+[04Jul2025 18:47:14.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.27638055398870165
+[04Jul2025 18:47:17.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8158699661436443
+[04Jul2025 18:47:17.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4729687322780497
+[04Jul2025 18:47:22.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8045348513664652
+[04Jul2025 18:47:23.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8067733854315252
+[04Jul2025 18:47:23.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8067733854315252
+[04Jul2025 18:47:31.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6512600418832736
+[04Jul2025 18:47:33.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.823830980237484
+[04Jul2025 18:47:56.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8289992016717946
+[04Jul2025 18:47:56.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.830278908374312
+[04Jul2025 18:47:56.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.830278908374312
+[04Jul2025 18:48:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Call For Adventure]
+[04Jul2025 18:49:00.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
+[04Jul2025 18:49:16.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5522672708233667
+[04Jul2025 18:50:00.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4380895838226641
+[04Jul2025 18:50:06.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8199009430338247
+[04Jul2025 18:50:07.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8196371924170451
+[04Jul2025 18:50:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
+[04Jul2025 18:50:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[04Jul2025 18:51:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
+[04Jul2025 18:52:25.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6263994023403376
+[04Jul2025 18:52:26.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6613921259672967
+[04Jul2025 18:52:34.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.39985486482628435
+[04Jul2025 18:52:55.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.43719763997620553
+[04Jul2025 18:53:02.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4916912133779611
+[04Jul2025 18:53:15.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4867286502786475
+[04Jul2025 18:53:25.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=49, z=1431} BlockPos{x=-251, y=48, z=1431}
+[04Jul2025 18:53:25.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=49, z=1431} BlockPos{x=-251, y=48, z=1431}
+[04Jul2025 18:53:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Best Friends Forever]
+[04Jul2025 18:53:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Free Willy]
+[04Jul2025 18:54:56.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.7473859817924631
+[04Jul2025 18:54:59.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.6400406698099335
+[04Jul2025 18:55:05.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.6768395773266583
+[04Jul2025 18:55:08.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8298145488479423
+[04Jul2025 18:55:12.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.671315446418968
+[04Jul2025 18:55:13.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8013511532290283
+[04Jul2025 18:55:13.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8013511532290283
+[04Jul2025 18:55:13.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8217679832843211
+[04Jul2025 18:55:13.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8217679832843211
+[04Jul2025 18:55:30.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.7885179861605903
+[04Jul2025 18:55:30.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8195001153560422
+[04Jul2025 18:55:33.687] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/295800, l='ServerLevel[world]', x=-795.50, y=37.00, z=1421.50] as it would cause deadlock
+[04Jul2025 18:55:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
+[04Jul2025 18:55:48.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 3.1001813365658526
+[04Jul2025 18:55:48.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 3.1001813365658526
+[04Jul2025 18:55:50.539] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 18:55:50.629] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 18:55:50.637] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 18:55:57.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 4.176587715164324
+[04Jul2025 18:56:04.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.793768980079166
+[04Jul2025 18:56:21.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5920528753117977
+[04Jul2025 18:56:37.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.3717302881201274
+[04Jul2025 18:56:37.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.3164923757954224
+[04Jul2025 18:56:40.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8292090192744613
+[04Jul2025 18:56:42.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5612155354466617
+[04Jul2025 18:56:42.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6048122178989649
+[04Jul2025 18:56:42.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6048122178989649
+[04Jul2025 18:56:42.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6074814140614919
+[04Jul2025 18:56:42.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6074814140614919
+[04Jul2025 18:56:45.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.26190964158231494
+[04Jul2025 18:56:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]

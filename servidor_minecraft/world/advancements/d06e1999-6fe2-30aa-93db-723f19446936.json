@@ -60,8 +60,11 @@
       "minecraft:sparse_jungle": "2025-07-04 17:04:22 +0000",
       "minecraft:lukewarm_ocean": "2025-07-04 18:26:47 +0000",
       "minecraft:river": "2025-07-04 17:02:30 +0000",
+      "minecraft:swamp": "2025-07-04 18:46:39 +0000",
       "minecraft:cold_ocean": "2025-07-04 18:38:34 +0000",
       "minecraft:forest": "2025-07-04 16:48:26 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-04 18:55:49 +0000",
+      "minecraft:frozen_ocean": "2025-07-04 18:47:26 +0000",
       "minecraft:desert": "2025-07-04 17:17:36 +0000",
       "minecraft:jungle": "2025-07-04 16:51:25 +0000",
       "minecraft:ocean": "2025-07-04 18:37:36 +0000",
@@ -2184,6 +2187,24 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 18:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-04 18:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-04 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-07-04 18:49:25 +0000"
     },
     "done": true
   },
