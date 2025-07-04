@@ -55,9 +55,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-07-04 18:40:32 +0000",
       "minecraft:beach": "2025-07-04 16:52:29 +0000",
       "minecraft:sparse_jungle": "2025-07-04 17:03:15 +0000",
       "minecraft:river": "2025-07-04 16:53:01 +0000",
+      "minecraft:swamp": "2025-07-04 18:45:25 +0000",
+      "minecraft:cold_ocean": "2025-07-04 18:40:21 +0000",
       "minecraft:forest": "2025-07-04 04:04:03 +0000",
       "minecraft:desert": "2025-07-04 17:17:37 +0000",
       "minecraft:jungle": "2025-07-04 16:54:27 +0000",
@@ -219,6 +222,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-04 17:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-04 18:41:31 +0000"
     },
     "done": true
   },
@@ -1738,6 +1747,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-04 18:41:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-07-04 17:10:59 +0000"
@@ -2038,6 +2053,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 18:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 17:10:12 +0000"
@@ -2152,6 +2173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-04 18:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-04 17:54:53 +0000"
@@ -2185,6 +2212,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-04 18:41:31 +0000"
     },
     "done": true
   },
@@ -2779,6 +2812,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-04 18:41:31 +0000"
     },
     "done": true
   },
