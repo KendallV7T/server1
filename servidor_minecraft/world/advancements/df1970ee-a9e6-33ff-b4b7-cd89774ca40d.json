@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-04 17:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-04 16:52:08 +0000"
@@ -259,9 +265,21 @@
     },
     "done": false
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-04 17:22:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 17:22:22 +0000"
     },
     "done": true
   },
@@ -379,6 +397,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 17:22:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-07-04 17:10:59 +0000"
@@ -472,6 +496,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 17:22:37 +0000"
     },
     "done": true
   },
@@ -1087,6 +1117,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 17:22:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-04 17:10:59 +0000"
@@ -1096,6 +1132,12 @@
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-07-04 17:10:12 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-04 17:25:07 +0000"
     },
     "done": true
   },
@@ -1180,6 +1222,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-04 16:52:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 17:22:37 +0000"
     },
     "done": true
   },
@@ -1315,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 17:23:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-04 17:02:34 +0000"
@@ -1432,6 +1486,12 @@
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
       "has_stick": "2025-07-04 16:52:08 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-07-04 17:25:07 +0000"
     },
     "done": true
   },

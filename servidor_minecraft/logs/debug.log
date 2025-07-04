@@ -6368,3 +6368,56 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [04Jul2025 17:24:35.270] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:tavern/tavern_villager is being run through DFU (hash 3a7ae2cf2152cadacb40ed60a300da54748bbb907ee9b8a0d56df751c8f13a3d), this will cause launch time delays
 [04Jul2025 17:24:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
 [04Jul2025 17:25:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Global game stage has been changed to Master Mode.]
+[04Jul2025 17:25:59.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:25:59.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:26:00.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:01.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:02.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:02.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:03.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:04.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:05.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:05.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:26:06.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:06.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:07.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:09.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:10.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:10.684] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:11.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:13.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:15.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:15.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:26:16.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:16.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:26:19.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:19.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:26:20.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Jul2025 17:26:20.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04Jul2025 17:26:33.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:26:33.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:27:04.701] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower is being run through DFU (hash 2aa736a9a69448128a627e66d29f383eec9329d7d67b343c8937211da710aa88), this will cause launch time delays
+[04Jul2025 17:27:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT went up in flames
+[04Jul2025 17:29:59.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/49244, l='ServerLevel[world]', x=-20.27, y=64.00, z=-498.50] died, message: 'Leatherworker was slain by Zombie Bruiser'
+[04Jul2025 17:30:23.392] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/49057, l='ServerLevel[world]', x=4.39, y=66.42, z=-472.30] died, message: 'Cleric was slain by Zombie Bruiser'
+[04Jul2025 17:30:53.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/49063, l='ServerLevel[world]', x=32.91, y=74.00, z=-493.35] died, message: 'Librarian was slain by Zombie Bruiser'
+[04Jul2025 17:31:33.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:31:33.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:32:15.172] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_1 is being run through DFU (hash e05cb017ec39f3d64bd0895da26c95f7becd230d1d88380757e2bc6aa62009b5), this will cause launch time delays
+[04Jul2025 17:32:15.239] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_5 is being run through DFU (hash f51dae16c51027e54c0d05189ad7f4ab570be0998ca7373227854d05ab73788c), this will cause launch time delays
+[04Jul2025 17:32:15.290] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots is being run through DFU (hash 1fcf0be77235eb2856b015f542c7567c1ee719faf21946285911305a59f6ef65), this will cause launch time delays
+[04Jul2025 17:32:21.354] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_jungle is being run through DFU (hash 8a061e8290b125c47b638267fd25e882a82ddf02265ce2d267d80122e4d6c0f1), this will cause launch time delays
+[04Jul2025 17:32:21.367] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_birch is being run through DFU (hash faf49dca989697854006539fd758f66768eed6a63446e4f112ee4d604886fd0c), this will cause launch time delays
+[04Jul2025 17:32:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:35:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
+[04Jul2025 17:35:58.743] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (660 | 44 | -396).
+[04Jul2025 17:35:58.744] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[04Jul2025 17:35:58.746] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[04Jul2025 17:35:58.746] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[04Jul2025 17:35:58.747] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[04Jul2025 17:35:58.747] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[04Jul2025 17:35:58.747] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 12(0) Nodes and 6(0) Rooms
+[04Jul2025 17:35:58.747] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[04Jul2025 17:35:58.748] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 10(0) Nodes and 6(0) Rooms
+[04Jul2025 17:35:58.748] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[04Jul2025 17:35:58.748] [Worker-Main-11/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
