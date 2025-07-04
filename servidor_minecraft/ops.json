@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "df1970ee-a9e6-33ff-b4b7-cd89774ca40d",
+    "name": "LechugaVT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
