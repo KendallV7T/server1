@@ -1015,3 +1015,20 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 21:39:01.267] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player LechugaVT
 [05Jul2025 21:39:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT joined the game
 [05Jul2025 21:39:01.334] [Server thread/INFO] [Jade/]: Syncing config to LechugaVT (df1970ee-a9e6-33ff-b4b7-cd89774ca40d)
+[05Jul2025 21:41:22.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moiso lost connection: Disconnected
+[05Jul2025 21:41:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso left the game
+[05Jul2025 21:42:13.138] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23a8986f[id=<null>,name=Moiso,properties={},legacy=false] (/127.218.148.102:43365) lost connection: Disconnected
+[05Jul2025 21:52:41.892] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19493e58[id=<null>,name=Moiso,properties={},legacy=false] (/127.218.148.102:42919) lost connection: Disconnected
+[05Jul2025 21:53:48.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moiso[/127.218.148.102:35967] logged in with entity id 303401 at (54.62272862573149, 69.0, -418.2011485953883)
+[05Jul2025 21:53:48.259] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Moiso
+[05Jul2025 21:53:48.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso joined the game
+[05Jul2025 21:53:48.307] [Server thread/INFO] [Jade/]: Syncing config to Moiso (d6803dfb-65b9-3514-ae7c-d391c6c02d35)
+[05Jul2025 21:55:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 21:55:43.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Spectator Mode]
+[05Jul2025 21:56:18.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 21:56:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 21:56:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Take Aim]
+[05Jul2025 21:57:16.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Suit Up]
+[05Jul2025 21:59:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 21:59:16.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 21:59:48.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Dark Metallurgy]
