@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-07-05 22:44:31 +0000",
       "minecraft:windswept_hills": "2025-07-04 18:40:32 +0000",
       "minecraft:beach": "2025-07-04 16:52:29 +0000",
       "minecraft:sparse_jungle": "2025-07-04 17:03:15 +0000",
@@ -66,6 +67,8 @@
       "minecraft:frozen_ocean": "2025-07-04 18:50:44 +0000",
       "minecraft:desert": "2025-07-04 17:17:37 +0000",
       "minecraft:jungle": "2025-07-04 16:54:27 +0000",
+      "minecraft:ocean": "2025-07-05 22:46:44 +0000",
+      "minecraft:windswept_savanna": "2025-07-05 22:46:37 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-04 19:02:23 +0000",
       "minecraft:savanna": "2025-07-04 16:51:57 +0000",
       "minecraft:plains": "2025-07-04 17:02:52 +0000"
@@ -485,6 +488,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-04 17:03:04 +0000",
       "minecraft:skeleton": "2025-07-04 18:50:09 +0000",
+      "minecraft:vindicator": "2025-07-05 22:47:22 +0000",
       "minecraft:spider": "2025-07-04 18:05:06 +0000",
       "minecraft:creeper": "2025-07-04 17:02:25 +0000",
       "minecraft:slime": "2025-07-04 18:50:32 +0000",
@@ -3994,6 +3998,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-07-05 22:38:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-05 22:02:59 +0000"
@@ -4027,6 +4037,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-05 22:45:24 +0000"
     },
     "done": true
   },
@@ -4087,6 +4103,12 @@
   "spartanweaponry:recipes/copper_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-07-05 22:37:25 +0000"
     },
     "done": true
   },
@@ -4201,6 +4223,12 @@
   "spartanweaponry:recipes/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-05 22:47:31 +0000"
     },
     "done": true
   },

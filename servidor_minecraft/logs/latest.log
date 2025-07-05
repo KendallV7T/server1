@@ -1075,3 +1075,45 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 22:29:50.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Jul2025 22:29:57.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Jul2025 22:29:58.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Skeleton
+[05Jul2025 22:30:26.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Husk
+[05Jul2025 22:30:35.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was slain by Nightmare Stalker
+[05Jul2025 22:31:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Iron Golem
+[05Jul2025 22:31:10.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was shot by Skeleton
+[05Jul2025 22:31:30.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/459193, l='ServerLevel[world]', x=65.15, y=70.00, z=-438.32] died: Moiso was slain by Iron Golem
+[05Jul2025 22:31:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Moiso
+[05Jul2025 22:31:36.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/458143, l='ServerLevel[world]', x=56.41, y=70.00, z=-438.96] died: Moiso was slain by Iron Golem
+[05Jul2025 22:31:57.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/460392, l='ServerLevel[world]', x=55.70, y=71.25, z=-441.54] died: Moiso was slain by Iron Golem
+[05Jul2025 22:32:03.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/461297, l='ServerLevel[world]', x=61.30, y=70.75, z=-441.49] died: Moiso was slain by Iron Golem
+[05Jul2025 22:32:12.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was shot by Skeleton
+[05Jul2025 22:32:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [What Was That!?]
+[05Jul2025 22:33:35.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Monster Hunter]
+[05Jul2025 22:33:35.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Moiso'/455669, l='ServerLevel[world]', x=12.68, y=64.00, z=-449.96] died: Moiso died because of Moiso
+[05Jul2025 22:34:06.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has completed the challenge [Champion Hunter]
+[05Jul2025 22:34:06.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Moiso'/454973, l='ServerLevel[world]', x=10.83, y=65.00, z=-450.17] died: Moiso died because of Moiso
+[05Jul2025 22:36:30.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/484241, l='ServerLevel[world]', x=-238.45, y=72.00, z=-570.50] died: Ron1509 was slain by yeudy_
+[05Jul2025 22:36:50.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/484568, l='ServerLevel[world]', x=-283.30, y=65.25, z=-576.70] died: LechugaVT was slain by yeudy_
+[05Jul2025 22:37:42.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ bled to death
+[05Jul2025 22:38:13.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Halberdier]
+[05Jul2025 22:39:20.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/504210, l='ServerLevel[world]', x=-228.15, y=54.00, z=-541.82] died: yeudy_ was shot by Illusioner
+[05Jul2025 22:39:36.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/504209, l='ServerLevel[world]', x=-225.33, y=53.00, z=-538.82] died: yeudy_ was slain by yeudy_
+[05Jul2025 22:42:16.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[05Jul2025 22:42:35.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[05Jul2025 22:42:57.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7170ms or 143 ticks behind
+[05Jul2025 22:43:16.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3807ms or 76 ticks behind
+[05Jul2025 22:43:26.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Mimic
+[05Jul2025 22:43:33.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[05Jul2025 22:43:58.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 22:44:15.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[05Jul2025 22:44:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 22:44:45.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[05Jul2025 22:45:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Creeper
+[05Jul2025 22:45:24.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has reached the goal [Fighting Nightmares]
+[05Jul2025 22:45:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Mimic
+[05Jul2025 22:46:12.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Chest Slayer]
+[05Jul2025 22:46:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Amateur Archaeologist]
+[05Jul2025 22:47:03.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ hit the ground too hard
+[05Jul2025 22:48:27.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 22:49:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
+[05Jul2025 22:49:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Spider
+[05Jul2025 22:49:49.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Dread Hound
+[05Jul2025 22:49:54.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/599662, l='ServerLevel[world]', x=47.49, y=68.00, z=-454.29] died: Moiso was slain by Iron Golem

@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-07-05 22:42:28 +0000",
       "minecraft:windswept_hills": "2025-07-04 18:39:06 +0000",
       "minecraft:beach": "2025-07-04 16:49:09 +0000",
       "minecraft:sparse_jungle": "2025-07-04 17:04:22 +0000",
@@ -69,6 +70,7 @@
       "minecraft:jungle": "2025-07-04 16:51:25 +0000",
       "minecraft:ocean": "2025-07-04 18:37:36 +0000",
       "minecraft:windswept_savanna": "2025-07-04 18:38:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-05 22:42:37 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-04 18:59:19 +0000",
       "minecraft:savanna": "2025-07-04 17:02:52 +0000",
       "minecraft:plains": "2025-07-04 17:02:34 +0000"
@@ -531,6 +533,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-04 17:06:28 +0000",
       "minecraft:spider": "2025-07-04 17:26:20 +0000",
+      "minecraft:husk": "2025-07-05 22:32:13 +0000",
       "minecraft:zombie": "2025-07-04 18:04:08 +0000"
     },
     "done": false
@@ -597,7 +600,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "pillager_outpost": "2025-07-04 17:10:43 +0000"
+      "pillager_outpost": "2025-07-04 17:10:43 +0000",
+      "illager_camp": "2025-07-05 22:47:24 +0000"
     },
     "done": false
   },
@@ -2362,6 +2366,54 @@
   "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
       "has_dune_armor_trim_smithing_template": "2025-07-05 20:33:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-07-05 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-05 22:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-05 22:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 22:44:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-05 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-05 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-05 22:37:09 +0000"
     },
     "done": true
   },
