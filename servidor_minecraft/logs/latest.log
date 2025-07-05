@@ -1125,3 +1125,37 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 22:58:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Isn't It Iron Pick]
 [05Jul2025 22:59:09.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Stone Age]
 [05Jul2025 22:59:12.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 23:01:25.397] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[05Jul2025 23:01:28.466] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[05Jul2025 23:01:28.785] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-53, z=-830}
+[05Jul2025 23:01:28.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-51, z=-829}
+[05Jul2025 23:01:28.786] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-51, z=-827}
+[05Jul2025 23:01:28.810] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[05Jul2025 23:01:28.810] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[05Jul2025 23:01:28.829] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[05Jul2025 23:01:28.829] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[05Jul2025 23:01:28.839] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-56, z=-600}
+[05Jul2025 23:01:28.840] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[05Jul2025 23:01:28.842] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[05Jul2025 23:01:28.843] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[05Jul2025 23:01:31.851] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[05Jul2025 23:01:31.852] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[05Jul2025 23:02:26.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 23:03:05.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 23:03:22.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 23:03:57.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
+[05Jul2025 23:04:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Welcome To The Machine]
+[05Jul2025 23:04:07.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
+[05Jul2025 23:04:07.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 23:04:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 23:04:14.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Welcome To The Machine]
+[05Jul2025 23:04:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:05:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Applied effect Night Vision to Ron1509]
+[05Jul2025 23:06:20.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Bonfire Lit]
+[05Jul2025 23:07:02.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Moiso to LechugaVT]
+[05Jul2025 23:07:02.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Welcome To The Machine]
+[05Jul2025 23:08:51.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Not Today, Thank You]
+[05Jul2025 23:10:13.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Not Today, Thank You]
+[05Jul2025 23:10:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was shot by Skeleton
+[05Jul2025 23:11:03.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Diamonds!]
+[05Jul2025 23:11:11.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Moiso to LechugaVT]
