@@ -1,125 +1,123 @@
-[04Jul2025 16:45:52.350] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[04Jul2025 16:45:52.354] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[04Jul2025 16:45:56.062] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Jul2025 16:45:56.320] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Jul2025 16:45:57.026] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jul2025 16:45:57.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jul2025 16:45:57.031] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jul2025 16:45:57.032] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Jul2025 16:45:57.533] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[04Jul2025 16:45:57.535] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[04Jul2025 16:46:00.748] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Jul2025 16:46:01.018] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[04Jul2025 16:46:01.020] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[04Jul2025 16:46:01.026] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[04Jul2025 16:46:01.310] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.0+mc1.20.1: 95 options available, 0 override(s) found
-[04Jul2025 16:46:01.311] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[04Jul2025 16:46:01.331] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[04Jul2025 16:46:01.601] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 117 options available, 0 override(s) found
-[04Jul2025 16:46:01.719] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Jul2025 16:46:03.615] [main/WARN] [mixin/]: Error loading class: vazkii/neat/HealthBarRenderer (java.lang.ClassNotFoundException: vazkii.neat.HealthBarRenderer)
-[04Jul2025 16:46:03.617] [main/WARN] [mixin/]: @Mixin target vazkii.neat.HealthBarRenderer was not found autoleveling.mixins.json:neat/HealthBarRendererMixin
-[04Jul2025 16:46:04.121] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[04Jul2025 16:46:04.130] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[04Jul2025 16:46:04.131] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[04Jul2025 16:46:04.132] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[04Jul2025 16:46:04.133] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[04Jul2025 16:46:04.133] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[04Jul2025 16:46:04.134] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[04Jul2025 16:46:04.135] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[04Jul2025 16:46:04.136] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[04Jul2025 16:46:04.138] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[04Jul2025 16:46:04.139] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[04Jul2025 16:46:04.378] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04Jul2025 16:46:05.315] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (21.09 s after launch)
-[04Jul2025 16:46:05.545] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[04Jul2025 16:46:05.546] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[04Jul2025 16:46:08.277] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2958 milliseconds
-[04Jul2025 16:46:12.552] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
-[04Jul2025 16:46:13.138] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[04Jul2025 16:46:13.139] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[04Jul2025 16:46:13.142] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[04Jul2025 16:46:13.143] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[04Jul2025 16:46:13.145] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[04Jul2025 16:46:13.145] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[04Jul2025 16:46:13.146] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[04Jul2025 16:46:13.147] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[04Jul2025 16:46:13.148] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[04Jul2025 16:46:13.334] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Didn't write a new file because none was created
-[04Jul2025 16:46:13.396] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_throwing_knife
-[04Jul2025 16:46:13.400] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.402] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_shuriken
-[04Jul2025 16:46:13.402] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.402] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_chakram
-[04Jul2025 16:46:13.402] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.403] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_javelin
-[04Jul2025 16:46:13.403] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.406] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_throwing_knife
-[04Jul2025 16:46:13.407] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.407] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_shuriken
-[04Jul2025 16:46:13.407] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.407] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_chakram
-[04Jul2025 16:46:13.407] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.407] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_javelin
-[04Jul2025 16:46:13.408] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.408] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_throwing_knife
-[04Jul2025 16:46:13.408] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.409] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_shuriken
-[04Jul2025 16:46:13.409] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.413] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_chakram
-[04Jul2025 16:46:13.413] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.414] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_javelin
-[04Jul2025 16:46:13.414] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.415] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_throwing_knife
-[04Jul2025 16:46:13.415] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.416] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_shuriken
-[04Jul2025 16:46:13.416] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.417] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_chakram
-[04Jul2025 16:46:13.418] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.418] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_javelin
-[04Jul2025 16:46:13.419] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.424] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_throwing_knife
-[04Jul2025 16:46:13.426] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.426] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_shuriken
-[04Jul2025 16:46:13.426] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.426] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_chakram
-[04Jul2025 16:46:13.426] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.427] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_javelin
-[04Jul2025 16:46:13.428] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.429] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_throwing_knife
-[04Jul2025 16:46:13.430] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.430] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_shuriken
-[04Jul2025 16:46:13.430] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.431] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_chakram
-[04Jul2025 16:46:13.431] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.431] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_javelin
-[04Jul2025 16:46:13.434] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
-[04Jul2025 16:46:13.554] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04Jul2025 16:46:13.555] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04Jul2025 16:46:13.658] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[04Jul2025 16:46:13.661] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[04Jul2025 16:46:13.969] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[04Jul2025 16:46:13.985] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[04Jul2025 16:46:14.103] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[04Jul2025 16:46:14.104] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[04Jul2025 16:46:14.106] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[04Jul2025 16:46:14.627] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[04Jul2025 16:46:14.834] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[04Jul2025 16:46:14.861] [modloading-worker-0/INFO] [STDOUT/]: [tfar.overpoweredarmorbar.OverloadedArmorBar:<init>:28]: Why is this mod on a dedicated server?
-[04Jul2025 16:46:17.690] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[04Jul2025 16:46:18.111] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[04Jul2025 16:46:18.117] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/server1/servidor_minecraft/config/spartanweaponry-common.toml is not correct. Correcting
-[04Jul2025 16:46:18.119] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key traits.damage_bonus.max_armor_value was corrected from 0.0 to its default, 1.0. 
-[04Jul2025 16:46:18.297] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[04Jul2025 16:46:18.376] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[04Jul2025 16:46:18.380] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[04Jul2025 16:46:18.471] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[04Jul2025 16:46:18.510] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[04Jul2025 16:46:18.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[04Jul2025 16:46:18.791] [main/INFO] [journeymap/]: Initializing Packet Registries
-[04Jul2025 16:46:19.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[04Jul2025 16:46:19.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[04Jul2025 16:46:19.155] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Jul2025 19:58:29.568] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[05Jul2025 19:58:29.575] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[05Jul2025 19:58:31.285] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Jul2025 19:58:31.555] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Jul2025 19:58:32.153] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jul2025 19:58:32.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jul2025 19:58:32.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jul2025 19:58:32.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jul2025 19:58:32.539] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Jul2025 19:58:32.540] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[05Jul2025 19:58:35.084] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jul2025 19:58:35.296] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[05Jul2025 19:58:35.297] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[05Jul2025 19:58:35.303] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[05Jul2025 19:58:35.445] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.0+mc1.20.1: 95 options available, 0 override(s) found
+[05Jul2025 19:58:35.445] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[05Jul2025 19:58:35.470] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[05Jul2025 19:58:35.689] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 117 options available, 0 override(s) found
+[05Jul2025 19:58:35.809] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jul2025 19:58:37.425] [main/WARN] [mixin/]: Error loading class: vazkii/neat/HealthBarRenderer (java.lang.ClassNotFoundException: vazkii.neat.HealthBarRenderer)
+[05Jul2025 19:58:37.425] [main/WARN] [mixin/]: @Mixin target vazkii.neat.HealthBarRenderer was not found autoleveling.mixins.json:neat/HealthBarRendererMixin
+[05Jul2025 19:58:37.839] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[05Jul2025 19:58:37.849] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[05Jul2025 19:58:37.850] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[05Jul2025 19:58:37.850] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[05Jul2025 19:58:37.852] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[05Jul2025 19:58:37.852] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[05Jul2025 19:58:37.852] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[05Jul2025 19:58:37.853] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[05Jul2025 19:58:37.854] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[05Jul2025 19:58:37.856] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[05Jul2025 19:58:37.856] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[05Jul2025 19:58:38.040] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05Jul2025 19:58:38.893] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (15.32 s after launch)
+[05Jul2025 19:58:39.057] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Jul2025 19:58:39.058] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Jul2025 19:58:41.252] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2356 milliseconds
+[05Jul2025 19:58:45.261] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[05Jul2025 19:58:45.582] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Jul2025 19:58:45.583] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[05Jul2025 19:58:45.586] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[05Jul2025 19:58:45.587] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[05Jul2025 19:58:45.592] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[05Jul2025 19:58:45.593] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[05Jul2025 19:58:45.594] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[05Jul2025 19:58:45.598] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[05Jul2025 19:58:45.604] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[05Jul2025 19:58:45.814] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Didn't write a new file because none was created
+[05Jul2025 19:58:45.889] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_throwing_knife
+[05Jul2025 19:58:45.891] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.895] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_shuriken
+[05Jul2025 19:58:45.895] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.895] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_chakram
+[05Jul2025 19:58:45.896] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.896] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: wooden_javelin
+[05Jul2025 19:58:45.896] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.897] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_throwing_knife
+[05Jul2025 19:58:45.898] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.899] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_shuriken
+[05Jul2025 19:58:45.900] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.901] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_chakram
+[05Jul2025 19:58:45.901] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.902] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: stone_javelin
+[05Jul2025 19:58:45.905] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.906] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_throwing_knife
+[05Jul2025 19:58:45.906] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.907] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_shuriken
+[05Jul2025 19:58:45.907] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.908] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_chakram
+[05Jul2025 19:58:45.908] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.911] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: golden_javelin
+[05Jul2025 19:58:45.911] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.912] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_throwing_knife
+[05Jul2025 19:58:45.912] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.913] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_shuriken
+[05Jul2025 19:58:45.913] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.913] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_chakram
+[05Jul2025 19:58:45.913] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.915] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: iron_javelin
+[05Jul2025 19:58:45.916] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.917] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_throwing_knife
+[05Jul2025 19:58:45.920] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.920] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_shuriken
+[05Jul2025 19:58:45.921] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.921] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_chakram
+[05Jul2025 19:58:45.921] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.922] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: diamond_javelin
+[05Jul2025 19:58:45.922] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.923] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_throwing_knife
+[05Jul2025 19:58:45.926] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.926] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_shuriken
+[05Jul2025 19:58:45.926] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.927] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_chakram
+[05Jul2025 19:58:45.927] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:45.927] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: netherite_javelin
+[05Jul2025 19:58:45.928] [modloading-worker-0/INFO] [net.dixta.dixtas_armory.config.DixtasArmoryJsonConfig/]: Found use Anim: spear
+[05Jul2025 19:58:46.062] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Jul2025 19:58:46.062] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Jul2025 19:58:46.133] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[05Jul2025 19:58:46.133] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[05Jul2025 19:58:46.399] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[05Jul2025 19:58:46.425] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[05Jul2025 19:58:46.486] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[05Jul2025 19:58:46.488] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[05Jul2025 19:58:46.489] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[05Jul2025 19:58:46.843] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[05Jul2025 19:58:46.935] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[05Jul2025 19:58:46.948] [modloading-worker-0/INFO] [STDOUT/]: [tfar.overpoweredarmorbar.OverloadedArmorBar:<init>:28]: Why is this mod on a dedicated server?
+[05Jul2025 19:58:49.406] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[05Jul2025 19:58:49.781] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[05Jul2025 19:58:49.947] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[05Jul2025 19:58:49.988] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[05Jul2025 19:58:50.041] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[05Jul2025 19:58:50.060] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[05Jul2025 19:58:50.072] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[05Jul2025 19:58:50.075] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[05Jul2025 19:58:50.176] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Jul2025 19:58:50.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[05Jul2025 19:58:50.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[05Jul2025 19:58:50.340] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -134,14 +132,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[04Jul2025 16:46:19.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
-[04Jul2025 16:46:19.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
-[04Jul2025 16:46:19.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[04Jul2025 16:46:19.487] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[04Jul2025 16:46:19.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[04Jul2025 16:46:19.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[04Jul2025 16:46:19.503] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[04Jul2025 16:46:19.506] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[05Jul2025 19:58:50.341] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[05Jul2025 19:58:50.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: UP_TO_DATE Current: 1.8.6+mod Target: null
+[05Jul2025 19:58:50.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Jul2025 19:58:50.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[05Jul2025 19:58:50.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[05Jul2025 19:58:50.708] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[05Jul2025 19:58:50.714] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[05Jul2025 19:58:50.715] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23223!/:1.20.1-4.12.0]
 	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:40) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23223!/:1.20.1-4.12.0]
@@ -173,9 +171,9 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 18 more
-[04Jul2025 16:46:19.509] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Spartan Weaponry (spartanweaponry)
-[04Jul2025 16:46:19.516] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[04Jul2025 16:46:19.517] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Spartan Weaponry (spartanweaponry)
+[05Jul2025 19:58:50.718] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Spartan Weaponry (spartanweaponry)
+[05Jul2025 19:58:50.722] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[05Jul2025 19:58:50.722] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Spartan Weaponry (spartanweaponry)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at com.github.exopandora.shouldersurfing.api.plugin.IShoulderSurfingRegistrar.registerAdaptiveItemCallback(IShoulderSurfingRegistrar.java:19) ~[ShoulderSurfing-Forge-1.20.1-4.12.0.jar%23223!/:1.20.1-4.12.0]
 	at com.oblivioussp.spartanweaponry.compat.shouldersurfing.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:12) ~[SpartanWeaponry-1.20.1-forge-3.1.3-all.jar%23228!/:1.20.1-forge-3.1.3]
@@ -208,621 +206,283 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 19 more
-[04Jul2025 16:46:19.519] [modloading-worker-0/INFO] [ShoulderSurfing/]: Freezing plugin registrar
-[04Jul2025 16:46:19.547] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[04Jul2025 16:46:19.558] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at top.theillusivec4.champions.client.integration.jade.JadePlugin
-[04Jul2025 16:46:19.559] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[04Jul2025 16:46:19.560] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at daripher.autoleveling.integration.jade.AutoLevelingWailaPlugin
-[04Jul2025 16:46:19.561] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[04Jul2025 16:46:19.563] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[04Jul2025 16:46:19.579] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[04Jul2025 16:46:19.583] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[04Jul2025 16:46:19.586] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
-[04Jul2025 16:46:19.591] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[04Jul2025 16:46:19.847] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:adaptable
-[04Jul2025 16:46:19.847] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:arctic
-[04Jul2025 16:46:19.848] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:dampening
-[04Jul2025 16:46:19.848] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:desecrating
-[04Jul2025 16:46:19.848] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:enkindling
-[04Jul2025 16:46:19.848] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:hasty
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:infested
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:knocking
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:lively
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:magnetic
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:molten
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:paralyzing
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:plagued
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:reflective
-[04Jul2025 16:46:19.849] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:shielding
-[04Jul2025 16:46:19.850] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:wounding
-[04Jul2025 16:46:20.196] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
-[04Jul2025 16:46:20.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Jul2025 16:46:20.266] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Jul2025 16:46:20.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[04Jul2025 16:46:20.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[04Jul2025 16:46:20.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.20 Target: 1.20.1-1.0.21
-[04Jul2025 16:46:20.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[04Jul2025 16:46:20.414] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[04Jul2025 16:46:20.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[04Jul2025 16:46:20.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[04Jul2025 16:46:20.590] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:adaptable
-[04Jul2025 16:46:20.590] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:arctic
-[04Jul2025 16:46:20.590] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:dampening
-[04Jul2025 16:46:20.591] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:desecrating
-[04Jul2025 16:46:20.591] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:enkindling
-[04Jul2025 16:46:20.591] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:hasty
-[04Jul2025 16:46:20.591] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:infested
-[04Jul2025 16:46:20.592] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:knocking
-[04Jul2025 16:46:20.592] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:lively
-[04Jul2025 16:46:20.592] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:magnetic
-[04Jul2025 16:46:20.592] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:molten
-[04Jul2025 16:46:20.593] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:paralyzing
-[04Jul2025 16:46:20.593] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:plagued
-[04Jul2025 16:46:20.593] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:reflective
-[04Jul2025 16:46:20.594] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:shielding
-[04Jul2025 16:46:20.594] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:wounding
-[04Jul2025 16:46:20.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[04Jul2025 16:46:20.668] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[04Jul2025 16:46:20.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[04Jul2025 16:46:20.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:adaptable
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:arctic
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:dampening
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:desecrating
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:enkindling
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:hasty
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:infested
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:knocking
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:lively
-[04Jul2025 16:46:20.708] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:magnetic
-[04Jul2025 16:46:20.709] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:molten
-[04Jul2025 16:46:20.709] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:paralyzing
-[04Jul2025 16:46:20.709] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:plagued
-[04Jul2025 16:46:20.709] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:reflective
-[04Jul2025 16:46:20.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[04Jul2025 16:46:20.711] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:shielding
-[04Jul2025 16:46:20.712] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:wounding
-[04Jul2025 16:46:20.934] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/assets/.mcassetsroot' uses unexpected schema
-[04Jul2025 16:46:20.935] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/data/.mcassetsroot' uses unexpected schema
-[04Jul2025 16:46:24.334] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[04Jul2025 16:46:25.745] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[04Jul2025 16:46:25.757] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[04Jul2025 16:46:25.837] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[04Jul2025 16:46:25.995] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[04Jul2025 16:46:25.995] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[04Jul2025 16:46:25.996] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[04Jul2025 16:46:26.007] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[04Jul2025 16:46:26.008] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[04Jul2025 16:46:26.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_shuriken_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.038] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[04Jul2025 16:46:26.039] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[04Jul2025 16:46:26.040] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_shortsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_shortsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.048] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_spear: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.050] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_rapier_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_katana_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.061] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_battle_axe: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.064] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_throwing_knife: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.065] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[04Jul2025 16:46:26.066] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[04Jul2025 16:46:26.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_halberd_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.077] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_rapier_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_throwing_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_katana_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_chakram_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_pike: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
-[04Jul2025 16:46:26.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_katana_two_handed_smithing: com.google.gson.JsonSyntaxException: Unknown item 'dixtas_armory:diamond_katana_two_handed'
-[04Jul2025 16:46:26.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_battle_axe_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_glaive_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_katana: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_zweihander_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.110] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[04Jul2025 16:46:26.111] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[04Jul2025 16:46:26.128] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_glaive_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.139] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[04Jul2025 16:46:26.139] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[04Jul2025 16:46:26.146] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_shortsword: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.147] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_longsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.148] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_pike_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.150] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[04Jul2025 16:46:26.150] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[04Jul2025 16:46:26.163] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_halberd: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.165] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[04Jul2025 16:46:26.165] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[04Jul2025 16:46:26.168] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_glaive_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.179] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_halberd: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.195] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_pike_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.220] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_spear_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.222] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_longsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.223] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_rapier_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.232] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_stiletto_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.233] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[04Jul2025 16:46:26.233] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[04Jul2025 16:46:26.234] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[04Jul2025 16:46:26.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[04Jul2025 16:46:26.236] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_zweihander: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_battle_axe_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.254] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_stiletto: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.274] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_katana: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.281] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[04Jul2025 16:46:26.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[04Jul2025 16:46:26.281] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_pike: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.282] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_twinblade: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.296] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_dagger_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.297] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_spear: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.302] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_halberd_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.304] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_twinblade_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.306] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[04Jul2025 16:46:26.306] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[04Jul2025 16:46:26.307] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_shortsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.314] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_shuriken: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.315] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_greatsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.316] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_dagger_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.323] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_rapier: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.329] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_javelin_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.329] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_shortsword: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.342] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_katana_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.347] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_longsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.348] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_chakram: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.364] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[04Jul2025 16:46:26.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[04Jul2025 16:46:26.369] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[04Jul2025 16:46:26.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[04Jul2025 16:46:26.376] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_battle_axe_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.388] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_zweihander_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.390] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_shuriken_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_rapier: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.413] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_longsword: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.413] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_javelin_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.435] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_spear_two_handed_smithing: com.google.gson.JsonSyntaxException: Unknown item 'dixtas_armory:diamond_spear_two_handed'
-[04Jul2025 16:46:26.436] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[04Jul2025 16:46:26.436] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[04Jul2025 16:46:26.436] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_dagger: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.436] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_greatsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.437] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_twinblade_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_spear_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_chakram_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.439] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_dagger_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.439] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_zweihander: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.448] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_spear_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.455] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_shuriken_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.464] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[04Jul2025 16:46:26.464] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[04Jul2025 16:46:26.472] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[04Jul2025 16:46:26.472] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[04Jul2025 16:46:26.479] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_twinblade_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_greatsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_pike_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_battle_axe_two_handed_smithing: com.google.gson.JsonSyntaxException: Unknown item 'dixtas_armory:diamond_battle_axe_two_handed'
-[04Jul2025 16:46:26.489] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_javelin: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_javelin: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_throwing_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.549] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_halberd_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.565] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_stiletto_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
-[04Jul2025 16:46:26.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_chakram_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.568] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_battle_axe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.571] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[04Jul2025 16:46:26.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[04Jul2025 16:46:26.575] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_javelin_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.575] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_throwing_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
-[04Jul2025 16:46:26.576] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_stiletto_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.577] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_twinblade: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.582] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[04Jul2025 16:46:26.583] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[04Jul2025 16:46:26.583] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_stiletto: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.584] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_greatsword: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.598] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_throwing_knife: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.598] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_glaive: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_chakram: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_zweihander_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
-[04Jul2025 16:46:26.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_longsword: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.611] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_dagger: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.611] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[04Jul2025 16:46:26.611] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[04Jul2025 16:46:26.612] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
-[04Jul2025 16:46:26.648] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[04Jul2025 16:46:26.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[04Jul2025 16:46:26.654] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_glaive: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
-[04Jul2025 16:46:26.671] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_shuriken: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[04Jul2025 16:46:26.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[04Jul2025 16:46:26.735] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[04Jul2025 16:46:26.826] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[04Jul2025 16:46:26.856] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[04Jul2025 16:46:26.865] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[04Jul2025 16:46:26.932] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3537 advancements
-[04Jul2025 16:46:26.941] [main/INFO] [Dungeon Crawl/]: Loading data...
-[04Jul2025 16:46:27.416] [main/INFO] [Dungeon Crawl/]: Done.
-[04Jul2025 16:46:27.440] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[04Jul2025 16:46:27.444] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[04Jul2025 16:46:27.455] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[04Jul2025 16:46:27.506] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.965798ms
-[04Jul2025 16:46:27.507] [main/WARN] [ModernFix/]: Initial datapack load took 6.516 s
-[04Jul2025 16:46:27.828] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 16 milliseconds
-[04Jul2025 16:46:27.830] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[04Jul2025 16:46:27.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04Jul2025 16:46:27.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Jul2025 16:46:27.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Jul2025 16:46:27.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Jul2025 16:46:28.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Jul2025 16:46:28.046] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Jul2025 16:46:28.159] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Jul2025 16:46:28.160] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Jul2025 16:46:28.160] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Jul2025 16:46:28.160] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Jul2025 16:46:28.180] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[04Jul2025 16:46:28.641] [Server thread/INFO] [Framework/]: Loading server configs...
-[04Jul2025 16:46:28.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Jul2025 16:46:29.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Jul2025 16:46:30.651] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:31.178] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:31.179] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:31.180] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:32.002] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:32.091] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:32.455] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Jul2025 16:46:32.978] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3524 ms
-[04Jul2025 16:46:32.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.801s)! For help, type "help"
-[04Jul2025 16:46:33.039] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Jul2025 16:46:33.053] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Mod configuration loaded successfully!
-[04Jul2025 16:46:33.167] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Data pack `puffish_skills` loaded successfully!
-[04Jul2025 16:46:33.209] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[04Jul2025 16:46:33.210] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[04Jul2025 16:46:33.215] [Server thread/WARN] [ModernFix/]: Dedicated server took 48.988 seconds to load
-[04Jul2025 16:48:24.976] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[04Jul2025 16:48:25.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ron1509[/127.192.85.222:60191] logged in with entity id 197 at (-8.5, 74.0, -8.5)
-[04Jul2025 16:48:25.105] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ron1509
-[04Jul2025 16:48:25.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 joined the game
-[04Jul2025 16:48:25.315] [Server thread/INFO] [Jade/]: Syncing config to Ron1509 (d06e1999-6fe2-30aa-93db-723f19446936)
-[04Jul2025 16:48:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Dungeons And Combat]
-[04Jul2025 16:48:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Ice and Fire]
-[04Jul2025 16:49:29.631] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
-[04Jul2025 16:51:46.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LechugaVT[/127.102.132.121:59045] logged in with entity id 1222 at (27.814752730171914, 63.0, 18.58331567058089)
-[04Jul2025 16:51:46.102] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player LechugaVT
-[04Jul2025 16:51:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT joined the game
-[04Jul2025 16:51:46.150] [Server thread/INFO] [Jade/]: Syncing config to LechugaVT (df1970ee-a9e6-33ff-b4b7-cd89774ca40d)
-[04Jul2025 16:52:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Crops of the Wild]
-[04Jul2025 16:54:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LechugaVT a server operator
-[04Jul2025 16:54:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 16:57:46.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Gave 30 [Steak] to 2]
-[04Jul2025 16:58:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Amateur Archaeologist]
-[04Jul2025 16:58:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Amateur Archaeologist]
-[04Jul2025 16:58:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Gave 1 [Eternal Steak] to 2]
-[04Jul2025 17:02:25.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Monster Hunter]
-[04Jul2025 17:03:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was shot by Pillager
-[04Jul2025 17:03:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:03:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was shot by Pillager
-[04Jul2025 17:04:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:06:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Monster Hunter]
-[04Jul2025 17:06:47.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT died because of Thornshell Crab
-[04Jul2025 17:08:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was shot by Pillager
-[04Jul2025 17:08:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:09:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Crops of the Wild]
-[04Jul2025 17:10:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Intruder Alert]
-[04Jul2025 17:10:43.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Intruder Alert]
-[04Jul2025 17:10:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Acquire Hardware]
-[04Jul2025 17:13:06.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:13:38.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Sweet Dreams]
-[04Jul2025 17:13:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Sweet Dreams]
-[04Jul2025 17:13:59.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Acquire Hardware]
-[04Jul2025 17:20:45.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Ice Bucket Challenge]
-[04Jul2025 17:21:27.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 moved too quickly! 3.5446746330721908,0.0,9.376500471960298
-[04Jul2025 17:21:44.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:21:45.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:21:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
-[04Jul2025 17:21:59.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:22:02.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:22:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:22:22.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [The Desert Swimmers]
-[04Jul2025 17:22:32.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Voluntary Exile]
-[04Jul2025 17:23:38.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 burned to death
-[04Jul2025 17:24:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Made Ron1509 a server operator]
-[04Jul2025 17:24:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:25:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Global game stage has been changed to Master Mode.]
-[04Jul2025 17:27:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT went up in flames
-[04Jul2025 17:29:59.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/49244, l='ServerLevel[world]', x=-20.27, y=64.00, z=-498.50] died, message: 'Leatherworker was slain by Zombie Bruiser'
-[04Jul2025 17:30:23.392] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/49057, l='ServerLevel[world]', x=4.39, y=66.42, z=-472.30] died, message: 'Cleric was slain by Zombie Bruiser'
-[04Jul2025 17:30:53.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/49063, l='ServerLevel[world]', x=32.91, y=74.00, z=-493.35] died, message: 'Librarian was slain by Zombie Bruiser'
-[04Jul2025 17:32:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:35:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:37:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:38:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Safe Haven]
-[04Jul2025 17:39:12.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/83158, l='ServerLevel[world]', x=799.60, y=66.71, z=-532.98] died, message: 'Armorer was slain by Ghost'
-[04Jul2025 17:39:16.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:39:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Safe Haven]
-[04Jul2025 17:39:50.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/83446, l='ServerLevel[world]', x=785.52, y=67.00, z=-515.59] died, message: 'Butcher was slain by Ghost'
-[04Jul2025 17:39:57.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Is this... blood?]
-[04Jul2025 17:40:59.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was slain by Ghost
-[04Jul2025 17:43:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:44:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:45:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Is this... blood?]
-[04Jul2025 17:45:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has reached the goal [Ouch!]
-[04Jul2025 17:45:40.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:45:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:46:18.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:18.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:18.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:18.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:18.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:18.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:19.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.226] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.828] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:20.925] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:21.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:22.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:22.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:22.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:46:22.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Jul2025 17:47:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:48:09.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/112982, l='ServerLevel[world]', x=63.65, y=63.00, z=-531.05] died, message: 'Leatherworker was slain by Sunleia'
-[04Jul2025 17:48:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
-[04Jul2025 17:49:15.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/119556, l='ServerLevel[world]', x=-17.86, y=64.00, z=-582.32] died: Ron1509 was slain by Sunleia
-[04Jul2025 17:49:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 17:52:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Isn't It Iron Pick]
-[04Jul2025 17:52:50.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Stone Age]
-[04Jul2025 17:56:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Nightmare Stalker
-[04Jul2025 17:58:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 17:59:19.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/112991, l='ServerLevel[world]', x=39.68, y=80.00, z=-506.59] died, message: 'Fletcher bled to death'
-[04Jul2025 17:59:24.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/113349, l='ServerLevel[world]', x=57.53, y=63.00, z=-506.71] died, message: 'Farmer was slain by Sunleia'
-[04Jul2025 17:59:56.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/113103, l='ServerLevel[world]', x=58.83, y=69.00, z=-447.49] died, message: 'Butcher bled to death'
-[04Jul2025 18:00:06.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/113116, l='ServerLevel[world]', x=65.49, y=67.00, z=-462.30] died, message: 'Fletcher was slain by Sunleia'
-[04Jul2025 18:00:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
-[04Jul2025 18:01:05.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/154455, l='ServerLevel[world]', x=67.14, y=63.00, z=-484.86] died: Ron1509 was shot by Sunleia
-[04Jul2025 18:01:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:01:24.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/155315, l='ServerLevel[world]', x=61.85, y=63.00, z=-484.50] died: Ron1509 was slain by Sunleia
-[04Jul2025 18:01:32.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 18:01:47.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/113099, l='ServerLevel[world]', x=60.50, y=63.00, z=-486.16] died, message: 'Farmer was slain by Sunleia'
-[04Jul2025 18:01:48.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/156328, l='ServerLevel[world]', x=60.49, y=63.00, z=-487.03] died: LechugaVT was slain by Sunleia
-[04Jul2025 18:01:59.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/156280, l='ServerLevel[world]', x=63.45, y=64.00, z=-486.30] died: Ron1509 was slain by Sunleia
-[04Jul2025 18:02:04.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
-[04Jul2025 18:02:09.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/157289, l='ServerLevel[world]', x=59.96, y=63.00, z=-485.06] died: LechugaVT was slain by Sunleia
-[04Jul2025 18:02:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:02:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Ron1509 to LechugaVT]
-[04Jul2025 18:02:59.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:02:59.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:03:40.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:03:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:04:08.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/162151, l='ServerLevel[world]', x=-42.51, y=64.00, z=-507.91] died: LechugaVT was slain by Sunleia
-[04Jul2025 18:04:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
-[04Jul2025 18:04:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 bled to death
-[04Jul2025 18:06:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
-[04Jul2025 18:06:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sunleia
-[04Jul2025 18:06:36.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:07:40.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was shot by Sunleia
-[04Jul2025 18:08:12.284] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Ron1509'/163308, l='ServerLevel[world]', x=-103.06, y=67.00, z=-514.53] died: Ron1509 was slain by Sunleia
-[04Jul2025 18:08:16.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/169532, l='ServerLevel[world]', x=-104.70, y=67.75, z=-509.64] died: LechugaVT was slain by Sunleia
-[04Jul2025 18:08:20.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/170218, l='ServerLevel[world]', x=-103.95, y=67.00, z=-506.16] died: LechugaVT was slain by Sunleia
-[04Jul2025 18:10:02.613] [Worker-Main-11/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1949504295,275860877,-1925964201,-719011334],type:"minecraft:entity",y_offset:0.36f}}]
-[04Jul2025 18:10:02.614] [Worker-Main-11/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-88314378,-629718797,-1822809685,-214951148],type:"minecraft:entity",y_offset:0.36f}}]
-[04Jul2025 18:10:45.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was shot by Sunleia
-[04Jul2025 18:11:20.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:11:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:12:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:13:15.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/182080, l='ServerLevel[world]', x=-398.06, y=71.83, z=-800.39]
-[04Jul2025 18:13:15.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/182081, l='ServerLevel[world]', x=-402.12, y=72.66, z=-800.05]
-[04Jul2025 18:13:15.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/182082, l='ServerLevel[world]', x=-402.59, y=72.25, z=-801.05]
-[04Jul2025 18:13:15.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/182083, l='ServerLevel[world]', x=-403.00, y=71.97, z=-801.93]
-[04Jul2025 18:13:15.491] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/182084, l='ServerLevel[world]', x=-403.53, y=71.69, z=-803.06]
-[04Jul2025 18:14:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Summoned new Dragon Bone Arrow]
-[04Jul2025 18:14:47.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Summoned new Dragon Skull]
-[04Jul2025 18:14:58.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
-[04Jul2025 18:15:18.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:15:31.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:16:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Bloodthirsty]
-[04Jul2025 18:16:47.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Dragonslayer]
-[04Jul2025 18:17:17.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Fire Dragon]
-[04Jul2025 18:17:21.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:18:24.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Lightning Dragon]
-[04Jul2025 18:18:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Lightning Dragon]
-[04Jul2025 18:18:30.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Lightning Dragon]
-[04Jul2025 18:18:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Lightning Dragon]
-[04Jul2025 18:18:57.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set the time to 13000]
-[04Jul2025 18:19:12.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Fire Dragon]
-[04Jul2025 18:19:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Summoned new Lightning Dragon]
-[04Jul2025 18:21:43.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:21:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
-[04Jul2025 18:22:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:22:40.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
-[04Jul2025 18:22:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set the time to 1000]
-[04Jul2025 18:22:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:23:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was shot by Skeleton
-[04Jul2025 18:23:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Ron1509 to LechugaVT]
-[04Jul2025 18:24:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
-[04Jul2025 18:24:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:25:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:26:02.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:26:28.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:26:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was doomed to fall by LechugaVT
-[04Jul2025 18:30:26.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Dragonslayer]
-[04Jul2025 18:31:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:35:23.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/229701, l='ServerLevel[world]', x=-183.90, y=64.00, z=-457.87] died: LechugaVT was slain by Ron1509
-[04Jul2025 18:35:34.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=48, z=-438} BlockPos{x=-168, y=49, z=-438}
-[04Jul2025 18:35:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Best Friends Forever]
-[04Jul2025 18:35:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Free Willy]
-[04Jul2025 18:36:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:36:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:37:11.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 2.553922635747417
-[04Jul2025 18:37:25.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6944299305216028
-[04Jul2025 18:37:25.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6944299305216028
-[04Jul2025 18:37:36.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8237235193940529
-[04Jul2025 18:37:37.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8301462147415799
-[04Jul2025 18:37:37.619] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
-[04Jul2025 18:37:37.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8302591505903595
-[04Jul2025 18:38:00.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8285599533322033
-[04Jul2025 18:38:12.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8258405442636686
-[04Jul2025 18:38:12.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8258405442636686
-[04Jul2025 18:38:47.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6166664438270031
-[04Jul2025 18:38:50.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7499345078392804
-[04Jul2025 18:38:52.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8033377015841111
-[04Jul2025 18:38:53.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6998415930448174
-[04Jul2025 18:39:07.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.32791320871462315
-[04Jul2025 18:39:20.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:39:29.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:40:20.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:41:31.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Tie me to the Mast]
-[04Jul2025 18:42:23.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Siren
-[04Jul2025 18:44:59.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:45:49.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5850959905317401
-[04Jul2025 18:45:49.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5850959905317401
-[04Jul2025 18:45:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:46:14.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 lost connection: Disconnected
-[04Jul2025 18:46:14.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 left the game
-[04Jul2025 18:46:18.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ron1509[/127.192.85.222:54323] logged in with entity id 262265 at (-421.01976712088236, 64.0, 988.3064129088363)
-[04Jul2025 18:46:18.924] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ron1509
-[04Jul2025 18:46:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 joined the game
-[04Jul2025 18:46:18.987] [Server thread/INFO] [Jade/]: Syncing config to Ron1509 (d06e1999-6fe2-30aa-93db-723f19446936)
-[04Jul2025 18:46:25.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.26280339655358675
-[04Jul2025 18:46:34.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.39344196702700174
-[04Jul2025 18:46:34.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5147625080562079
-[04Jul2025 18:46:34.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.0254941930468249
-[04Jul2025 18:46:34.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4669435942930704
-[04Jul2025 18:46:34.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5728732963097514
-[04Jul2025 18:46:34.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5983991498819705
-[04Jul2025 18:46:34.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.621449768728894
-[04Jul2025 18:46:34.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.3111922257681385
-[04Jul2025 18:46:34.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6604813235458096
-[04Jul2025 18:46:34.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6767908760845671
-[04Jul2025 18:46:34.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6912058598103386
-[04Jul2025 18:46:34.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7039360703576563
-[04Jul2025 18:46:34.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.715180229606915
-[04Jul2025 18:46:34.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7251118582154845
-[04Jul2025 18:46:34.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7338760462119467
-[04Jul2025 18:46:35.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7416123691496637
-[04Jul2025 18:46:35.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7484402311991971
-[04Jul2025 18:46:35.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.5505498309692598
-[04Jul2025 18:46:35.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7597639197656463
-[04Jul2025 18:46:35.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7644352961619916
-[04Jul2025 18:46:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.580632706379106
-[04Jul2025 18:46:35.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7721701619863666
-[04Jul2025 18:46:35.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.5676111952588485
-[04Jul2025 18:46:35.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.7278545864069201
-[04Jul2025 18:46:35.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.4849587427274287
-[04Jul2025 18:46:35.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.692094338890513
-[04Jul2025 18:46:35.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.3699740348390606
-[04Jul2025 18:46:35.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5703107268732879
-[04Jul2025 18:46:35.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5113015604686666
-[04Jul2025 18:46:35.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4101303667262073
-[04Jul2025 18:46:35.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.810695945743646
-[04Jul2025 18:46:35.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.409517143719313
-[04Jul2025 18:46:35.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.810695945743646
-[04Jul2025 18:46:35.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.810695945743646
-[04Jul2025 18:46:35.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4568562423582989
-[04Jul2025 18:46:48.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has completed the challenge [Champion Hunter]
-[04Jul2025 18:47:10.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.31877596446975076
-[04Jul2025 18:47:10.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.113721329931652
-[04Jul2025 18:47:10.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.9244201385311317
-[04Jul2025 18:47:10.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.3024409195981216
-[04Jul2025 18:47:10.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.29839900511097633
-[04Jul2025 18:47:10.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2952765617655184
-[04Jul2025 18:47:11.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.29291348904489223
-[04Jul2025 18:47:11.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2910586540783361
-[04Jul2025 18:47:11.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2897079792296226
-[04Jul2025 18:47:11.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1055767028448815
-[04Jul2025 18:47:11.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.28779791419977785
-[04Jul2025 18:47:11.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1069312577836867
-[04Jul2025 18:47:11.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2867174326417676
-[04Jul2025 18:47:11.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2863304850114433
-[04Jul2025 18:47:11.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.285820743287995
-[04Jul2025 18:47:11.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1088901380291576
-[04Jul2025 18:47:11.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.28406564708302867
-[04Jul2025 18:47:11.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.26915057876802545
-[04Jul2025 18:47:11.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2668768544080378
-[04Jul2025 18:47:11.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2766308962862033
-[04Jul2025 18:47:11.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.29594266987839357
-[04Jul2025 18:47:11.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.32151005772281727
-[04Jul2025 18:47:11.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2817091946098418
-[04Jul2025 18:47:13.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.45635190117968705
-[04Jul2025 18:47:13.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.1974620653450074
-[04Jul2025 18:47:13.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.9109135681942462
-[04Jul2025 18:47:13.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4029750431479897
-[04Jul2025 18:47:14.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 1.0560050623128063
-[04Jul2025 18:47:14.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.34027062582686085
-[04Jul2025 18:47:14.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.9298141408835363
-[04Jul2025 18:47:14.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.27638055398870165
-[04Jul2025 18:47:17.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8158699661436443
-[04Jul2025 18:47:17.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4729687322780497
-[04Jul2025 18:47:22.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8045348513664652
-[04Jul2025 18:47:23.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8067733854315252
-[04Jul2025 18:47:23.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8067733854315252
-[04Jul2025 18:47:31.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6512600418832736
-[04Jul2025 18:47:33.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.823830980237484
-[04Jul2025 18:47:56.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8289992016717946
-[04Jul2025 18:47:56.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.830278908374312
-[04Jul2025 18:47:56.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.830278908374312
-[04Jul2025 18:48:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Call For Adventure]
-[04Jul2025 18:49:00.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
-[04Jul2025 18:49:16.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5522672708233667
-[04Jul2025 18:50:00.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4380895838226641
-[04Jul2025 18:50:06.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8199009430338247
-[04Jul2025 18:50:07.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8196371924170451
-[04Jul2025 18:50:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:50:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
-[04Jul2025 18:51:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
-[04Jul2025 18:52:25.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6263994023403376
-[04Jul2025 18:52:26.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6613921259672967
-[04Jul2025 18:52:34.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.39985486482628435
-[04Jul2025 18:52:55.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.43719763997620553
-[04Jul2025 18:53:02.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4916912133779611
-[04Jul2025 18:53:15.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.4867286502786475
-[04Jul2025 18:53:25.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=49, z=1431} BlockPos{x=-251, y=48, z=1431}
-[04Jul2025 18:53:25.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=49, z=1431} BlockPos{x=-251, y=48, z=1431}
-[04Jul2025 18:53:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Best Friends Forever]
-[04Jul2025 18:53:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Free Willy]
-[04Jul2025 18:54:56.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.7473859817924631
-[04Jul2025 18:54:59.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.6400406698099335
-[04Jul2025 18:55:05.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.6768395773266583
-[04Jul2025 18:55:08.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8298145488479423
-[04Jul2025 18:55:12.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.671315446418968
-[04Jul2025 18:55:13.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8013511532290283
-[04Jul2025 18:55:13.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8013511532290283
-[04Jul2025 18:55:13.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8217679832843211
-[04Jul2025 18:55:13.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8217679832843211
-[04Jul2025 18:55:30.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.7885179861605903
-[04Jul2025 18:55:30.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 0.8195001153560422
-[04Jul2025 18:55:33.687] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/295800, l='ServerLevel[world]', x=-795.50, y=37.00, z=1421.50] as it would cause deadlock
-[04Jul2025 18:55:43.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Creative Mode]
-[04Jul2025 18:55:48.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 3.1001813365658526
-[04Jul2025 18:55:48.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of LechugaVT) moved wrongly! 3.1001813365658526
-[04Jul2025 18:55:50.539] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Jul2025 18:55:50.629] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Jul2025 18:55:50.637] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
-[04Jul2025 18:55:57.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 4.176587715164324
-[04Jul2025 18:56:04.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.793768980079166
-[04Jul2025 18:56:21.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5920528753117977
-[04Jul2025 18:56:37.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.3717302881201274
-[04Jul2025 18:56:37.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.3164923757954224
-[04Jul2025 18:56:40.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.8292090192744613
-[04Jul2025 18:56:42.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.5612155354466617
-[04Jul2025 18:56:42.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6048122178989649
-[04Jul2025 18:56:42.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6048122178989649
-[04Jul2025 18:56:42.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6074814140614919
-[04Jul2025 18:56:42.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.6074814140614919
-[04Jul2025 18:56:45.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.26190964158231494
-[04Jul2025 18:56:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Set own game mode to Survival Mode]
+[05Jul2025 19:58:50.723] [modloading-worker-0/INFO] [ShoulderSurfing/]: Freezing plugin registrar
+[05Jul2025 19:58:50.740] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[05Jul2025 19:58:50.747] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at top.theillusivec4.champions.client.integration.jade.JadePlugin
+[05Jul2025 19:58:50.748] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[05Jul2025 19:58:50.748] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at daripher.autoleveling.integration.jade.AutoLevelingWailaPlugin
+[05Jul2025 19:58:50.749] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[05Jul2025 19:58:50.750] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Jul2025 19:58:50.761] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Jul2025 19:58:50.764] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Jul2025 19:58:50.765] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
+[05Jul2025 19:58:50.766] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[05Jul2025 19:58:51.023] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:adaptable
+[05Jul2025 19:58:51.023] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:arctic
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:dampening
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:desecrating
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:enkindling
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:hasty
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:infested
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:knocking
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:lively
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:magnetic
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:molten
+[05Jul2025 19:58:51.024] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:paralyzing
+[05Jul2025 19:58:51.025] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:plagued
+[05Jul2025 19:58:51.025] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:reflective
+[05Jul2025 19:58:51.025] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:shielding
+[05Jul2025 19:58:51.025] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:wounding
+[05Jul2025 19:58:51.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[05Jul2025 19:58:51.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jul2025 19:58:51.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[05Jul2025 19:58:51.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[05Jul2025 19:58:51.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.20 Target: 1.20.1-1.0.21
+[05Jul2025 19:58:51.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[05Jul2025 19:58:51.412] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jul2025 19:58:51.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[05Jul2025 19:58:51.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[05Jul2025 19:58:51.556] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[05Jul2025 19:58:51.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[05Jul2025 19:58:51.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[05Jul2025 19:58:51.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[05Jul2025 19:58:51.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[05Jul2025 19:58:51.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[05Jul2025 19:58:51.679] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:adaptable
+[05Jul2025 19:58:51.679] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:arctic
+[05Jul2025 19:58:51.679] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:dampening
+[05Jul2025 19:58:51.679] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:desecrating
+[05Jul2025 19:58:51.679] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:enkindling
+[05Jul2025 19:58:51.679] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:hasty
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:infested
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:knocking
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:lively
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:magnetic
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:molten
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:paralyzing
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:plagued
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:reflective
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:shielding
+[05Jul2025 19:58:51.680] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:wounding
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:adaptable
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:arctic
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:dampening
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:desecrating
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:enkindling
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:hasty
+[05Jul2025 19:58:51.755] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:infested
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:knocking
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:lively
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:magnetic
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:molten
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:paralyzing
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:plagued
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:reflective
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:shielding
+[05Jul2025 19:58:51.756] [main/INFO] [top.theillusivec4.champions.Champions/]: Affix added to registry: champions:wounding
+[05Jul2025 19:58:51.916] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/assets/.mcassetsroot' uses unexpected schema
+[05Jul2025 19:58:51.916] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23239!/data/.mcassetsroot' uses unexpected schema
+[05Jul2025 19:58:55.125] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[05Jul2025 19:58:56.199] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[05Jul2025 19:58:56.217] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[05Jul2025 19:58:56.309] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[05Jul2025 19:58:56.474] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Jul2025 19:58:56.475] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Jul2025 19:58:56.475] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Jul2025 19:58:56.483] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[05Jul2025 19:58:56.484] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[05Jul2025 19:58:56.484] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_shuriken_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.510] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[05Jul2025 19:58:56.511] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[05Jul2025 19:58:56.513] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_shortsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.522] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_shortsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.526] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_spear: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.527] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_rapier_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.529] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_katana_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.536] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_battle_axe: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.539] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_throwing_knife: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.539] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[05Jul2025 19:58:56.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[05Jul2025 19:58:56.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_halberd_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.547] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_rapier_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_throwing_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_katana_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.548] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_chakram_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.549] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_pike: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.550] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
+[05Jul2025 19:58:56.551] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_katana_two_handed_smithing: com.google.gson.JsonSyntaxException: Unknown item 'dixtas_armory:diamond_katana_two_handed'
+[05Jul2025 19:58:56.551] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_battle_axe_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.561] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_glaive_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.562] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_katana: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.563] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_zweihander_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.568] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[05Jul2025 19:58:56.569] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[05Jul2025 19:58:56.581] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_glaive_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.584] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[05Jul2025 19:58:56.584] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[05Jul2025 19:58:56.587] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_shortsword: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.587] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_longsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.588] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_pike_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.589] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[05Jul2025 19:58:56.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[05Jul2025 19:58:56.597] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_halberd: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.597] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[05Jul2025 19:58:56.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[05Jul2025 19:58:56.598] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_glaive_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.605] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_halberd: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.615] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_pike_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_spear_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.627] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_longsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.627] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_rapier_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.632] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_stiletto_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.632] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[05Jul2025 19:58:56.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[05Jul2025 19:58:56.635] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[05Jul2025 19:58:56.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[05Jul2025 19:58:56.637] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_zweihander: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.638] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_battle_axe_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.649] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_stiletto: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.660] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_katana: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.665] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[05Jul2025 19:58:56.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[05Jul2025 19:58:56.666] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_pike: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.667] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_twinblade: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.675] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_dagger_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.676] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_spear: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.679] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_halberd_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.681] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_twinblade_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.683] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[05Jul2025 19:58:56.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[05Jul2025 19:58:56.684] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_shortsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.685] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_shuriken: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.686] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_greatsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.687] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_dagger_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.689] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_rapier: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.693] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_javelin_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.694] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_shortsword: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.699] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_katana_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_longsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.704] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_chakram: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.712] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[05Jul2025 19:58:56.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[05Jul2025 19:58:56.714] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[05Jul2025 19:58:56.714] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[05Jul2025 19:58:56.718] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_battle_axe_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.725] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_zweihander_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.726] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_shuriken_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.734] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_rapier: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_longsword: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.736] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_javelin_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.740] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_spear_two_handed_smithing: com.google.gson.JsonSyntaxException: Unknown item 'dixtas_armory:diamond_spear_two_handed'
+[05Jul2025 19:58:56.741] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[05Jul2025 19:58:56.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[05Jul2025 19:58:56.743] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_dagger: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.743] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_greatsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.745] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_twinblade_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.746] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_spear_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.746] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_chakram_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.747] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_dagger_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.747] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_zweihander: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.750] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_spear_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.753] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_shuriken_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.755] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[05Jul2025 19:58:56.755] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[05Jul2025 19:58:56.756] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[05Jul2025 19:58:56.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[05Jul2025 19:58:56.758] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_twinblade_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.759] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_greatsword_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_pike_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_battle_axe_two_handed_smithing: com.google.gson.JsonSyntaxException: Unknown item 'dixtas_armory:diamond_battle_axe_two_handed'
+[05Jul2025 19:58:56.760] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.763] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_javelin: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.778] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_javelin: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.778] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_throwing_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.779] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_halberd_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.787] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:electrum_stiletto_smithing: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_upgrade_smithing_template'
+[05Jul2025 19:58:56.787] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_chakram_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.788] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_battle_axe: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.794] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[05Jul2025 19:58:56.795] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[05Jul2025 19:58:56.798] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_javelin_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.798] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:necromium_throwing_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:necromium_ingot'
+[05Jul2025 19:58:56.799] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_stiletto_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_twinblade: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.802] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[05Jul2025 19:58:56.803] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[05Jul2025 19:58:56.803] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_stiletto: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.804] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_greatsword: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.808] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_throwing_knife: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.809] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_glaive: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.811] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_chakram: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.812] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:adamantite_zweihander_smithing: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:adamantite_smithing_template'
+[05Jul2025 19:58:56.812] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_longsword: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_dagger: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.815] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[05Jul2025 19:58:56.815] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[05Jul2025 19:58:56.816] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
+[05Jul2025 19:58:56.824] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[05Jul2025 19:58:56.824] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[05Jul2025 19:58:56.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:silver_glaive: com.google.gson.JsonSyntaxException: Unknown item 'caverns_and_chasms:silver_ingot'
+[05Jul2025 19:58:56.828] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dixtas_armory:netherite_shuriken: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[05Jul2025 19:58:56.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[05Jul2025 19:58:56.864] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[05Jul2025 19:58:56.936] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[05Jul2025 19:58:56.971] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[05Jul2025 19:58:56.981] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[05Jul2025 19:58:57.013] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3537 advancements
+[05Jul2025 19:58:57.020] [main/INFO] [Dungeon Crawl/]: Loading data...
+[05Jul2025 19:58:57.414] [main/INFO] [Dungeon Crawl/]: Done.
+[05Jul2025 19:58:57.434] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[05Jul2025 19:58:57.437] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[05Jul2025 19:58:57.480] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[05Jul2025 19:58:57.501] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.157501ms
+[05Jul2025 19:58:57.504] [main/WARN] [ModernFix/]: Initial datapack load took 5.549 s
+[05Jul2025 19:58:57.788] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 11 milliseconds
+[05Jul2025 19:58:57.791] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[05Jul2025 19:58:57.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Jul2025 19:58:57.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jul2025 19:58:57.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jul2025 19:58:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jul2025 19:58:57.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jul2025 19:58:57.964] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jul2025 19:58:58.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jul2025 19:58:58.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jul2025 19:58:58.095] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jul2025 19:58:58.096] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jul2025 19:58:58.117] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jul2025 19:58:58.396] [Server thread/INFO] [Framework/]: Loading server configs...
+[05Jul2025 19:58:58.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jul2025 19:58:59.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jul2025 19:59:00.915] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jul2025 19:59:00.915] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jul2025 19:59:00.916] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jul2025 19:59:00.916] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jul2025 19:59:01.034] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jul2025 19:59:01.540] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2507 ms
+[05Jul2025 19:59:01.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.426s)! For help, type "help"
+[05Jul2025 19:59:01.599] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jul2025 19:59:01.609] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Mod configuration loaded successfully!
+[05Jul2025 19:59:01.729] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Data pack `puffish_skills` loaded successfully!
+[05Jul2025 19:59:01.765] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[05Jul2025 19:59:01.766] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[05Jul2025 19:59:01.771] [Server thread/WARN] [ModernFix/]: Dedicated server took 38.201 seconds to load
+[05Jul2025 19:59:28.480] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Jul2025 19:59:28.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LechugaVT[/127.102.132.121:59839] logged in with entity id 49 at (-1713.3129735505922, 63.0, 754.9851960348178)
+[05Jul2025 19:59:28.694] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player LechugaVT
+[05Jul2025 19:59:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT joined the game
+[05Jul2025 19:59:28.854] [Server thread/INFO] [Jade/]: Syncing config to LechugaVT (df1970ee-a9e6-33ff-b4b7-cd89774ca40d)
+[05Jul2025 20:00:12.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Sea Serpent
+[05Jul2025 20:03:03.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ron1509[/127.192.85.222:51037] logged in with entity id 5417 at (-1752.4795775656567, 61.71526441874186, 724.4961017102156)
+[05Jul2025 20:03:03.070] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ron1509
+[05Jul2025 20:03:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 joined the game
+[05Jul2025 20:03:03.137] [Server thread/INFO] [Jade/]: Syncing config to Ron1509 (d06e1999-6fe2-30aa-93db-723f19446936)
+[05Jul2025 20:03:37.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moiso[/127.218.148.102:51587] logged in with entity id 8303 at (2.5, 65.0, -0.5)
+[05Jul2025 20:03:37.877] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Moiso
+[05Jul2025 20:03:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso joined the game
+[05Jul2025 20:03:37.935] [Server thread/INFO] [Jade/]: Syncing config to Moiso (d6803dfb-65b9-3514-ae7c-d391c6c02d35)
+[05Jul2025 20:03:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Dungeons And Combat]
+[05Jul2025 20:03:38.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Ice and Fire]
+[05Jul2025 20:04:14.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.2606704099601417
+[05Jul2025 20:04:39.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Ron1509) moved wrongly! 0.28819662925651596
+[05Jul2025 20:05:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Teleported Moiso to Ron1509]
+[05Jul2025 20:06:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Stone Age]
