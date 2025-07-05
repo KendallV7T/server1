@@ -2877,6 +2877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-07-05 22:04:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-07-05 21:56:08 +0000"

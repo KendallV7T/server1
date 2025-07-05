@@ -1032,3 +1032,6 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 21:59:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
 [05Jul2025 21:59:16.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
 [05Jul2025 21:59:48.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Dark Metallurgy]
+[05Jul2025 22:04:12.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 22:04:25.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 22:07:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Moiso]

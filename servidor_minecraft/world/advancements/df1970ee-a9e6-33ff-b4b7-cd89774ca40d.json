@@ -489,7 +489,9 @@
       "minecraft:creeper": "2025-07-04 17:02:25 +0000",
       "minecraft:slime": "2025-07-04 18:50:32 +0000",
       "minecraft:witch": "2025-07-04 18:48:04 +0000",
-      "minecraft:zombie": "2025-07-04 18:05:37 +0000"
+      "minecraft:husk": "2025-07-05 22:06:22 +0000",
+      "minecraft:zombie": "2025-07-04 18:05:37 +0000",
+      "minecraft:drowned": "2025-07-05 22:06:47 +0000"
     },
     "done": false
   },
@@ -3992,6 +3994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-05 22:02:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
@@ -4022,15 +4030,33 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-05 21:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-05 22:02:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-05 22:02:59 +0000"
     },
     "done": true
   },
@@ -4049,6 +4075,12 @@
   "spartanweaponry:recipes/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-05 22:03:04 +0000"
     },
     "done": true
   },
@@ -4169,6 +4201,12 @@
   "spartanweaponry:recipes/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-05 22:03:04 +0000"
     },
     "done": true
   },
