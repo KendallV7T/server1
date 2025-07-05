@@ -1208,3 +1208,8 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 23:40:18.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1075939, l='ServerLevel[world]', x=-59.84, y=65.00, z=-764.48] died, message: 'Leatherworker was killed by yeudy_ using magic'
 [05Jul2025 23:41:26.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Spectator Mode]
 [05Jul2025 23:41:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 23:41:39.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:46:22.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LechugaVT lost connection: Disconnected
+[05Jul2025 23:46:22.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT left the game
+[05Jul2025 23:48:44.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moiso lost connection: Disconnected
+[05Jul2025 23:48:44.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso left the game
