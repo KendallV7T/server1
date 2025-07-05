@@ -1117,3 +1117,11 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 22:49:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Spider
 [05Jul2025 22:49:49.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Dread Hound
 [05Jul2025 22:49:54.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/599662, l='ServerLevel[world]', x=47.49, y=68.00, z=-454.29] died: Moiso was slain by Iron Golem
+[05Jul2025 22:50:42.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 moved wrongly!
+[05Jul2025 22:50:51.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[05Jul2025 22:51:23.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 22:53:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Gave 1 [Iron Dagger] to Ron1509]
+[05Jul2025 22:54:50.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Suit Up]
+[05Jul2025 22:58:47.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Isn't It Iron Pick]
+[05Jul2025 22:59:09.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 has made the advancement [Stone Age]
+[05Jul2025 22:59:12.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
