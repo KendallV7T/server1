@@ -1159,3 +1159,52 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 23:10:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was shot by Skeleton
 [05Jul2025 23:11:03.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Diamonds!]
 [05Jul2025 23:11:11.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Moiso to LechugaVT]
+[05Jul2025 23:11:15.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Jul2025 23:11:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 23:12:00.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:13:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: The difficulty has been set to Peaceful]
+[05Jul2025 23:13:36.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by LechugaVT
+[05Jul2025 23:13:41.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Moiso to LechugaVT]
+[05Jul2025 23:13:51.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was slain by LechugaVT
+[05Jul2025 23:14:42.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: The difficulty has been set to Normal]
+[05Jul2025 23:14:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Deceived Hopes]
+[05Jul2025 23:15:09.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: Applied effect Night Vision to Ron1509]
+[05Jul2025 23:15:28.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Moiso]
+[05Jul2025 23:15:48.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/886933, l='ServerLevel[world]', x=-862.45, y=150.50, z=937.39] died: Gearling died because of Moiso
+[05Jul2025 23:16:50.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['LechugaVT'/887931, l='ServerLevel[world]', x=-854.86, y=156.00, z=942.71] died: LechugaVT was slain by Ron1509
+[05Jul2025 23:17:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ron1509: The difficulty has been set to Peaceful]
+[05Jul2025 23:17:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 was slain by Gearling
+[05Jul2025 23:17:57.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was slain by Gearling
+[05Jul2025 23:17:58.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Gearling
+[05Jul2025 23:18:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Moiso]
+[05Jul2025 23:19:04.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: The difficulty has been set to Normal]
+[05Jul2025 23:20:43.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 lost connection: Disconnected
+[05Jul2025 23:20:43.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 left the game
+[05Jul2025 23:20:57.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Gave 64 [Arrow] to LechugaVT]
+[05Jul2025 23:21:40.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 23:21:44.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Gearling
+[05Jul2025 23:21:55.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Take Aim, Chaps!]
+[05Jul2025 23:21:57.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:22:30.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 23:23:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:23:32.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: The difficulty has been set to Peaceful]
+[05Jul2025 23:23:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 23:24:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Cover Me with Diamonds]
+[05Jul2025 23:24:23.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:24:46.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Tactical Fishing]
+[05Jul2025 23:24:49.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [The Cutest Predator]
+[05Jul2025 23:26:49.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: The difficulty has been set to Normal]
+[05Jul2025 23:27:10.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Moiso]
+[05Jul2025 23:27:51.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Hot Stuff]
+[05Jul2025 23:29:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Isn't It Iron Pick]
+[05Jul2025 23:32:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Life turned out to be a comedy]
+[05Jul2025 23:33:42.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: The difficulty has been set to Peaceful]
+[05Jul2025 23:33:45.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Moiso]
+[05Jul2025 23:34:07.769] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player LechugaVT just tried to change non-editable sign
+[05Jul2025 23:35:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Spectator Mode]
+[05Jul2025 23:35:07.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 23:35:17.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: The difficulty has been set to Normal]
+[05Jul2025 23:38:39.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported Moiso to LechugaVT]
+[05Jul2025 23:40:18.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1075939, l='ServerLevel[world]', x=-59.84, y=65.00, z=-764.48] died, message: 'Leatherworker was killed by yeudy_ using magic'
+[05Jul2025 23:41:26.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Spectator Mode]
+[05Jul2025 23:41:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]

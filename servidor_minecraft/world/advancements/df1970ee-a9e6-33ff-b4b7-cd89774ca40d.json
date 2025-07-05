@@ -4010,6 +4010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-05 23:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-05 22:02:59 +0000"
@@ -4025,6 +4031,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-05 21:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-05 23:34:06 +0000"
     },
     "done": true
   },
@@ -4064,6 +4076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-05 23:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
@@ -4085,6 +4103,18 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-05 22:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-05 23:19:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-05 23:14:56 +0000"
     },
     "done": true
   },
@@ -4124,6 +4154,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-05 23:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-05 23:19:33 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
@@ -4139,6 +4181,18 @@
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-05 23:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-05 23:19:31 +0000"
     },
     "done": true
   },
@@ -4172,6 +4226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-05 23:14:56 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
@@ -4190,9 +4250,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-05 23:19:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-07-05 23:33:46 +0000"
     },
     "done": true
   },
@@ -4211,6 +4283,18 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-07-05 21:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-05 23:14:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-05 23:21:55 +0000"
     },
     "done": true
   },
