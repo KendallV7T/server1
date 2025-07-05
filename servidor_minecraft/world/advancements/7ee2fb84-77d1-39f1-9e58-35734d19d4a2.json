@@ -1478,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-05 21:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:27:09 +0000"
@@ -1901,6 +1907,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:27:09 +0000"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-07-05 21:25:44 +0000"
     },
     "done": true
   },
@@ -2489,7 +2501,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-07-05 20:38:47 +0000",
-      "bread": "2025-07-05 20:44:25 +0000"
+      "bread": "2025-07-05 20:44:25 +0000",
+      "rotten_flesh": "2025-07-05 21:22:52 +0000"
     },
     "done": false
   },

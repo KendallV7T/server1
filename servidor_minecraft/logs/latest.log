@@ -984,3 +984,34 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 21:08:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
 [05Jul2025 21:08:41.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
 [05Jul2025 21:09:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:09:43.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:10:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:10:34.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Isn't It Iron Pick]
+[05Jul2025 21:13:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:14:46.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was doomed to fall
+[05Jul2025 21:17:21.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:18:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:19:57.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ hit the ground too hard
+[05Jul2025 21:21:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Door Knight
+[05Jul2025 21:22:13.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Thornshell Crab
+[05Jul2025 21:22:48.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/243945, l='ServerLevel[world]', x=-3.81, y=63.00, z=-504.19] died: yeudy_ was slain by yeudy_
+[05Jul2025 21:22:48.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/243898, l='ServerLevel[world]', x=-2.77, y=63.00, z=-504.08] died: yeudy_ was slain by yeudy_
+[05Jul2025 21:23:07.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Thornshell Crab
+[05Jul2025 21:23:24.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:24:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:25:36.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/244875, l='ServerLevel[world]', x=46.91, y=63.00, z=-488.53] died: yeudy_ was slain by Iron Golem
+[05Jul2025 21:25:38.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/244578, l='ServerLevel[world]', x=49.65, y=63.00, z=-490.75] died: yeudy_ was slain by Iron Golem
+[05Jul2025 21:25:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has completed the challenge [Champion Hunter]
+[05Jul2025 21:25:44.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/244644, l='ServerLevel[world]', x=49.30, y=63.00, z=-491.70] died: yeudy_ was slain by Iron Golem
+[05Jul2025 21:25:49.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/245113, l='ServerLevel[world]', x=49.27, y=63.00, z=-498.03] died: yeudy_ was slain by yeudy_
+[05Jul2025 21:29:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> ya vengopapi
+[05Jul2025 21:29:19.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Moiso> ok
+[05Jul2025 21:29:23.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> voy a bañar bb
+[05Jul2025 21:29:26.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[05Jul2025 21:29:26.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[05Jul2025 21:29:32.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Moiso> ok
+[05Jul2025 21:34:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement [Sweet Dreams]
+[05Jul2025 21:39:01.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LechugaVT[/127.102.132.121:40111] logged in with entity id 250235 at (62.5, 63.0, -502.5)
+[05Jul2025 21:39:01.267] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player LechugaVT
+[05Jul2025 21:39:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT joined the game
+[05Jul2025 21:39:01.334] [Server thread/INFO] [Jade/]: Syncing config to LechugaVT (df1970ee-a9e6-33ff-b4b7-cd89774ca40d)
