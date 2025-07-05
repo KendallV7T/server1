@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
@@ -80,6 +86,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-07-05 20:08:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 20:26:38 +0000"
     },
     "done": true
   },
@@ -128,6 +140,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-05 20:15:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-05 20:35:49 +0000"
     },
     "done": true
   },
@@ -188,6 +206,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -257,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-07-05 20:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-05 20:06:09 +0000"
@@ -272,6 +302,12 @@
   "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
       "dungeons_and_combat_0": "2025-07-05 20:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-05 20:42:43 +0000"
     },
     "done": true
   },
@@ -335,9 +371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-05 20:32:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2025-07-05 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-07-05 20:26:38 +0000"
     },
     "done": true
   },
@@ -419,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-05 20:32:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-07-05 20:08:24 +0000"
@@ -428,6 +482,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-05 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -458,6 +518,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-07-05 20:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -509,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
@@ -542,6 +614,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-05 20:03:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -665,6 +743,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_tomahawk": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
@@ -701,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-05 20:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-05 20:20:39 +0000"
@@ -734,6 +824,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-07-05 20:11:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -788,6 +884,12 @@
   "spartanweaponry:recipes/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2025-07-05 20:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-05 20:42:43 +0000"
     },
     "done": true
   },
@@ -899,6 +1001,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2025-07-05 20:11:28 +0000"
@@ -926,6 +1034,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-07-05 20:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -1025,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:15:35 +0000"
@@ -1088,6 +1208,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-05 20:20:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -1205,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-05 20:42:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-07-05 20:08:24 +0000"
@@ -1313,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2025-07-05 20:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-05 20:15:34 +0000"
@@ -1328,6 +1466,18 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-07-05 20:15:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-05 20:32:36 +0000"
     },
     "done": true
   },
@@ -1358,6 +1508,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -1469,6 +1625,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-07-05 20:30:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-05 20:07:52 +0000"
@@ -1484,6 +1652,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-05 20:15:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-05 20:32:36 +0000"
     },
     "done": true
   },
@@ -1535,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
       "has_planks": "2025-07-05 20:08:24 +0000"
@@ -1547,9 +1727,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-05 20:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-07-05 20:26:38 +0000"
     },
     "done": true
   },
@@ -1637,6 +1841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-05 20:32:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 20:07:09 +0000"
@@ -1667,9 +1877,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-05 20:32:36 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-07-05 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -1691,6 +1913,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-07-05 20:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-05 20:05:16 +0000"
@@ -1706,6 +1934,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-07-05 20:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -1733,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-07-05 20:12:31 +0000"
@@ -1748,6 +1988,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-05 20:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-05 20:28:49 +0000"
     },
     "done": true
   },
@@ -1799,6 +2045,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:15:35 +0000"
@@ -1826,6 +2078,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_cut_red_sandstone": "2025-07-05 20:42:43 +0000"
     },
     "done": true
   },
@@ -1901,6 +2159,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-05 20:12:25 +0000"
@@ -1916,6 +2186,18 @@
   "spartanweaponry:recipes/quiver_compartment": {
     "criteria": {
       "has_leather": "2025-07-05 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -1973,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-07-05 20:15:35 +0000"
@@ -1985,9 +2273,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-05 20:20:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 20:52:10 +0000"
     },
     "done": true
   },
@@ -2039,6 +2345,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 20:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-05 20:18:45 +0000"
@@ -2048,6 +2360,12 @@
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-05 20:35:49 +0000"
     },
     "done": true
   },
@@ -2081,9 +2399,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-05 20:25:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2025-07-05 20:28:12 +0000"
     },
     "done": true
   },
@@ -2101,6 +2431,12 @@
   "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2025-07-05 20:08:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },
@@ -2122,9 +2458,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-05 20:26:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_dagger": {
     "criteria": {
       "has_cobblestone": "2025-07-05 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-05 20:27:40 +0000"
     },
     "done": true
   },
@@ -2136,9 +2484,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-07-05 20:38:51 +0000",
       "beef": "2025-07-05 20:09:14 +0000",
       "porkchop": "2025-07-05 20:07:25 +0000",
-      "bread": "2025-07-05 20:11:12 +0000"
+      "bread": "2025-07-05 20:11:12 +0000",
+      "cooked_rabbit": "2025-07-05 20:44:20 +0000"
     },
     "done": false
   },
@@ -2184,6 +2534,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-05 20:15:35 +0000"
@@ -2193,6 +2549,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-05 20:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-05 20:25:20 +0000"
     },
     "done": true
   },

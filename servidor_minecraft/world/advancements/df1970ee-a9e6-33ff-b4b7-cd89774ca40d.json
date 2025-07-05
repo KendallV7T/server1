@@ -3452,6 +3452,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_gauntlet_red": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_white": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_katana": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
@@ -3467,6 +3479,18 @@
   "spartanweaponry:recipes/diamond_quarterstaff": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
     },
     "done": true
   },
@@ -3491,6 +3515,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
     },
     "done": true
   },
@@ -3524,9 +3554,45 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-07-05 20:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-05 20:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-05 20:32:19 +0000"
     },
     "done": true
   },
@@ -3542,9 +3608,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-05 20:26:46 +0000"
     },
     "done": true
   },
@@ -3590,9 +3680,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-05 20:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-05 20:52:28 +0000"
     },
     "done": true
   },
@@ -3632,9 +3740,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_gauntlet_yellow": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-05 20:55:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
     },
     "done": true
   },
@@ -3650,15 +3782,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-05 20:29:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_saber": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-05 20:30:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
     },
     "done": true
   },
@@ -3680,9 +3854,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-05 20:30:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-05 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:forgotten_sands": {
+    "criteria": {
+      "forgotten_sands_0": "2025-07-05 20:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-05 20:30:15 +0000"
     },
     "done": true
   },
@@ -3692,9 +3884,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-07-05 20:49:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-05 20:29:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
     },
     "done": true
   },
@@ -3704,15 +3920,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-05 20:30:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-05 20:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-05 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-05 20:27:17 +0000"
     },
     "done": true
   },

@@ -884,3 +884,89 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 20:28:50.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Jul2025 20:28:51.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Jul2025 20:28:52.177] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:28:55.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:28:56.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:28:57.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:28:58.176] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:02.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jul2025 20:29:02.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Getting an Upgrade]
+[05Jul2025 20:29:04.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:05.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:05.931] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:10.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:11.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:12.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:13.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:16.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:17.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:18.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:18.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:22.003] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:23.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:23.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:24.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:27.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:28.931] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:29.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:30.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:33.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:35.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:36.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:36.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:40.330] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:41.994] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:42.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:43.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:47.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:48.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:49.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:50.333] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:54.162] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:54.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05Jul2025 20:29:55.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:56.592] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:29:57.271] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:30:01.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:30:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 20:30:24.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Not Today, Thank You]
+[05Jul2025 20:30:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Bloodthirsty]
+[05Jul2025 20:30:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Forgotten Sands]
+[05Jul2025 20:30:44.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Ol' Betsy]
+[05Jul2025 20:30:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Take Aim]
+[05Jul2025 20:30:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Intruder Alert]
+[05Jul2025 20:31:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Pillager
+[05Jul2025 20:31:43.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[05Jul2025 20:32:03.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jul2025 20:32:22.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
+[05Jul2025 20:32:24.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 20:33:23.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Pillager
+[05Jul2025 20:33:25.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=65, z=13}
+[05Jul2025 20:34:26.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:34:26.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jul2025 20:34:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Ron1509]
+[05Jul2025 20:35:17.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ron1509 lost connection: Disconnected
+[05Jul2025 20:35:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ron1509 left the game
+[05Jul2025 20:35:40.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Pillager
+[05Jul2025 20:36:37.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 20:36:50.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 20:39:57.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [What Was That!?]
+[05Jul2025 20:40:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Creeper
+[05Jul2025 20:40:47.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Creeper
+[05Jul2025 20:44:43.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 20:45:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Corpse Fly
+[05Jul2025 20:45:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 20:45:40.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Corpse Fly
+[05Jul2025 20:45:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Teleported LechugaVT to Moiso]
+[05Jul2025 20:52:28.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [The Cutest Predator]
+[05Jul2025 20:53:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [What Was That!?]
+[05Jul2025 20:54:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 20:54:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Spectator Mode]
+[05Jul2025 20:55:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Creative Mode]
+[05Jul2025 20:55:15.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LechugaVT: Set own game mode to Survival Mode]
+[05Jul2025 20:55:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Dark Vortex
+[05Jul2025 20:55:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Sweet Dreams]
+[05Jul2025 20:55:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT has made the advancement [Chest Slayer]
+[05Jul2025 20:56:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was blown up by Creeper
+[05Jul2025 20:57:43.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LechugaVT lost connection: Disconnected
+[05Jul2025 20:57:43.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT left the game
