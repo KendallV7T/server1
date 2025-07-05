@@ -970,3 +970,17 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [05Jul2025 20:56:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT was blown up by Creeper
 [05Jul2025 20:57:43.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LechugaVT lost connection: Disconnected
 [05Jul2025 20:57:43.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LechugaVT left the game
+[05Jul2025 20:59:55.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[05Jul2025 21:00:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[05Jul2025 21:01:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[05Jul2025 21:02:04.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[05Jul2025 21:02:04.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/232614, l='ServerLevel[world]', x=-11.03, y=64.00, z=-489.50] died: yeudy_ was slain by yeudy_
+[05Jul2025 21:02:34.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/232784, l='ServerLevel[world]', x=-37.83, y=63.00, z=-525.73] died: yeudy_ was slain by yeudy_
+[05Jul2025 21:04:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Zombie
+[05Jul2025 21:05:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[05Jul2025 21:06:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:07:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:07:49.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Is this... blood?]
+[05Jul2025 21:08:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[05Jul2025 21:08:41.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[05Jul2025 21:09:10.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
