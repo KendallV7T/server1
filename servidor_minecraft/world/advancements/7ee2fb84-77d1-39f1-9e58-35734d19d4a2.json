@@ -937,7 +937,8 @@
       "minecraft:spider": "2025-07-05 20:55:10 +0000",
       "minecraft:husk": "2025-07-05 21:02:04 +0000",
       "minecraft:enderman": "2025-07-05 22:40:59 +0000",
-      "minecraft:zombie": "2025-07-05 20:23:19 +0000"
+      "minecraft:zombie": "2025-07-05 20:23:19 +0000",
+      "minecraft:zombie_villager": "2025-07-06 00:12:29 +0000"
     },
     "done": false
   },
@@ -2633,6 +2634,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-06 00:18:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_parrying_dagger": {
     "criteria": {
       "has_diamond": "2025-07-05 23:11:03 +0000"
@@ -2798,6 +2805,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-05 23:11:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-06 00:10:52 +0000"
     },
     "done": true
   },
@@ -3710,6 +3723,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-05 23:44:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-07-06 00:13:11 +0000"
     },
     "done": true
   },
