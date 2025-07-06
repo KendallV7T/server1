@@ -16434,3 +16434,233 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 22:23:59.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [06Jul2025 22:24:00.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [06Jul2025 22:24:00.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:24:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 22:24:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mae yeumae<--[HERE]
+[06Jul2025 22:25:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to yeudy_: mae
+[06Jul2025 22:25:09.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:10.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:10.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:25:10.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:10.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:25:11.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:12.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:15.358] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:21.089] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/desert_scriber_1
+[06Jul2025 22:25:21.136] [Worker-Main-233/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[06Jul2025 22:25:33.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:34.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:37.572] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[06Jul2025 22:25:43.524] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[06Jul2025 22:25:45.284] [Worker-Main-248/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[06Jul2025 22:25:49.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:49.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:25:50.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:51.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:52.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:52.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:53.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:53.335] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:25:53.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:53.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:25:54.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:54.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:55.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:55.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:25:55.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:25:56.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sea Serpent
+[06Jul2025 22:26:15.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:16.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:16.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:17.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:17.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:18.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:21.237] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:21.237] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:22.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:22.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:25.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:30.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:30.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:30.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:32.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:32.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:32.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:33.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:34.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:34.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:38.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:38.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:38.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:26:38.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:26:57.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:06.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:16.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:17.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:17.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:20.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:20.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:21.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:21.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:22.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:22.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:24.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:24.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:25.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:25.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:26.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:26.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:26.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:26.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:27.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:28.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:29.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:29.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:30.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:33.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:34.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:34.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:36.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:27:36.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:27:46.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 22:27:46.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 22:28:02.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:03.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:06.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:06.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:28:07.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:07.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:28:15.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:17.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:24.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:24.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:28:47.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Acquire Hardware]
+[06Jul2025 22:28:51.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Blunt-force Trauma]
+[06Jul2025 22:28:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Suit Up]
+[06Jul2025 22:28:53.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:53.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:28:55.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:55.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:28:58.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:28:58.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:28:58.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:01.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:02.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Crops of the Wild]
+[06Jul2025 22:29:15.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:16.429] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:17.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:17.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:29:17.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:17.629] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:34.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:35.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:36.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:36.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:37.440] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:44.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:44.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:29:45.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:45.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:29:45.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:45.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:29:46.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:29:47.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:06.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:06.978] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:06.979] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:06.982] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.622 Armor value: 4.0 Damage ignoring armor (50.0% damage): 3.811 Damage not ignoring armor: 3.811 Reduced Damage: 3.4917145 Result Damage: 7.3027143
+[06Jul2025 22:30:08.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:08.389] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:08.389] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:08.389] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.433001 Armor value: 4.0 Damage ignoring armor (50.0% damage): 5.7165003 Damage not ignoring armor: 5.7165003 Reduced Damage: 5.4554276 Result Damage: 11.171928
+[06Jul2025 22:30:09.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:09.879] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:09.879] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:09.879] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.433001 Armor value: 4.0 Damage ignoring armor (50.0% damage): 5.7165003 Damage not ignoring armor: 5.7165003 Reduced Damage: 5.4554276 Result Damage: 11.171928
+[06Jul2025 22:30:11.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:11.227] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:11.228] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:11.228] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.622 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.811 Damage not ignoring armor: 3.811 Reduced Damage: 3.811 Result Damage: 7.622
+[06Jul2025 22:30:12.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:12.779] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:12.780] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:12.780] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 4.419584 Armor value: 0.0 Damage ignoring armor (50.0% damage): 2.209792 Damage not ignoring armor: 2.209792 Reduced Damage: 2.209792 Result Damage: 4.419584
+[06Jul2025 22:30:13.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:13.731] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:13.731] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:13.731] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.433001 Armor value: 0.0 Damage ignoring armor (50.0% damage): 5.7165003 Damage not ignoring armor: 5.7165003 Reduced Damage: 5.7165003 Result Damage: 11.433001
+[06Jul2025 22:30:15.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:15.414] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:15.415] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:15.415] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 5.4201603 Armor value: 0.0 Damage ignoring armor (50.0% damage): 2.7100801 Damage not ignoring armor: 2.7100801 Reduced Damage: 2.7100801 Result Damage: 5.4201603
+[06Jul2025 22:30:16.123] [Worker-Main-247/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[06Jul2025 22:30:16.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:16.230] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:16.230] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:16.230] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.622 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.811 Damage not ignoring armor: 3.811 Reduced Damage: 3.811 Result Damage: 7.622
+[06Jul2025 22:30:17.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:17.785] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:17.785] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:17.785] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 4.9013424 Armor value: 0.0 Damage ignoring armor (50.0% damage): 2.4506712 Damage not ignoring armor: 2.4506712 Reduced Damage: 2.4506712 Result Damage: 4.9013424
+[06Jul2025 22:30:18.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:18.447] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:18.447] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:18.447] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 4.9013424 Armor value: 0.0 Damage ignoring armor (50.0% damage): 2.4506712 Damage not ignoring armor: 2.4506712 Reduced Damage: 2.4506712 Result Damage: 4.9013424
+[06Jul2025 22:30:19.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:19.127] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:19.127] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:19.127] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 5.4201603 Armor value: 0.0 Damage ignoring armor (50.0% damage): 2.7100801 Damage not ignoring armor: 2.7100801 Reduced Damage: 2.7100801 Result Damage: 5.4201603
+[06Jul2025 22:30:19.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:19.983] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[06Jul2025 22:30:19.983] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[06Jul2025 22:30:19.983] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.1989613 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.5994806 Damage not ignoring armor: 3.5994806 Reduced Damage: 3.5994806 Result Damage: 7.1989613
+[06Jul2025 22:30:36.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:38.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:40.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:30:46.913] [Worker-Main-254/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[06Jul2025 22:31:24.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:25.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:25.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:31:26.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:30.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:31:30.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:30.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:31:30.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:31.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:31.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:31:32.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:32.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:31:32.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:33.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:33.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:31:33.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:34.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:34.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:31:34.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:36.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:37.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:40.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:41.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:44.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:31:45.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:31:45.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:32:04.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:05.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:11.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> mae
+[06Jul2025 22:32:31.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:32.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:33.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:33.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:33.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 22:32:34.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:35.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 22:32:44.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[06Jul2025 22:32:44.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[06Jul2025 22:32:44.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[06Jul2025 22:32:44.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[06Jul2025 22:32:46.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 22:32:46.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 22:33:22.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 22:33:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 22:34:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
