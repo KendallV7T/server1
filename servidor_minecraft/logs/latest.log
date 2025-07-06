@@ -669,3 +669,4 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 20:57:53.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/155646, l='ServerLevel[world]', x=9.69, y=62.00, z=-551.69] died: yeudy_ was slain by Corpse Fish
 [06Jul2025 21:01:34.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Ice Bucket Challenge]
 [06Jul2025 21:13:25.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/209713, l='ServerLevel[world]', x=-245.39, y=54.00, z=-778.12] died: yeudy_ drowned
+[06Jul2025 21:15:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Cover Me with Diamonds]
