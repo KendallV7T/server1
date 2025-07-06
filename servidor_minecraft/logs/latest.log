@@ -855,3 +855,26 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 23:21:40.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
 [06Jul2025 23:23:45.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/502531, l='ServerLevel[world]', x=-34.87, y=64.00, z=-470.72] died: yeudy_ went up in flames
 [06Jul2025 23:23:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 23:25:36.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/505118, l='ServerLevel[world]', x=-145.43, y=45.00, z=-449.30] died: yeudy_ was slain by Corpse Fish
+[06Jul2025 23:25:39.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/505014, l='ServerLevel[world]', x=-53.30, y=64.00, z=-481.54] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:25:43.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/505013, l='ServerLevel[world]', x=-52.60, y=64.00, z=-480.12] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:25:45.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/504804, l='ServerLevel[world]', x=-55.34, y=64.00, z=-481.55] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:26:41.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:27:50.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:28:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 23:29:36.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509493, l='ServerLevel[world]', x=5.74, y=66.00, z=-479.68] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:29:41.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/509479, l='ServerLevel[world]', x=9.70, y=64.00, z=-491.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:05.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/509478, l='ServerLevel[world]', x=12.20, y=64.00, z=-491.42] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:10.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509504, l='ServerLevel[world]', x=11.96, y=64.00, z=-491.30] died: yeudy_ tried to swim in lava to escape yeudy_
+[06Jul2025 23:30:23.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509519, l='ServerLevel[world]', x=12.09, y=64.00, z=-491.66] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:29.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509539, l='ServerLevel[world]', x=11.65, y=64.00, z=-491.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:41.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/509459, l='ServerLevel[world]', x=11.31, y=64.00, z=-491.65] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:49.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509501, l='ServerLevel[world]', x=11.34, y=64.00, z=-491.57] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:56.783] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/509477, l='ServerLevel[world]', x=12.09, y=64.00, z=-491.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:30:56.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/509572, l='ServerLevel[world]', x=11.70, y=64.00, z=-491.24] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:31:13.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509496, l='ServerLevel[world]', x=11.57, y=64.00, z=-491.24] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:31:18.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509502, l='ServerLevel[world]', x=11.78, y=64.00, z=-491.52] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:31:59.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/509535, l='ServerLevel[world]', x=12.00, y=64.00, z=-491.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:32:04.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/510250, l='ServerLevel[world]', x=11.46, y=64.00, z=-491.24] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:32:12.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509497, l='ServerLevel[world]', x=12.15, y=64.00, z=-491.51] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:34:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
