@@ -572,3 +572,14 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 19:29:00.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
 [06Jul2025 19:30:44.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
 [06Jul2025 19:32:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:33:04.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[06Jul2025 19:33:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 19:34:08.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:41201] logged in with entity id 86788 at (-421.30000001192093, 67.0, -951.0749999880791)
+[06Jul2025 19:34:08.471] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 19:34:08.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 19:34:08.475] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 19:35:42.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:37:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:42:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:42:24.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[06Jul2025 19:42:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
