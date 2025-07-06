@@ -2981,6 +2981,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-06 00:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-05 22:36:12 +0000"
@@ -3527,6 +3533,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-06 00:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-05 23:05:29 +0000"
@@ -3575,6 +3587,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-07-06 00:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-05 23:11:03 +0000"
@@ -3620,6 +3638,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-07-05 22:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-06 00:04:28 +0000"
     },
     "done": true
   },
