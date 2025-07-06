@@ -520,3 +520,55 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 18:57:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Fire Dragon
 [06Jul2025 18:58:20.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ drowned whilst trying to escape Fire Dragon
 [06Jul2025 19:00:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Safe Haven]
+[06Jul2025 19:02:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Call For Adventure]
+[06Jul2025 19:02:28.948] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[06Jul2025 19:02:34.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5609ms or 112 ticks behind
+[06Jul2025 19:04:15.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/47143, l='ServerLevel[world]', x=-566.81, y=74.29, z=-831.99]
+[06Jul2025 19:04:15.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/47144, l='ServerLevel[world]', x=-568.85, y=73.84, z=-831.77]
+[06Jul2025 19:05:59.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Pillager
+[06Jul2025 19:06:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Pillager
+[06Jul2025 19:07:57.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/63377, l='ServerLevel[world]', x=-416.52, y=69.00, z=-963.05] died, message: 'Nitwit was shot by Pillager'
+[06Jul2025 19:08:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Vindicator
+[06Jul2025 19:08:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Vindicator
+[06Jul2025 19:08:34.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Vindicator
+[06Jul2025 19:08:51.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Vindicator
+[06Jul2025 19:09:07.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63336, l='ServerLevel[world]', x=-422.15, y=71.00, z=-952.50] died, message: 'Unemployed was slain by yeudy_'
+[06Jul2025 19:09:20.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 19:09:31.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:09:47.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[06Jul2025 19:10:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:10:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:10:37.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/69632, l='ServerLevel[world]', x=-420.70, y=67.00, z=-953.51] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:10:39.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/70821, l='ServerLevel[world]', x=-421.74, y=67.00, z=-953.30] died: yeudy_ was shot by Skeleton
+[06Jul2025 19:11:19.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/67724, l='ServerLevel[world]', x=-420.30, y=67.00, z=-953.51] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:11:23.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/71397, l='ServerLevel[world]', x=-420.37, y=67.00, z=-953.46] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:11:38.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ bled to death
+[06Jul2025 19:11:49.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:13:17.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/72974, l='ServerLevel[world]', x=-419.31, y=66.00, z=-952.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:13:55.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/72480, l='ServerLevel[world]', x=-419.30, y=66.00, z=-953.02] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:14:17.066] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/73042, l='ServerLevel[world]', x=-419.70, y=66.00, z=-952.87] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:14:20.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/72553, l='ServerLevel[world]', x=-419.70, y=66.00, z=-952.48] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:15:00.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ went up in flames
+[06Jul2025 19:15:19.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/68242, l='ServerLevel[world]', x=-420.54, y=67.00, z=-953.36] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:16:15.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/73101, l='ServerLevel[world]', x=-420.30, y=67.00, z=-953.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:16:51.138] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/73098, l='ServerLevel[world]', x=-421.92, y=67.00, z=-953.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:16:51.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/73060, l='ServerLevel[world]', x=-421.49, y=67.00, z=-953.55] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:17:28.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Hammer Time!]
+[06Jul2025 19:18:40.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:21:05.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/78388, l='ServerLevel[world]', x=-418.53, y=64.00, z=-953.45] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:21:47.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:22:38.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:23:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:24:57.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:26:28.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:26:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:28:01.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[06Jul2025 19:28:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 19:28:01.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:28:18.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:49843] logged in with entity id 84005 at (-413.8098303903833, 48.0, -999.3000000119209)
+[06Jul2025 19:28:18.926] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 19:28:18.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 19:28:18.936] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 19:29:00.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:30:44.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:32:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
