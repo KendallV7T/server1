@@ -18363,3 +18363,68 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 23:32:46.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 23:34:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
 [06Jul2025 23:35:15.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:35:56.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:35:56.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:35:57.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:35:57.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:35:58.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:35:58.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/514186, l='ServerLevel[world]', x=12.71, y=64.00, z=-493.39] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:35:59.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:35:59.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/514454, l='ServerLevel[world]', x=11.70, y=64.88, z=-493.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:35:59.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:36:04.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:04.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:36:08.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:08.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:08.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:36:09.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:13.068] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:13.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:13.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:36:14.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:15.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:15.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:36:17.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509540, l='ServerLevel[world]', x=13.70, y=64.00, z=-490.63] died: yeudy_ tried to swim in lava
+[06Jul2025 23:36:25.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:25.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:36:41.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:36:42.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:02.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:03.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:04.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:04.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:04.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:04.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:05.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:05.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:06.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:06.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:06.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:06.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:07.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:07.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:08.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:08.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:09.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:09.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:09.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:09.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:18.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:18.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:19.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:19.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/509462, l='ServerLevel[world]', x=13.70, y=64.00, z=-489.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:37:21.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:21.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:23.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:23.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:25.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:26.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[06Jul2025 23:37:26.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/512498, l='ServerLevel[world]', x=13.48, y=64.00, z=-489.43] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:37:26.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[06Jul2025 23:37:46.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:37:46.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:41:59.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/514518, l='ServerLevel[world]', x=8.47, y=63.00, z=-505.30] died: yeudy_ was shot by yeudy_
+[06Jul2025 23:42:46.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:42:46.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:43:18.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[06Jul2025 23:43:18.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game

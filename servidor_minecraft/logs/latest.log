@@ -878,3 +878,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 23:32:04.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/510250, l='ServerLevel[world]', x=11.46, y=64.00, z=-491.24] died: yeudy_ was slain by yeudy_
 [06Jul2025 23:32:12.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509497, l='ServerLevel[world]', x=12.15, y=64.00, z=-491.51] died: yeudy_ was slain by yeudy_
 [06Jul2025 23:34:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:35:58.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/514186, l='ServerLevel[world]', x=12.71, y=64.00, z=-493.39] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:35:59.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/514454, l='ServerLevel[world]', x=11.70, y=64.88, z=-493.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:36:17.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/509540, l='ServerLevel[world]', x=13.70, y=64.00, z=-490.63] died: yeudy_ tried to swim in lava
+[06Jul2025 23:37:19.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/509462, l='ServerLevel[world]', x=13.70, y=64.00, z=-489.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:37:26.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/512498, l='ServerLevel[world]', x=13.48, y=64.00, z=-489.43] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:41:59.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/514518, l='ServerLevel[world]', x=8.47, y=63.00, z=-505.30] died: yeudy_ was shot by yeudy_
+[06Jul2025 23:43:18.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[06Jul2025 23:43:18.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
