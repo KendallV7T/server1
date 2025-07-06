@@ -583,3 +583,30 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 19:42:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
 [06Jul2025 19:42:24.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
 [06Jul2025 19:42:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 19:54:32.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:51773] logged in with entity id 89492 at (-423.8146493992349, 68.0, -949.9861153594687)
+[06Jul2025 19:54:32.268] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 19:54:32.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 19:54:32.272] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 19:55:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:55:24.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:55:42.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:55:53.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:56:04.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:56:16.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 19:56:40.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:56:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:57:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:57:28.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:57:58.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 19:58:09.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:58:27.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 19:58:41.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/97452, l='ServerLevel[world]', x=-423.18, y=67.00, z=-962.45] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:59:01.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/97445, l='ServerLevel[world]', x=-412.43, y=68.00, z=-971.11] died: yeudy_ was slain by yeudy_
+[06Jul2025 19:59:02.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 20:01:24.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/98619, l='ServerLevel[world]', x=-414.55, y=63.23, z=-954.55] died: yeudy_ burned to death
+[06Jul2025 20:01:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 20:01:49.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 20:02:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 20:02:21.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/102059, l='ServerLevel[world]', x=-423.68, y=67.00, z=-956.50] died: yeudy_ burned to death
+[06Jul2025 20:02:28.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Stray
+[06Jul2025 20:02:35.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/101966, l='ServerLevel[world]', x=-426.49, y=68.00, z=-949.97] died: yeudy_ was shot by Stray
