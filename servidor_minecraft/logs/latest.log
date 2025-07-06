@@ -734,3 +734,60 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 22:33:22.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
 [06Jul2025 22:33:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
 [06Jul2025 22:34:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 22:35:19.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ drowned
+[06Jul2025 22:36:15.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Isn't It Iron Pick]
+[06Jul2025 22:37:01.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:37:01.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/421557, l='ServerLevel[world]', x=-24.59, y=62.00, z=-575.63] died: yeudy_ was shot by yeudy_
+[06Jul2025 22:37:04.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:37:10.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/422057, l='ServerLevel[world]', x=-25.59, y=62.00, z=-585.07] died: yeudy_ was slain by yeudy_
+[06Jul2025 22:37:10.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [A Bigger Blade]
+[06Jul2025 22:38:03.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/417458, l='ServerLevel[world]', x=35.78, y=71.00, z=-498.23] died: yeudy_ was killed trying to hurt yeudy_
+[06Jul2025 22:38:09.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:38:10.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:38:12.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:38:12.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:38:16.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:40:28.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/409500, l='ServerLevel[world]', x=44.50, y=71.00, z=-1190.98] died, message: 'Unemployed was slain by Swarmer'
+[06Jul2025 22:40:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 22:41:14.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[06Jul2025 22:41:14.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 22:42:17.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:51655] logged in with entity id 436054 at (12.454292685308957, 64.5625, -494.7974907859309)
+[06Jul2025 22:42:17.541] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 22:42:17.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 22:42:17.550] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 22:42:28.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/408958, l='ServerLevel[world]', x=50.70, y=65.42, z=-1236.08] died, message: 'Cartographer was shot by Pillager'
+[06Jul2025 22:43:05.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 22:43:37.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/436079, l='ServerLevel[world]', x=45.53, y=68.56, z=-493.30] died, message: 'Unemployed was slain by yeudy_'
+[06Jul2025 22:44:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Ol' Betsy]
+[06Jul2025 22:44:24.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Take Aim]
+[06Jul2025 22:45:25.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 22:46:21.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 22:47:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 22:47:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> [x:50, y:96, z:-1213, dim:minecraft:overworld]
+[06Jul2025 22:47:40.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:48:02.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/460448, l='ServerLevel[world]', x=10.70, y=65.00, z=-494.30] died: yeudy_ suffocated in a wall
+[06Jul2025 22:48:03.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:48:13.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/459451, l='ServerLevel[world]', x=12.49, y=64.00, z=-494.49] died: yeudy_ was slain by yeudy_
+[06Jul2025 22:48:15.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/456766, l='ServerLevel[world]', x=12.26, y=64.00, z=-493.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 22:48:18.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/460955, l='ServerLevel[world]', x=12.24, y=64.00, z=-493.40] died: yeudy_ was slain by yeudy_
+[06Jul2025 22:48:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ bled to death
+[06Jul2025 22:48:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:49:04.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [The Desert Swimmers]
+[06Jul2025 22:49:09.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:49:22.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:49:32.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Diamonds!]
+[06Jul2025 22:50:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:50:09.331] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/464566, l='ServerLevel[world]', x=10.40, y=54.00, z=-537.38] died: yeudy_ drowned
+[06Jul2025 22:50:12.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Baby Skeleton
+[06Jul2025 22:50:13.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:50:42.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was blown up by Creeper
+[06Jul2025 22:51:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 22:52:04.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[06Jul2025 22:52:04.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 22:52:13.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:52277] logged in with entity id 468969 at (132.94869860617433, 63.0, -176.62989449122057)
+[06Jul2025 22:52:13.532] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 22:52:13.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 22:52:13.547] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 22:53:25.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Mummy
+[06Jul2025 22:53:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Forgotten Sands]
+[06Jul2025 22:54:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
