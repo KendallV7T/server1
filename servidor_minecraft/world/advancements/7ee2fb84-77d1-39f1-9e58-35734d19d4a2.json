@@ -2609,6 +2609,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-05 23:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-05 23:05:29 +0000"
@@ -3059,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-05 23:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-05 23:11:03 +0000"
@@ -3389,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-05 23:58:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_heavy_crossbow": {
     "criteria": {
       "has_silver_ingot": "2025-07-05 22:51:19 +0000"
@@ -3590,6 +3608,12 @@
   "spartanweaponry:recipes/silver_lance": {
     "criteria": {
       "has_silver_ingot": "2025-07-05 22:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-05 23:58:07 +0000"
     },
     "done": true
   },
