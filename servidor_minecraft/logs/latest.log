@@ -476,3 +476,47 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 18:19:33.438] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
 [06Jul2025 18:21:14.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Missionary
 [06Jul2025 18:21:42.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Missionary
+[06Jul2025 18:27:36.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/13799, l='ServerLevel[world]', x=-71.43, y=68.00, z=-732.79] died: yeudy_ was slain by yeudy_
+[06Jul2025 18:28:06.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 18:30:18.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/18167, l='ServerLevel[world]', x=-62.76, y=68.00, z=-751.20] died: yeudy_ was slain by yeudy_
+[06Jul2025 18:30:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 18:31:36.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 18:32:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 18:32:46.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 18:32:47.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/20245, l='ServerLevel[world]', x=-59.92, y=68.00, z=-736.86] died: yeudy_ was slain by yeudy_
+[06Jul2025 18:32:48.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/19333, l='ServerLevel[world]', x=-59.39, y=68.00, z=-737.51] died: yeudy_ was slain by yeudy_
+[06Jul2025 18:32:50.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/20616, l='ServerLevel[world]', x=-59.61, y=68.00, z=-738.86] died: yeudy_ was slain by yeudy_
+[06Jul2025 18:33:01.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 18:33:24.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ tried to swim in lava to escape yeudy_
+[06Jul2025 18:33:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ tried to swim in lava
+[06Jul2025 18:34:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ tried to swim in lava
+[06Jul2025 18:35:36.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Fire Dragon
+[06Jul2025 18:35:46.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/23477, l='ServerLevel[world]', x=-57.46, y=-35.00, z=-771.58] died: yeudy_ tried to swim in lava
+[06Jul2025 18:36:21.060] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/23478, l='ServerLevel[world]', x=-58.23, y=-28.48, z=-771.27] died: yeudy_ tried to swim in lava to escape yeudy_
+[06Jul2025 18:36:29.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/22762, l='ServerLevel[world]', x=-55.23, y=-38.00, z=-770.75] died: yeudy_ tried to swim in lava
+[06Jul2025 18:36:29.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ tried to swim in lava
+[06Jul2025 18:36:42.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/24238, l='ServerLevel[world]', x=-57.04, y=68.00, z=-742.32] died: yeudy_ was slain by yeudy_
+[06Jul2025 18:37:51.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=67, z=-735} BlockPos{x=-72, y=66, z=-735}
+[06Jul2025 18:38:10.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Lightning Dragon
+[06Jul2025 18:38:58.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/28238, l='ServerLevel[world]', x=-51.92, y=-43.00, z=-769.70] died: yeudy_ drowned
+[06Jul2025 18:41:16.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was incinerated by a dragon
+[06Jul2025 18:41:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=71, z=7}
+[06Jul2025 18:45:13.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ drowned
+[06Jul2025 18:46:20.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[06Jul2025 18:46:20.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 18:46:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Drowned
+[06Jul2025 18:46:20.916] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 18:47:07.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:34019] logged in with entity id 38094 at (29.988418360816382, 61.5681218798823, -539.2183211335589)
+[06Jul2025 18:47:07.547] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 18:47:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 18:47:07.572] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 18:53:23.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[06Jul2025 18:53:23.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 18:53:23.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was doomed to fall
+[06Jul2025 18:55:19.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:57561] logged in with entity id 40938 at (-275.955119021303, 61.0, -956.1812399316184)
+[06Jul2025 18:55:19.927] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 18:55:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 18:55:19.932] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 18:57:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Fire Dragon
+[06Jul2025 18:58:20.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ drowned whilst trying to escape Fire Dragon
+[06Jul2025 19:00:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Safe Haven]
