@@ -26,3 +26,17 @@
 [06Jul2025 00:32:08.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1206982, l='ServerLevel[world]', x=70.53, y=63.00, z=-500.84] died, message: 'Leatherworker was slain by Ravager'
 [06Jul2025 00:32:11.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1206949, l='ServerLevel[world]', x=61.64, y=67.00, z=-467.85] died, message: 'Nitwit was slain by Vex'
 [06Jul2025 00:32:21.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1207004, l='ServerLevel[world]', x=58.31, y=63.00, z=-485.66] died, message: 'Cartographer was slain by Ravager'
+[06Jul2025 00:32:45.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Vex
+[06Jul2025 00:32:54.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/1207772, l='ServerLevel[world]', x=58.01, y=63.00, z=-485.62] died, message: 'Shepherd was slain by Ravager'
+[06Jul2025 00:33:05.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1207708, l='ServerLevel[world]', x=60.48, y=67.23, z=-489.52] died, message: 'Unemployed was slain by Vex'
+[06Jul2025 00:33:06.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1207684, l='ServerLevel[world]', x=35.30, y=74.00, z=-493.50] died, message: 'Mason was slain by Vindicator'
+[06Jul2025 00:33:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Silverfish
+[06Jul2025 00:33:34.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1208423, l='ServerLevel[world]', x=60.51, y=63.00, z=-520.84] died, message: 'Unemployed was slain by Vindicator'
+[06Jul2025 00:33:46.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1208456, l='ServerLevel[world]', x=59.49, y=66.75, z=-472.30] died, message: 'Nitwit was slain by Vex'
+[06Jul2025 00:34:09.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1208412, l='ServerLevel[world]', x=35.69, y=68.00, z=-462.43] died, message: 'Armorer was shot by Pillager'
+[06Jul2025 00:34:47.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/1208422, l='ServerLevel[world]', x=67.34, y=63.00, z=-485.60] died, message: 'Librarian hit the ground too hard whilst trying to escape Vex'
+[06Jul2025 00:35:04.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ went up in flames
+[06Jul2025 00:35:35.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/1208482, l='ServerLevel[world]', x=53.95, y=69.00, z=-452.11] died: yeudy_ was slain by yeudy_
+[06Jul2025 00:35:48.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1209456, l='ServerLevel[world]', x=63.48, y=63.00, z=-537.07] died, message: 'Nitwit bled to death'
+[06Jul2025 00:38:50.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ died
+[06Jul2025 00:39:36.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1213199, l='ServerLevel[world]', x=55.63, y=70.00, z=-443.49] died, message: 'Leatherworker was shot by Missionary'
