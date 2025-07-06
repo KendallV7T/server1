@@ -633,3 +633,28 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 20:12:47.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/104093, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
 [06Jul2025 20:12:47.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/109655, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
 [06Jul2025 20:12:47.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/110214, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:12:58.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Corpse Maggot
+[06Jul2025 20:13:56.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/110213, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:13:59.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/110158, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:13.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/101335, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:19.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/107614, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:29.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/101284, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:29.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/110199, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:30.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/104126, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:30.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/107594, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:30.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/109651, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:30.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/109604, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:14:38.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/101286, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:16:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Zombie
+[06Jul2025 20:17:42.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/123078, l='ServerLevel[world]', x=-417.30, y=66.00, z=-952.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:17:46.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/122923, l='ServerLevel[world]', x=-417.60, y=66.00, z=-952.60] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:19:21.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/104134, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:19:29.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/123151, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:19:29.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/103432, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:19:40.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Corpse Maggot
+[06Jul2025 20:20:20.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Corpse Maggot
+[06Jul2025 20:20:34.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/116177, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:20:44.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/98640, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:21:05.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/101336, l='ServerLevel[world]', x=-419.70, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:21:49.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/104096, l='ServerLevel[world]', x=-419.30, y=65.00, z=-955.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 20:22:05.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/116133, l='ServerLevel[world]', x=-419.55, y=65.00, z=-955.55] died: yeudy_ was slain by yeudy_

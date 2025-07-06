@@ -942,6 +942,7 @@
       "minecraft:husk": "2025-07-05 21:02:04 +0000",
       "minecraft:enderman": "2025-07-05 22:40:59 +0000",
       "minecraft:silverfish": "2025-07-06 00:29:39 +0000",
+      "minecraft:stray": "2025-07-06 20:14:36 +0000",
       "minecraft:zombie": "2025-07-05 20:23:19 +0000",
       "minecraft:drowned": "2025-07-06 18:24:47 +0000",
       "minecraft:zombie_villager": "2025-07-06 00:12:29 +0000"
@@ -2295,6 +2296,7 @@
       "bread": "2025-07-05 20:44:25 +0000",
       "rotten_flesh": "2025-07-05 21:22:52 +0000",
       "glow_berries": "2025-07-05 23:15:32 +0000",
+      "melon_slice": "2025-07-06 20:18:08 +0000",
       "cooked_salmon": "2025-07-05 22:42:20 +0000"
     },
     "done": false
