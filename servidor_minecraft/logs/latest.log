@@ -791,3 +791,67 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 22:53:25.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Mummy
 [06Jul2025 22:53:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Forgotten Sands]
 [06Jul2025 22:54:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 22:55:08.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 22:55:09.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/471679, l='ServerLevel[world]', x=-18.40, y=73.00, z=-1147.55] died, message: 'Weaponsmith went off with a bang'
+[06Jul2025 22:56:26.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/469593, l='ServerLevel[world]', x=40.03, y=72.00, z=-464.49] died: yeudy_ tried to swim in lava
+[06Jul2025 22:56:34.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/469579, l='ServerLevel[world]', x=41.50, y=68.00, z=-464.35] died: yeudy_ tried to swim in lava
+[06Jul2025 22:56:37.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/472558, l='ServerLevel[world]', x=42.53, y=68.00, z=-462.15] died: yeudy_ tried to swim in lava
+[06Jul2025 22:57:22.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: binny lost connection: Disconnected
+[06Jul2025 22:57:22.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny left the game
+[06Jul2025 22:57:22.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Baby Skeleton
+[06Jul2025 22:57:34.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/469590, l='ServerLevel[world]', x=8.70, y=65.00, z=-490.30] died: yeudy_ tried to swim in lava to escape yeudy_
+[06Jul2025 22:58:11.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 22:58:15.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475845, l='ServerLevel[world]', x=5.50, y=64.00, z=-488.38] died: yeudy_ burned to death
+[06Jul2025 22:59:30.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475909, l='ServerLevel[world]', x=-5.78, y=65.00, z=-480.30] died: yeudy_ tried to swim in lava
+[06Jul2025 22:59:31.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475846, l='ServerLevel[world]', x=-5.50, y=65.00, z=-480.45] died: yeudy_ burned to death
+[06Jul2025 22:59:33.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475843, l='ServerLevel[world]', x=-4.82, y=65.00, z=-480.37] died: yeudy_ tried to swim in lava
+[06Jul2025 22:59:33.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475844, l='ServerLevel[world]', x=-5.64, y=65.00, z=-480.61] died: yeudy_ tried to swim in lava
+[06Jul2025 23:00:16.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475830, l='ServerLevel[world]', x=12.24, y=64.00, z=-494.03] died: yeudy_ burned to death
+[06Jul2025 23:00:31.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/476921, l='ServerLevel[world]', x=8.82, y=68.00, z=-492.82] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:00:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:00:35.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/475835, l='ServerLevel[world]', x=11.01, y=67.00, z=-491.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:01:14.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:02:58.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/477752, l='ServerLevel[world]', x=-0.12, y=64.00, z=-491.19] died: yeudy_ tried to swim in lava
+[06Jul2025 23:03:16.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: binny[/127.225.55.3:54951] logged in with entity id 479504 at (55.4242194899281, 65.0, -1209.1209573904357)
+[06Jul2025 23:03:16.886] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
+[06Jul2025 23:03:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
+[06Jul2025 23:03:16.890] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
+[06Jul2025 23:03:24.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:04:40.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 23:04:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:05:20.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny fell from a high place
+[06Jul2025 23:05:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 23:06:23.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 23:06:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:06:40.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/487340, l='ServerLevel[world]', x=43.96, y=75.00, z=-1147.55] died, message: 'Fisherman was shot by Pillager'
+[06Jul2025 23:07:05.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: binny lost connection: Disconnected
+[06Jul2025 23:07:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny left the game
+[06Jul2025 23:07:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[06Jul2025 23:07:44.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by yeudy_
+[06Jul2025 23:09:32.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490307, l='ServerLevel[world]', x=15.46, y=66.00, z=-492.03] died: yeudy_ burned to death
+[06Jul2025 23:09:39.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490112, l='ServerLevel[world]', x=14.26, y=68.50, z=-493.52] died: yeudy_ tried to swim in lava
+[06Jul2025 23:09:39.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490237, l='ServerLevel[world]', x=14.96, y=68.50, z=-493.02] died: yeudy_ tried to swim in lava
+[06Jul2025 23:09:52.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490309, l='ServerLevel[world]', x=15.52, y=67.82, z=-493.48] died: yeudy_ tried to swim in lava
+[06Jul2025 23:10:09.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490308, l='ServerLevel[world]', x=14.55, y=68.50, z=-493.55] died: yeudy_ burned to death
+[06Jul2025 23:10:39.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/491317, l='ServerLevel[world]', x=10.70, y=68.00, z=-496.30] died: yeudy_ burned to death
+[06Jul2025 23:11:12.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/491204, l='ServerLevel[world]', x=16.34, y=66.00, z=-492.18] died: yeudy_ hit the ground too hard whilst trying to escape yeudy_
+[06Jul2025 23:11:39.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490305, l='ServerLevel[world]', x=11.70, y=67.05, z=-494.56] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:11:49.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490296, l='ServerLevel[world]', x=12.76, y=64.00, z=-493.30] died: yeudy_ walked into fire whilst fighting yeudy_
+[06Jul2025 23:12:25.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490301, l='ServerLevel[world]', x=12.76, y=64.00, z=-493.55] died: yeudy_ went up in flames
+[06Jul2025 23:12:55.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:13:30.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/490295, l='ServerLevel[world]', x=12.76, y=64.00, z=-494.02] died: yeudy_ burned to death
+[06Jul2025 23:13:40.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:14:20.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:14:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:15:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Hunt and Gather]
+[06Jul2025 23:15:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:15:38.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[06Jul2025 23:16:33.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ drowned
+[06Jul2025 23:17:13.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/497874, l='ServerLevel[world]', x=66.13, y=69.00, z=-448.21] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:17:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed trying to hurt yeudy_
+[06Jul2025 23:19:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Drowned
+[06Jul2025 23:20:47.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/500083, l='ServerLevel[world]', x=55.68, y=64.00, z=-491.30] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:21:04.280] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/500095, l='ServerLevel[world]', x=55.59, y=64.00, z=-491.70] died: yeudy_ was slain by yeudy_
+[06Jul2025 23:21:40.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
+[06Jul2025 23:23:45.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/502531, l='ServerLevel[world]', x=-34.87, y=64.00, z=-470.72] died: yeudy_ went up in flames
+[06Jul2025 23:23:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was killed by yeudy_ using magic
