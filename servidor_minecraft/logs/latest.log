@@ -672,3 +672,43 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 21:15:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Cover Me with Diamonds]
 [06Jul2025 21:27:47.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [When in Rome]
 [06Jul2025 21:30:34.369] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
+[06Jul2025 21:34:24.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Take Aim, Chaps!]
+[06Jul2025 21:35:11.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[06Jul2025 21:35:11.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[06Jul2025 21:36:17.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:51369] logged in with entity id 254796 at (75.66397788349647, 27.0, -434.62893977970725)
+[06Jul2025 21:36:17.018] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[06Jul2025 21:36:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[06Jul2025 21:36:17.030] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[06Jul2025 21:49:14.575] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@687a4fe0[id=<null>,name=binny,properties={},legacy=false] (/127.225.55.3:35503) lost connection: Disconnected
+[06Jul2025 21:49:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Smash And Bash!]
+[06Jul2025 21:50:01.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ moved wrongly!
+[06Jul2025 21:51:27.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: binny[/127.225.55.3:57039] logged in with entity id 298094 at (-5.5, 70.0, 6.5)
+[06Jul2025 21:51:27.831] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
+[06Jul2025 21:51:27.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
+[06Jul2025 21:51:27.874] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
+[06Jul2025 21:51:27.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Dungeons And Combat]
+[06Jul2025 21:51:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Ice and Fire]
+[06Jul2025 21:51:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> hola papus
+[06Jul2025 21:53:11.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Monster Hunter]
+[06Jul2025 21:57:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> XD
+[06Jul2025 21:58:10.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> llama
+[06Jul2025 21:58:54.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> mae ni venga
+[06Jul2025 21:58:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> xd
+[06Jul2025 21:59:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> me muero pe
+[06Jul2025 21:59:19.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> se
+[06Jul2025 22:02:51.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> estoy en discort por si quieres mae
+[06Jul2025 22:02:56.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> ok
+[06Jul2025 22:05:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> puto dragon
+[06Jul2025 22:05:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Stone Age]
+[06Jul2025 22:05:53.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny suffocated in a wall
+[06Jul2025 22:05:57.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> XDD
+[06Jul2025 22:07:42.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:07:46.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 22:09:43.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[06Jul2025 22:09:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Sweet Dreams]
+[06Jul2025 22:12:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> XD
+[06Jul2025 22:12:48.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> QUE ISO
+[06Jul2025 22:12:50.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> MAE
+[06Jul2025 22:12:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> ESTE NMAE
+[06Jul2025 22:13:34.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Husk
+[06Jul2025 22:14:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> como q el ejercito
