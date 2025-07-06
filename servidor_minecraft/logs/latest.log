@@ -670,3 +670,5 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 21:01:34.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Ice Bucket Challenge]
 [06Jul2025 21:13:25.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/209713, l='ServerLevel[world]', x=-245.39, y=54.00, z=-778.12] died: yeudy_ drowned
 [06Jul2025 21:15:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Cover Me with Diamonds]
+[06Jul2025 21:27:47.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [When in Rome]
+[06Jul2025 21:30:34.369] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 6 in "main" inventory handler
