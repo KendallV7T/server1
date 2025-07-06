@@ -712,3 +712,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [06Jul2025 22:12:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> ESTE NMAE
 [06Jul2025 22:13:34.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Husk
 [06Jul2025 22:14:05.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> como q el ejercito
+[06Jul2025 22:14:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Is this... blood?]
+[06Jul2025 22:14:33.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Zombie
+[06Jul2025 22:15:31.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/360423, l='ServerLevel[world]', x=17.09, y=63.00, z=-499.27] died: binny was slain by yeudy_
+[06Jul2025 22:16:10.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/360216, l='ServerLevel[world]', x=15.53, y=64.00, z=-494.02] died: binny was slain by yeudy_
+[06Jul2025 22:18:40.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Husk
+[06Jul2025 22:20:18.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[06Jul2025 22:21:36.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <yeudy_> xdd{d{
+[06Jul2025 22:23:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Safe Haven]
