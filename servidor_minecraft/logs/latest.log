@@ -297,3 +297,18 @@
 [07Jul2025 03:49:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Wither Skeleton
 [07Jul2025 04:00:36.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Moiso lost connection: Disconnected
 [07Jul2025 04:00:36.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso left the game
+[07Jul2025 04:28:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2025 04:28:47.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2025 04:28:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2025 04:28:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2025 04:28:47.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2025 04:28:47.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2025 04:28:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2025 04:28:47.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2025 04:28:47.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2025 04:28:47.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2025 04:28:47.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jul2025 04:28:48.163] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jul2025 04:28:48.164] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jul2025 04:28:48.168] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Jul2025 04:28:48.169] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
