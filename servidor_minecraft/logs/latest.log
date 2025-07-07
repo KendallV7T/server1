@@ -261,3 +261,33 @@
 [07Jul2025 02:54:56.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/755577, l='ServerLevel[world]', x=751.22, y=47.02, z=-913.48] died: yeudy_ was slain by binny
 [07Jul2025 02:55:15.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by binny
 [07Jul2025 02:55:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny went up in flames
+[07Jul2025 02:57:45.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/758310, l='ServerLevel[world]', x=751.48, y=46.00, z=-910.57] died: binny walked into fire whilst fighting binny
+[07Jul2025 02:57:46.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/758345, l='ServerLevel[world]', x=751.44, y=46.00, z=-910.55] died: yeudy_ went up in flames
+[07Jul2025 02:58:09.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/758314, l='ServerLevel[world]', x=750.58, y=46.25, z=-910.38] died: binny went up in flames
+[07Jul2025 02:58:11.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/758312, l='ServerLevel[world]', x=752.09, y=46.79, z=-909.04] died: yeudy_ walked into fire whilst fighting yeudy_
+[07Jul2025 02:58:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny went up in flames
+[07Jul2025 02:58:57.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny went up in flames
+[07Jul2025 02:59:21.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/761863, l='ServerLevel[world]', x=754.46, y=45.00, z=-916.24] died: yeudy_ walked into fire whilst fighting Silverfish
+[07Jul2025 02:59:23.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/761874, l='ServerLevel[world]', x=754.06, y=45.00, z=-915.56] died: binny went up in flames
+[07Jul2025 03:01:29.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: binny lost connection: Disconnected
+[07Jul2025 03:01:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny left the game
+[07Jul2025 03:01:31.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Moiso[/127.218.148.102:48951] logged in with entity id 764464 at (58.215479403244935, 72.5625, -452.41683917416805)
+[07Jul2025 03:01:31.526] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Moiso
+[07Jul2025 03:01:31.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso joined the game
+[07Jul2025 03:01:31.532] [Server thread/INFO] [Jade/]: Syncing config to Moiso (d6803dfb-65b9-3514-ae7c-d391c6c02d35)
+[07Jul2025 03:02:02.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: binny[/127.197.141.108:51321] logged in with entity id 765286 at (778.6999999880791, 33.0, -885.4684745576895)
+[07Jul2025 03:02:02.676] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
+[07Jul2025 03:02:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
+[07Jul2025 03:02:02.688] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
+[07Jul2025 03:04:28.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['yeudy_'/764473, l='ServerLevel[world]', x=87.57, y=60.50, z=-416.43] died: yeudy_ was slain by Corpse Fish
+[07Jul2025 03:05:58.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Nightmare Stalker
+[07Jul2025 03:05:58.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Nightmare Stalker
+[07Jul2025 03:08:21.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso fell from a high place
+[07Jul2025 03:09:26.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Zombie
+[07Jul2025 03:14:31.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/781753, l='ServerLevel[world]', x=23.50, y=63.00, z=66.50] died: Moiso burned to death
+[07Jul2025 03:15:29.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Moiso'/782075, l='ServerLevel[world]', x=13.59, y=63.00, z=63.44] died: Moiso burned to death
+[07Jul2025 03:19:10.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: binny lost connection: Disconnected
+[07Jul2025 03:19:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny left the game
+[07Jul2025 03:26:02.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Drowned
+[07Jul2025 03:26:55.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[07Jul2025 03:26:55.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Moiso'/822499, l='ServerLevel[world]', x=42.70, y=69.00, z=-419.93] died: Moiso was slain by Moiso
