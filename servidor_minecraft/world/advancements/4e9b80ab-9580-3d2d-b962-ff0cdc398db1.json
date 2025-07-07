@@ -188,11 +188,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-07 02:23:58 +0000",
       "cooked_beef": "2025-07-07 01:52:33 +0000",
       "porkchop": "2025-07-07 01:37:31 +0000",
       "apple": "2025-07-06 22:40:10 +0000",
       "potato": "2025-07-06 22:16:52 +0000",
       "bread": "2025-07-06 23:04:20 +0000",
+      "golden_apple": "2025-07-07 02:23:50 +0000",
       "rotten_flesh": "2025-07-06 21:55:34 +0000",
       "salmon": "2025-07-06 22:23:09 +0000"
     },
@@ -3273,6 +3275,12 @@
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-07-07 02:26:33 +0000"
     },
     "done": true
   },

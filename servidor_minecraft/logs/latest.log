@@ -224,3 +224,16 @@
 [07Jul2025 02:26:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
 [07Jul2025 02:26:33.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/729470, l='ServerLevel[world]', x=780.88, y=37.00, z=-892.34] died: binny was slain by binny
 [07Jul2025 02:26:36.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Creeper
+[07Jul2025 02:27:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by binny
+[07Jul2025 02:27:09.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[07Jul2025 02:28:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[07Jul2025 02:29:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by binny
+[07Jul2025 02:30:11.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Husk
+[07Jul2025 02:30:31.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[07Jul2025 02:30:31.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 02:30:43.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: binny lost connection: Timed out
+[07Jul2025 02:30:43.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny left the game
+[07Jul2025 02:36:11.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: binny[/127.197.141.108:60041] logged in with entity id 738868 at (699.744390129502, 88.76636799395752, -1202.3576287864432)
+[07Jul2025 02:36:11.514] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
+[07Jul2025 02:36:11.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
+[07Jul2025 02:36:11.519] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
