@@ -196,3 +196,31 @@
 [07Jul2025 02:03:22.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Stray
 [07Jul2025 02:03:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Stray
 [07Jul2025 02:03:52.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has completed the challenge [Champion Hunter]
+[07Jul2025 02:06:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Zombie
+[07Jul2025 02:07:25.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:37669] logged in with entity id 656895 at (744.2886803332808, 68.0, -911.054858969151)
+[07Jul2025 02:07:25.036] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 02:07:25.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 02:07:25.088] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 02:07:58.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by binny
+[07Jul2025 02:08:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was blown up by Creeper
+[07Jul2025 02:08:34.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by binny
+[07Jul2025 02:09:31.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/654604, l='ServerLevel[world]', x=749.83, y=47.00, z=-893.63] died: binny was killed by magic whilst trying to escape binny
+[07Jul2025 02:11:02.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/650922, l='ServerLevel[world]', x=762.79, y=47.00, z=-911.50] died: binny was shot by yeudy_
+[07Jul2025 02:11:44.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has reached the goal [Big Boy]
+[07Jul2025 02:12:42.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/654555, l='ServerLevel[world]', x=759.99, y=47.00, z=-911.52] died: binny was slain by yeudy_
+[07Jul2025 02:14:54.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/654826, l='ServerLevel[world]', x=867.47, y=68.13, z=-1064.75] died: The Killer Bunny burned to death
+[07Jul2025 02:17:18.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/654641, l='ServerLevel[world]', x=731.55, y=70.00, z=-963.99] died: binny burned to death
+[07Jul2025 02:17:38.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[07Jul2025 02:17:38.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 02:17:45.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:36127] logged in with entity id 698338 at (777.3274216954028, 38.0, -888.3717322496526)
+[07Jul2025 02:17:45.230] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 02:17:45.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 02:17:45.280] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 02:21:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Not Today, Thank You]
+[07Jul2025 02:22:28.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Junior Summoner]
+[07Jul2025 02:24:18.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:25:31.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:26:10.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was shot by Skeleton
+[07Jul2025 02:26:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[07Jul2025 02:26:33.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/729470, l='ServerLevel[world]', x=780.88, y=37.00, z=-892.34] died: binny was slain by binny
+[07Jul2025 02:26:36.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Creeper

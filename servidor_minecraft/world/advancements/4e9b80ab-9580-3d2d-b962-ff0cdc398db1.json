@@ -150,6 +150,8 @@
     "criteria": {
       "minecraft:spider": "2025-07-07 01:54:18 +0000",
       "minecraft:husk": "2025-07-06 22:30:09 +0000",
+      "minecraft:silverfish": "2025-07-07 02:12:03 +0000",
+      "minecraft:stray": "2025-07-07 02:03:52 +0000",
       "minecraft:zombie": "2025-07-06 21:53:11 +0000"
     },
     "done": false
@@ -2974,9 +2976,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-07 02:07:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-07 01:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-07 02:21:02 +0000"
     },
     "done": true
   },
@@ -3304,6 +3318,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 02:13:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_flanged_mace": {
     "criteria": {
       "has_silver_ingot": "2025-07-07 01:46:27 +0000"
@@ -3448,6 +3468,12 @@
     },
     "done": true
   },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-07-07 02:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-07-07 01:45:05 +0000"
@@ -3511,6 +3537,12 @@
   "spartanweaponry:recipes/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-07 02:07:29 +0000"
     },
     "done": true
   },
@@ -3610,6 +3642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-07 02:07:29 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-07-07 01:36:23 +0000"
@@ -3619,6 +3657,12 @@
   "spartanweaponry:recipes/silver_katana": {
     "criteria": {
       "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-07-07 02:07:29 +0000"
     },
     "done": true
   },
@@ -3661,6 +3705,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 02:13:49 +0000"
     },
     "done": true
   },
