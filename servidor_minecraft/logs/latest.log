@@ -237,3 +237,27 @@
 [07Jul2025 02:36:11.514] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
 [07Jul2025 02:36:11.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
 [07Jul2025 02:36:11.519] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
+[07Jul2025 02:37:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has reached the goal [Ouch!]
+[07Jul2025 02:40:54.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/743021, l='ServerLevel[world]', x=-7.75, y=78.00, z=-1190.17] died, message: 'Nitwit was shot by Stray'
+[07Jul2025 02:41:15.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/743022, l='ServerLevel[world]', x=10.57, y=77.54, z=-1190.41] died, message: 'Farmer was shot by Stray'
+[07Jul2025 02:41:52.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/743243, l='ServerLevel[world]', x=3.31, y=75.00, z=-1167.49] died, message: 'Fisherman was shot by Pillager'
+[07Jul2025 02:42:04.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/742869, l='ServerLevel[world]', x=-10.21, y=84.50, z=-1209.31] died, message: 'Butcher was slain by Husk'
+[07Jul2025 02:42:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 02:42:48.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/744827, l='ServerLevel[world]', x=-0.37, y=76.00, z=-1176.66] died, message: 'Cleric was shot by Pillager'
+[07Jul2025 02:43:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 02:43:15.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/745584, l='ServerLevel[world]', x=-10.70, y=84.00, z=-1209.73] died, message: 'Librarian was slain by Husk'
+[07Jul2025 02:44:06.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 02:44:40.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:44:43.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/747033, l='ServerLevel[world]', x=65.64, y=66.00, z=-1223.64] died, message: 'Unemployed was slain by binny'
+[07Jul2025 02:45:03.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/747014, l='ServerLevel[world]', x=66.64, y=64.00, z=-1232.87] died: binny was slain by Iron Golem
+[07Jul2025 02:45:11.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/747036, l='ServerLevel[world]', x=68.41, y=64.50, z=-1230.75] died: binny was slain by Iron Golem
+[07Jul2025 02:45:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:46:46.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/747938, l='ServerLevel[world]', x=67.05, y=64.00, z=-1231.32] died: binny was slain by Iron Golem
+[07Jul2025 02:46:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 02:50:07.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['yeudy_'/751759, l='ServerLevel[world]', x=739.47, y=69.00, z=-964.12] died: yeudy_ was shot by binny
+[07Jul2025 02:50:13.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/751867, l='ServerLevel[world]', x=737.59, y=69.00, z=-973.25] died: yeudy_ was shot by binny
+[07Jul2025 02:50:25.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['binny'/751864, l='ServerLevel[world]', x=735.47, y=69.00, z=-980.61] died: binny was slain by binny
+[07Jul2025 02:50:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by binny
+[07Jul2025 02:54:56.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['yeudy_'/755577, l='ServerLevel[world]', x=751.22, y=47.02, z=-913.48] died: yeudy_ was slain by binny
+[07Jul2025 02:55:15.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by binny
+[07Jul2025 02:55:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny went up in flames
