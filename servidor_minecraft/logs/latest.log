@@ -2,3 +2,197 @@
 [07Jul2025 00:45:37.819] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
 [07Jul2025 00:45:37.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
 [07Jul2025 00:45:37.826] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 01:10:34.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Enderman
+[07Jul2025 01:11:46.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ was kicked for floating too long!
+[07Jul2025 01:11:46.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Flying is not enabled on this server
+[07Jul2025 01:11:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 01:12:01.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:59893] logged in with entity id 563499 at (96.41719126706211, 64.46061902239757, -501.1852455287165)
+[07Jul2025 01:12:01.117] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 01:12:01.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 01:12:01.121] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 01:13:42.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: binny[/127.225.55.3:43351] logged in with entity id 565226 at (43.699617884960475, 65.0, -1201.7146934293814)
+[07Jul2025 01:13:42.435] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
+[07Jul2025 01:13:42.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
+[07Jul2025 01:13:42.439] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
+[07Jul2025 01:13:56.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:00.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:01.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:03.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:07.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:08.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:11.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 01:14:11.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:12.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:13.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:14.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:17.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:19.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:19.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:20.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:23.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:25.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:25.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:26.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:30.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:31.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:32.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:32.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:36.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:36.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny went off with a bang
+[07Jul2025 01:14:37.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:38.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:39.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:42.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:43.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:44.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:45.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:48.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:50.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:50.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:51.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:54.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:56.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:56.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:14:57.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:01.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:02.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:03.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:03.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:07.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:08.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:09.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 01:15:10.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:13.420] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:14.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:15.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:16.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:19.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:21.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:21.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:22.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:25.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:27.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:27.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:28.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:32.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:33.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:34.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:34.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['binny'/564334, l='ServerLevel[world]', x=550.41, y=65.00, z=-640.66] died: binny was shot by yeudy_
+[07Jul2025 01:15:34.841] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:38.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:39.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:40.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:41.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:44.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:45.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:46.524] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:47.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:50.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:50.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 01:15:52.028] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:52.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:53.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:56.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:58.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <binny> [x:45, y:63, z:-1246, dim:minecraft:overworld]
+[07Jul2025 01:15:58.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:15:59.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:03.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:04.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:05.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:05.829] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:09.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:10.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:11.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:12.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:15.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:16.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:17.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:18.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:21.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:23.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:23.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:24.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:27.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:29.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:29.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:30.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:33.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:34.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:35.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:36.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:36.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:40.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:41.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:42.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:43.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jul2025 01:16:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Death Worm
+[07Jul2025 01:17:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 01:17:30.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Sandstone Golem
+[07Jul2025 01:17:39.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [The Desert Swimmers]
+[07Jul2025 01:18:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Death Worm
+[07Jul2025 01:18:16.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[07Jul2025 01:18:16.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 01:18:24.666] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25861fa7[id=<null>,name=yeudy_,properties={},legacy=false] (/127.224.4.58:55509) lost connection: Disconnected
+[07Jul2025 01:18:44.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:35823] logged in with entity id 580204 at (22.393509132002716, 63.0, -0.4110290309450527)
+[07Jul2025 01:18:44.279] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 01:18:44.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 01:18:44.324] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 01:19:21.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[07Jul2025 01:19:21.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 01:19:34.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@572f6168[id=<null>,name=yeudy_,properties={},legacy=false] (/127.224.4.58:49039) lost connection: Disconnected
+[07Jul2025 01:19:39.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:46971] logged in with entity id 580732 at (27.69999998807907, 61.13018132389498, -4.192652640278486)
+[07Jul2025 01:19:39.584] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 01:19:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 01:19:39.622] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 01:21:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Iron Golem
+[07Jul2025 01:23:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [A Bigger Blade]
+[07Jul2025 01:26:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Paul Atreides]
+[07Jul2025 01:28:57.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Its Like Printing my Own Money!]
+[07Jul2025 01:29:16.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Myrmex Soldier
+[07Jul2025 01:29:38.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was slain by Myrmex Soldier
+[07Jul2025 01:30:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [The Only Good Bug...]
+[07Jul2025 01:32:09.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: binny lost connection: Disconnected
+[07Jul2025 01:32:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny left the game
+[07Jul2025 01:32:22.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: binny[/127.225.55.3:43707] logged in with entity id 594235 at (700.4053271263731, 67.0, -835.9588605155801)
+[07Jul2025 01:32:22.523] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player binny
+[07Jul2025 01:32:22.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny joined the game
+[07Jul2025 01:32:22.583] [Server thread/INFO] [Jade/]: Syncing config to binny (4e9b80ab-9580-3d2d-b962-ff0cdc398db1)
+[07Jul2025 01:32:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [What Was That!?]
+[07Jul2025 01:33:16.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was blown up by Creeperling
+[07Jul2025 01:33:25.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ was blown up by Creeper
+[07Jul2025 01:36:52.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Bloodthirsty]
+[07Jul2025 01:39:26.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Amateur Archaeologist]
+[07Jul2025 01:40:25.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ moved too quickly! 6.6811916579569015,2.1279201754637285,-7.197372255474761
+[07Jul2025 01:40:26.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[07Jul2025 01:40:26.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 01:40:47.168] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72bdc7b4[id=<null>,name=yeudy_,properties={},legacy=false] (/127.224.4.58:48737) lost connection: Disconnected
+[07Jul2025 01:40:58.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:52909] logged in with entity id 607499 at (693.0826874663065, 68.83843896378136, -867.4624442941642)
+[07Jul2025 01:40:58.078] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 01:40:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 01:40:58.140] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 01:41:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Fisticuffs]
+[07Jul2025 01:42:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ has made the advancement [Fisticuffs]
+[07Jul2025 01:42:54.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Disconnected
+[07Jul2025 01:42:54.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 01:44:41.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was slain by Myrmex Worker
+[07Jul2025 01:45:46.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has made the advancement [Its Like Printing my Own Money!]
+[07Jul2025 01:51:08.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yeudy_[/127.224.4.58:36275] logged in with entity id 627354 at (696.5054761439239, 69.13986808027111, -870.3386954461275)
+[07Jul2025 01:51:08.026] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player yeudy_
+[07Jul2025 01:51:08.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ joined the game
+[07Jul2025 01:51:08.068] [Server thread/INFO] [Jade/]: Syncing config to yeudy_ (7ee2fb84-77d1-39f1-9e58-35734d19d4a2)
+[07Jul2025 01:52:08.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: yeudy_ lost connection: Timed out
+[07Jul2025 01:52:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yeudy_ left the game
+[07Jul2025 01:56:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 01:56:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 01:57:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 01:58:40.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was blown up by Creeper
+[07Jul2025 02:00:34.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Stray
+[07Jul2025 02:00:47.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:01:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:01:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Skeleton
+[07Jul2025 02:03:05.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Stray
+[07Jul2025 02:03:22.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Stray
+[07Jul2025 02:03:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny was shot by Stray
+[07Jul2025 02:03:52.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: binny has completed the challenge [Champion Hunter]

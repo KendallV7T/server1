@@ -71,6 +71,7 @@
       "minecraft:sparse_jungle": "2025-07-06 21:57:23 +0000",
       "minecraft:lukewarm_ocean": "2025-07-06 22:28:18 +0000",
       "minecraft:river": "2025-07-06 21:53:22 +0000",
+      "minecraft:stony_shore": "2025-07-07 01:34:20 +0000",
       "minecraft:forest": "2025-07-06 21:51:28 +0000",
       "minecraft:desert": "2025-07-06 22:03:11 +0000",
       "minecraft:warm_ocean": "2025-07-06 22:29:35 +0000",
@@ -147,6 +148,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-07-07 01:54:18 +0000",
       "minecraft:husk": "2025-07-06 22:30:09 +0000",
       "minecraft:zombie": "2025-07-06 21:53:11 +0000"
     },
@@ -184,6 +186,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-07-07 01:52:33 +0000",
+      "porkchop": "2025-07-07 01:37:31 +0000",
       "apple": "2025-07-06 22:40:10 +0000",
       "potato": "2025-07-06 22:16:52 +0000",
       "bread": "2025-07-06 23:04:20 +0000",
@@ -2883,6 +2887,786 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-06 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-07-07 01:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-07-07 01:30:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_tower_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_saber": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 01:49:47 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-07-07 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-07 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_javelin": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 01:49:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_spear": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 01:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-07 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-07-07 01:32:47 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_warhammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-07 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-07 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-07-07 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_glaive": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battleaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-07 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-07 01:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:cestus": {
+    "criteria": {
+      "has_cestus": "2025-07-07 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_greatsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-07 01:45:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-07 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 01:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-07 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_scythe": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_parrying_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-07 01:55:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/studded_cestus": {
+    "criteria": {
+      "has_cestus": "2025-07-07 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-07 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_flanged_mace": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_quarterstaff": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-07-07 01:37:13 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/silver_battle_hammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-07 01:45:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-07 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_boomerang": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_heavy_crossbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 01:49:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-07 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-07 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-07-07 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-07 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-07 01:45:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_halberd": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_throwing_knife": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 02:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-07 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 02:02:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-07 01:45:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_lance": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_rapier": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-07-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-07 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-07 01:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-07 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_katana": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_pike": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-07 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-07 01:39:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-07 01:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-07-07 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-07 01:53:27 +0000"
     },
     "done": true
   },
