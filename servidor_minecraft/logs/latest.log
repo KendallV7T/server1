@@ -294,3 +294,4 @@
 [07Jul2025 03:38:32.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Moiso
 [07Jul2025 03:39:33.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Moiso'/829719, l='ServerLevel[world]', x=62.37, y=68.00, z=-420.43] died: Moiso died because of Moiso
 [07Jul2025 03:40:08.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Moiso'/829642, l='ServerLevel[world]', x=45.47, y=69.00, z=-423.27] died: Moiso was slain by Moiso
+[07Jul2025 03:49:56.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Moiso was slain by Wither Skeleton
